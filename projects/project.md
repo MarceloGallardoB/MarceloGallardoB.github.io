@@ -1,20 +1,21 @@
 ---
-title: My Project
+title: Información Académica
 layout: page
 ---
 
-## Inspiration
+## Intereses
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Control en tiempo continuo, sistemas dinámicos reales, optimización estática, análisis real y convexo, teoría del consumidor, econometría clásica, redes neuronales, series de tiempo, modelos económicos, teoría económica, crecimiento entre otros. 
 
-## What it does
+## Estudios
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+(2017; 2018) Bachillerato Francés, serie S (científica) con especialidad Matemática. (2019-1) EE.GG.LL PUCP. (2019-2; 2021-1) Física (B.S) EPFL. EE.GG.CC PUCP. (2022-1;) FACI Matemáticas PUCP. 
 
-## How we built it
+## Proyectos
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lecture notes: microeconomía, econometría, optimización y análisis real. Libro (t.b.p): Sitemas Dinámicos y Control para el análisis económico. Working Paper: métodos cuantitativos aplicados a la finanzas. Solucionario Mas-Colell, Whintson y Jerry. 
 
-## Challenge we ran into
+## Concursos
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Concursos Inciación a la Investigación Científica (EE.GG.CC):  ganador categoría individual años 2020 y 2021. 
+
