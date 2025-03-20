@@ -97,43 +97,6 @@ permalink: /experience/
     </div>
   </div>
   
-   <h2> Complementary Education </h2>
-  
-  <div class="card">
-    <div class="card-header">
-      <img draggable="false" src="{{ "/assets/img/institutions/qlab_logo.png" |
-        relative_url }}" alt="QLab Logo">
-    </div>
-    <div class="card-body">
-      <h5 class="card-title">QLab</h5>
-      <p class="card-text">
-        <a href="https://qlab.pucp.edu.pe/">Pontificia Universidad Católica del
-          Perú</a>
-      </p>
-      <p class="card-text">Summer and Winter School 2022, 2023, and 2024</p>
-    </div>
-  </div>
-  
-  <div class="card">
-    <div class="card-header">
-      <img draggable="false" src="{{ "/assets/img/institutions/harvard-logo.png" |
-        relative_url }}" alt="Harvard Logo">
-    </div>
-    <div class="card-body">
-      <h5 class="card-title">Harvard University</h5>
-      <p class="card-text">
-        Professor <a
-          href="https://professional.dce.harvard.edu/faculty/mark-esposito/">Mark
-          Esposito</a>
-      </p>
-      <p class="card-text">
-        <a href="{{ "/files/courses/education-and-experience/harvard_pucp.pdf" |
-          relative_url }}">Certificate</a>
-      </p>
-      <p class="card-text">Aug. 2024</p>
-    </div>
-  </div>
-  
    <h2>Research Assistance </h2>
   
   <div class="card">
