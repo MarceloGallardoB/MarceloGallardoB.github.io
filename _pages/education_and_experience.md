@@ -26,6 +26,26 @@ permalink: /experience/
   h2:first-child {
     margin-top: 0px;
   }
+ h4 {
+    margin: 25px 0;
+  }
+  
+  .card-header img {
+    display: block;
+    margin: 0;
+  }
+  
+  .card-body {
+    text-align: left;
+  }
+  
+  @media (max-width: 768px) {
+    .card {
+      width: 100%;
+      margin: 10px 0;
+    }
+  }
+</style>
 
 
 <div class="card">
@@ -136,27 +156,7 @@ permalink: /experience/
     </p>
     <p class="card-text">2024 - now</p>
 
-  h4 {
-    margin: 25px 0;
-  }
-  
-  .card-header img {
-    display: block;
-    margin: 0;
-  }
-  
-  .card-body {
-    text-align: left;
-  }
-  
-  @media (max-width: 768px) {
-    .card {
-      width: 100%;
-      margin: 10px 0;
-    }
-  }
-</style>
-
+ 
 <div class="content-experience">
   <!-- Education -->
   <h2>Education</h2>
@@ -240,8 +240,8 @@ permalink: /experience/
     <p class="card-text">
       With Professors <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes" target="_blank">Jorge Chávez</a> | <a href="https://www.pucp.edu.pe/profesor/pavel-coronado-castellanos" target="_blank">Pavel Coronado</a> | <a href="https://es.wikipedia.org/wiki/Jos%C3%A9_Gallardo_Ku" target="_blank">José Gallardo Ku</a>
     </p>
-=======
-  
+       </div>
+  </div>
   <div class="card">
     <div class="card-header">
       <img draggable="false" src="{{ "/assets/img/institutions/LyceeFrancoPeruvien.png" | relative_url }}" alt="PUCP Logo">
@@ -357,7 +357,8 @@ permalink: /experience/
     <p class="card-text">
       <a href="{{ "/files/education-and-experience/admission_l_X.pdf" | relative_url }}">Admission</a>
     </p>
-
+   </div>
+  </div>
   
   <div class="card">
     <div class="card-header">
@@ -430,7 +431,10 @@ permalink: /experience/
       </p>
     </div>
   </div>
-
+ <div class="card">
+    <div class="card-header">
+      <img draggable="false" src="{{ "/assets/img/institutions/pucp-logo.png" | relative_url }}" alt="PUCP Logo">
+    </div>
   <div class="card-body">
     <h5 class="card-title"> Contest Initiation to scientific research</h5>
     <p class="card-text">Winner in the individual class</p>
@@ -452,7 +456,8 @@ permalink: /experience/
       <a href="https://www.pucp.edu.pe/carrera/matematicas/">Pontificia Universidad Católica del Perú (PUCP)</a>
     </p>
     <p class="card-text">2024</p>
-
+     </div>
+  </div>
   
   <!-- Research Assistance -->
   <h2>Research Assistance</h2>
