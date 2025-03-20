@@ -66,7 +66,7 @@ permalink: /teaching/
   <div class="card">
     <div class="card-body">
       <h5 class="card-title">
-        <a href="https://MarceloGallardoB.github.io/files/SyllabusIOP224.pdf"
+        <a href="https://MarceloGallardoB.github.io/files/courses/Optimization/1/2024/1/Syllabus IOP 1_2024.pdf"
           target="_blank">Operations Research (Convex Optimization)</a>
       </h5>
       <p class="card-text">
@@ -87,7 +87,7 @@ permalink: /teaching/
     <div class="card-body">
       <h5 class="card-title">
         <a
-          href="https://MarceloGallardoB.github.io/files/1MAT33-2024-1-SILABO.PDF"
+          href="https://MarceloGallardoB.github.io/files/courses/Functional-analysis/Functional_analisis1MAT33-2024-1-SILABO.PDF"
           target="_blank">Functional Analysis</a>
       </h5>
       <p class="card-text">
