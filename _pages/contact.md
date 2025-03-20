@@ -4,6 +4,14 @@ title: "Information Contact"
 permalink: /contact/
 ---
 
+<style>
+
+    h2{
+        margin-bottom: 15px;
+    }
+
+</style>
+
 {% include contact.html %}
 
 ## Address
