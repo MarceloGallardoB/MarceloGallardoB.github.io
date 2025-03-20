@@ -58,7 +58,7 @@ permalink: /teaching/
 
 #### Faculty of Sciences and Engineering, Department of Mathematics
 
-<div style="margin-left: 60px;">
+
    <div class="card" style="width:50%; margin-left: 20px;">
       <div class="card-body">
         <h5 class="card-title"><a href="https://marcelogallardob.github.io/files/courses/Optimization/1/2024/1/Optimization_IOP224-2024-1-SILABO.PDF" target="_blank">Operations Research (Convex Optimization)</a></h5>
@@ -85,7 +85,7 @@ permalink: /teaching/
           <a href="{{ "/courses/functional-analysis/2024-1" | relative_url }}">2024-1</a>
         </p>
       </div>
-
+ </div>
 <div class="content-teaching">
   <div>
     <h2>Teaching Assistance</h2>
