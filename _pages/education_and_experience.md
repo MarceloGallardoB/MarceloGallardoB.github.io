@@ -97,8 +97,6 @@ permalink: /experience/
     </div>
   </div>
   
-  ---
-  
    <h2> Complementary Education </h2>
   
   <div class="card">
@@ -135,8 +133,6 @@ permalink: /experience/
       <p class="card-text">Aug. 2024</p>
     </div>
   </div>
-  
-  ---
   
    <h2>Research Assistance </h2>
   
@@ -199,8 +195,6 @@ permalink: /experience/
       <p class="card-text">2022 - 2024</p>
     </div>
   </div>
-  
-  ---
   
   <h2>Teaching Experience </h2>
   
@@ -352,8 +346,6 @@ permalink: /experience/
       </p>
     </div>
   </div>
-  
-  ---
   
    <h2>Awards & Honors </h2>
   
