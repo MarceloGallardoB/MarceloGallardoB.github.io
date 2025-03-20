@@ -99,7 +99,7 @@ permalink: /experience/
   
   ---
   
-  ## Complementary Education
+   <h2> Complementary Education </h2>
   
   <div class="card">
     <div class="card-header">
@@ -138,7 +138,7 @@ permalink: /experience/
   
   ---
   
-  ## Research Assistance
+   <h2>Research Assistance </h2>
   
   <div class="card">
     <div class="card-header">
@@ -202,7 +202,7 @@ permalink: /experience/
   
   ---
   
-  ## Teaching Experience
+  <h2>Teaching Experience </h2>
   
   <div class="card">
     <div class="card-header">
@@ -332,7 +332,6 @@ permalink: /experience/
         src="{{ "/assets/img/institutions/ecole-paris.png" | relative_url }}"
         alt="École Polytechnique Logo">
     </div>
-  
     <div class="card-body">
       <h5 class="card-title">Mathematics, PUCP</h5>
       <p class="card-text">
@@ -356,7 +355,7 @@ permalink: /experience/
   
   ---
   
-  ## Awards & Honors
+   <h2>Awards & Honors </h2>
   
   <div class="card">
     <div class="card-header">
