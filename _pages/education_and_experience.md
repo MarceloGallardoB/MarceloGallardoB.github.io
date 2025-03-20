@@ -322,24 +322,32 @@ permalink: /experience/
   </div>
 </div>
 
-<div class="card-body">
-  <h5 class="card-title">Mathematics, PUCP</h5>
-  <p class="card-text">
-    <a href="{{ "/courses/optimization-i/2024-1" | relative_url
-      }}">Optimization I</a>
-    |
-    <a href="{{ "/courses/functional-analysis/2024-1" | relative_url
-      }}">Functional Analysis</a>
-  </p>
-  <p class="card-text">
-    With Professors <a
-      href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes"
-      target="_blank">Jorge Chávez</a> | <a
-      href="https://www.pucp.edu.pe/profesor/percy-fernandez-sanchez"
-      target="_blank">Percy Fernández</a> | and guest Professor <a
-      href="https://eml.berkeley.edu/~fechenique/" target="_blank">Federico
-      Echenique</a>
-  </p>
+<div class="card">
+  <div class="card-header">
+    <img draggable="false"
+      src="{{ "/assets/img/institutions/ecole-paris.png" | relative_url }}"
+      alt="École Polytechnique Logo">
+  </div>
+
+  <div class="card-body">
+    <h5 class="card-title">Mathematics, PUCP</h5>
+    <p class="card-text">
+      <a href="{{ "/courses/optimization-i/2024-1" | relative_url
+        }}">Optimization I</a>
+      |
+      <a href="{{ "/courses/functional-analysis/2024-1" | relative_url
+        }}">Functional Analysis</a>
+    </p>
+    <p class="card-text">
+      With Professors <a
+        href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes"
+        target="_blank">Jorge Chávez</a> | <a
+        href="https://www.pucp.edu.pe/profesor/percy-fernandez-sanchez"
+        target="_blank">Percy Fernández</a> | and guest Professor <a
+        href="https://eml.berkeley.edu/~fechenique/" target="_blank">Federico
+        Echenique</a>
+    </p>
+  </div>
 </div>
 
 ---
@@ -597,17 +605,25 @@ permalink: /experience/
     </div>
   </div>
 
-  <div class="card-body">
-    <h5 class="card-title">Research at PUCP</h5>
-    <p class="card-text">
-      <a href="https://www.pucp.edu.pe/carrera/matematicas/">Pontificia
-        Universidad Católica del Perú (PUCP)</a>
-    </p>
-    <p class="card-text">
-      Working with Professor <a
-        href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes"
-        target="_blank">Jorge Richard Chávez Fuentes</a>
-    </p>
-    <p class="card-text">2022 - now</p>
+  <div class="card">
+    <div class="card-header">
+      <img draggable="false"
+        src="{{ "/assets/img/institutions/pucp-logo.png" | relative_url }}"
+        alt="PUCP Logo">
+    </div>
+    <div class="card-body">
+      <h5 class="card-title">Research at PUCP</h5>
+      <p class="card-text">
+        <a href="https://www.pucp.edu.pe/carrera/matematicas/">Pontificia
+          Universidad Católica del Perú (PUCP)</a>
+      </p>
+      <p class="card-text">
+        Working with Professor <a
+          href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes"
+          target="_blank">Jorge Richard Chávez Fuentes</a>
+      </p>
+      <p class="card-text">2022 - now</p>
+    </div>
   </div>
+
 </div>
