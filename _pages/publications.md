@@ -34,7 +34,7 @@ permalink: /publication/
   Books and lecture notes.
 
     h2{
-      margin-bottom: 15px;
+      margin-bottom: 15px !important;
     }
 
   </style>
