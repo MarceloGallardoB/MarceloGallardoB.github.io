@@ -175,7 +175,7 @@ permalink: /experience/
     </div>
   </div>
   
-   <div class="card">
+  <div class="card">
     <div class="card-header">
       <img draggable="false" src="{{ "/assets/img/institutions/pucp-logo.png" |
         relative_url }}" alt="PUCP Logo">
@@ -205,35 +205,7 @@ permalink: /experience/
       </p>
       <p class="card-text">2024</p>
     </div>
-  </div>
-
-  <div class="card">
-    <div class="card-header">
-      <img draggable="false"
-        src="{{ "/assets/img/institutions/ecole-paris.png" | relative_url }}"
-        alt="École Polytechnique Logo">
-    </div>
-    <div class="card-body">
-      <h5 class="card-title">Mathematics, PUCP</h5>
-      <p class="card-text">
-        <a href="{{ "/courses/optimization-i/2024-1" | relative_url
-          }}">Optimization I</a>
-        |
-        <a href="{{ "/courses/functional-analysis/2024-1" | relative_url
-          }}">Functional Analysis</a>
-      </p>
-      <p class="card-text">
-        With Professors <a
-          href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes"
-          target="_blank">Jorge Chávez</a> | <a
-          href="https://www.pucp.edu.pe/profesor/percy-fernandez-sanchez"
-          target="_blank">Percy Fernández</a> | and guest Professor <a
-          href="https://eml.berkeley.edu/~fechenique/" target="_blank">Federico
-          Echenique</a>
-      </p>
-    </div>
-  </div>
-  
+  </div>  
 
   <!-- Teaching Experience -->
   <h2>Teaching Experience</h2>
