@@ -324,6 +324,26 @@ permalink: /experience/
       <p class="card-text">2022 - 2024</p>
     </div>
   </div>
+
+  <div class="card">
+    <div class="card-header">
+      <img draggable="false" src="{{ "/assets/img/institutions/pucp-logo.png"
+        | relative_url }}" alt="PUCP Logo">
+    </div>
+    <div class="card-body">
+      <h5 class="card-title">PUCP</h5>
+      <p class="card-text">
+        <a
+          href="https://cris.pucp.edu.pe/en/persons/jorge-richard-chavez-fuentes">PUCP</a>
+      </p>
+      <p class="card-text">
+        Worked with Professor <a
+          href="https://cris.pucp.edu.pe/en/persons/jorge-richard-chavez-fuentes"
+          target="_blank">Jorge Chavez</a>
+      </p>
+      <p class="card-text">2021 - 2024</p>
+    </div>
+  </div>
   
  
 </div>
