@@ -15,14 +15,14 @@ permalink: /publication/books/
 {% include publications.html %}
 ## Books
 
-* **Linear Algebra and Optimization for Economists** - Submitted to [Fondo Editorial PUCP](https://www.fondoeditorial.pucp.edu.pe/)  
+* Linear Algebra and Optimization for Economists - Submitted to [Fondo Editorial PUCP](https://www.fondoeditorial.pucp.edu.pe/)  
   [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge_chavez_fuentes) and Marcelo Gallardo. Foreword by Professor [Cesar Martinelli](https://sites.google.com/site/martinellicesar/home). 
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/Index_ALOECO.pdf" | relative_url }}" target="_blank">Index</a></summary>
     Pre-published book about Linear Algebra and Static Optimization for Economists. Covers topics such as convex analysis, constrained optimization, and economic applications.
   </details>
 
-* **Dynamical Systems and Optimal Control for Economists** - Under review  
+* Dynamical Systems and Optimal Control for Economists - Under review  
   [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge_chavez_fuentes) and Marcelo Gallardo.  
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/Index_DSOC.pdf" | relative_url }}" target="_blank">Index</a></summary>
@@ -33,7 +33,7 @@ permalink: /publication/books/
 
 ## Lecture Notes
 
-* **Fundamentals of Econometric Theory** - Published at [Decon PUCP](https://departamento-economia.pucp.edu.pe/investigacion/materiales-de-ensenanza)  
+* Fundamentals of Econometric Theory - Published at [Decon PUCP](https://departamento-economia.pucp.edu.pe/investigacion/materiales-de-ensenanza)  
   [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/) and Marcelo Gallardo.  
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/ME-13.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
@@ -44,7 +44,7 @@ permalink: /publication/books/
     **New:** The second version will include more examples and an introduction to time series.
   </details>
 
-* **Notes on Optimal Transport Theory and its Applications in Economics and Finance**  
+* Notes on Optimal Transport Theory and its Applications in Economics and Finance  
   Marcelo Gallardo and Carlos Cosentino. Final project for the course *Introduction to Optimal Transport*, taught by [Johel Beltrán](https://emap.fgv.br/en/professors/johel-victorino-beltran-ramirez).  
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/optimal_transport_para_economistas.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
@@ -53,7 +53,7 @@ permalink: /publication/books/
     The document includes an appendix to support understanding and is intended for advanced students interested in economic and financial applications of optimal transport.
   </details>
 
-* **About Brouwer Fixed Point Theorem and its Application in General Equilibrium**  
+* About Brouwer Fixed Point Theorem and its Application in General Equilibrium  
   Marcelo Gallardo, Carlos Cosentino, and Eduardo Llamoca.  
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/brouwer_fixed_point_theorem.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
