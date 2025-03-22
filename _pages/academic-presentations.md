@@ -77,4 +77,45 @@ permalink: /academic-presentation/
       </p>
     </details>
   </div>
+
+ <div class="presentation-item">
+    <p style="color: #003d90">
+      <strong>
+          Introduction to mechanism design  
+      </strong>
+    </p>
+    <p><em>For Financial Microeconomics, Finance PUCP</em></p>
+    <details>
+      <summary>
+        Summary | <a style="color: #003d90" href="{{ '/files/slides/principio_revelacion.pdf' | relative_url }}" target="_blank">Slides</a>
+      </summary>
+      <p>
+Introduction to mechanism design, the revelation principle, and auctions. Fully based on An Introduction to the Theory of Mechanism Design by Tilman Börgers and Topics in Microeconomics by Elmar Wolfstetter. 
+      </p>
+    </details>
+  </div>
+
+ <div class="presentation-item">
+    <p style="color: #003d90">
+      <strong>
+         General equilibrium under uncertainty
+      </strong>
+    </p>
+    <p><em>For Financial Microeconomics, Finance PUCP</em></p>
+    <details>
+      <summary>
+        Summary | <a style="color: #003d90" href="{{ '/files/slides/equilibrio_incertidumbre.pdf' | relative_url }}" target="_blank">Slides</a>
+      </summary>
+      <p>
+General equilibrium under uncertainty, Radner equilibrium, the CAPM, and the fundamental theory of risk. Based on Mas-Colell et al. (1995).
+      </p>
+    </details>
+  </div>
+
+
 </div>
+
+
+
+
+
