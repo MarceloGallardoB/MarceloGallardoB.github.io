@@ -56,6 +56,8 @@ permalink:  /courses/financial-microeconomics/2024-2/
 ### Slides
 - [Slides with solutions to problem set 3]({{ "/files/courses/Financial-microeconomics/Slides_Problem_set_3_Micro_Fin.pdf" | relative_url }})
 - [Slides with solutions to problem set 4]({{ "/files/courses/Financial-microeconomics/Slides_Problem_set_4_Micro_Fin.pdf" | relative_url }})
+- [Introduction to mechanism design]({{ "/files/slides/principio_revelacion.pdf" | relative_url }})
+- [General equilibrium under uncertainty]({{ "/files/slides/equilibrio_incertidumbre.pdf" | relative_url }})
 
 ---
 
