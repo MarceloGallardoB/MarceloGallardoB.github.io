@@ -61,7 +61,7 @@ permalink:  /courses/financial-microeconomics/2024-2/
 
 ---
 
-### Lecture Notes (with [Karen Montoya](https://www.linkedin.com/in/karen-m-3b9279133/))
+### Lecture Notes
 - [Existence Walrasian Equilibrium]({{ "/files/courses/Financial-microeconomics/Existencia_Equilibrio_Walrasiano_lecture_notes.pdf" | relative_url }})
 - [Stolper-Samuelson]({{ "/files/courses/Financial-microeconomics/stolper_samuelson_lecture_notes.pdf" | relative_url }})
 - [2x2x2]({{ "/files/courses/Financial-microeconomics/2x2x2_lecture_notes.pdf" | relative_url }})
