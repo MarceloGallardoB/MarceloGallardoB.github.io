@@ -37,7 +37,7 @@ permalink: /teaching/
   
   @media (max-width: 768px) {
     .card {
-      width: 90%;
+      width: 100% !important;
       margin: 10px 0;
     }
     
