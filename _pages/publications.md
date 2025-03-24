@@ -16,8 +16,7 @@ permalink: /publication/
       margin-left: 0;
     }
     .content-publications ul {
-      list-style: disc;
-      padding-left: 20px;
+      list-style: none;
     }
     .content-publications a {
       text-decoration: none;
