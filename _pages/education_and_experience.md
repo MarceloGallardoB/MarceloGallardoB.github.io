@@ -45,6 +45,25 @@ permalink: /experience/
       margin: 10px 0;
     }
   }
+   @media (max-width: 300px) {
+    .card {
+      width: 100% !important;
+      margin: 5px 0;
+
+    }
+    
+   .card-header img{
+      width:30px;
+   }
+
+   .card-title{
+      font-size: 14px !important;
+   }
+   .card-text{
+      font-size: 12px !important;
+   }
+
+  }
 </style>
 
 <div class="content-experience">
