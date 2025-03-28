@@ -12,4 +12,4 @@ permalink: /courses/optimization-i/2025-1/
 ---
 
 ### Problem Sets
-- [Problem set 1]({{ "/files/courses/Optimization/1/2025/1/pd_1.pdf" | relative_url }})
+- [Problem set 1]({{ "/files/courses/Optimization/1/2025/1/pd1_iop_2025.pdf" | relative_url }})
