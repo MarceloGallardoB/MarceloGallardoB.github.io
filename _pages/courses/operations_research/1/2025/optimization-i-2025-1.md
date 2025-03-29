@@ -27,7 +27,8 @@ permalink: /courses/optimization-i/2025-1/
 - For general equilibrium: Microeconomic Theory (Mas-Colell et al., 1995), Existence and Optimality of Competitive Equilibria (Aliprantis et al., 1990).
 - For game theory: A Course in Game Theory (Osborne and Rubinstein, 1994), Game Theory for Applied Economists (Robert Gibbons, 1992), Game Theory: Analysis of Conflict (Roger Myerson, 1991).
 - ECON204 UC Berkeley, Chris Shannon course.
-- For advanced studies: Real Analysis with Economic Applications (Efe A. Ok, 2007), Mathematical Economics (Kevin Lancaster, 1968), Optimal Transport Methods in Economics (Algred Galichon, 2016), Optimization by Vector Spaces Methods (David G. Luenberger, 1969).
+- For advanced studies: Real Analysis with Economic Applications (Efe A. Ok, 2007), Mathematical Economics (Kevin Lancaster, 1968), Optimal Transport Methods in Economics (Algred Galichon, 2016), Optimization by Vector Spaces Methods (David G. Luenberger, 1969), Convex Optimization (Stephen Boyd, 2004).
 - [The Extraordinary Theorems of John Nash - with Cédric Villani](https://www.youtube.com/watch?v=iHKa8F-RsEM). Cédric Villani was Fields Medal winner in 2010.
 - Lecture Notes General Equilibrium Theory, from [Federico Echenique](https://eml.berkeley.edu/~fechenique/).
--  
+-  For numerical optimization (not required for the course): Numerical Optimization (Nocedal and Wrigth, 2006),  Optimization, Volume 2: Computational Methods (
+ Izmailov and Solodov, 2007). 
