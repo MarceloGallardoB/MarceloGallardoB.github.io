@@ -45,14 +45,14 @@ permalink: /publication/papers/
 * Political and economic uncertainty indicator for Peru based on Twitter and GPT-3.5 Turbo - New version coming soon  
   [Manuel Loaiza](https://github.com/ManuelLoaizaV), [Marcelo Gallardo](https://marcelogallardob.github.io/), and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/).  
   <details>
-    <summary>Abstract | <a href="{{ "/files/books-and-papers/X-political-and-economic-uncertainty-index-for-Peru.pdf" | relative_url }}" target="_blank">Working paper</a></summary>
+    <summary>Abstract | <a href="" target="_blank">Working paper</a></summary>
     This paper develops a new political-economic uncertainty index based on tweets from influential figures in Peruvian politics and economics. Tweets are analyzed using GPT-3.5 Turbo, generating a time series of political-economic uncertainty.
   </details>
 
 * Price Information and Duopolistic Competition with Seller Cost Uncertainty and Advertising - New version coming soon  
   [Marcelo Gallardo](https://marcelogallardob.github.io/)
   <details>
-    <summary>Abstract | <a href="{{ "/files/books-and-papers/price_information_advertising.pdf" | relative_url }}" target="_blank">Working paper</a></summary>
+    <summary>Abstract | <a href="" target="_blank">Working paper</a></summary>
    We build on Martinelli and Xiao (2024) by introducing a new model of duopolistic competition that incorporates seller cost uncertainty and advertising. Unlike Martinelli and Xiao (2024), our model explicitly includes advertising as a decision variable, leading to a more intricate yet realistic formulation of expected demand. This extension captures the impact of advertising expenditures by each firm, adding a crucial strategic dimension to the analysis. Although our model is formulated for an arbitrary positive integer number of firms, most of our analysis focuses on the case of two firms, placing it within the framework of a duopoly. This choice is driven by the algebraic complexity introduced by advertising, which significantly complicates the transition to a more general setting. We examine two scenarios: one where advertising is exogenous, limiting the optimization to pricing decisions, and another where advertising is treated as an endogenous strategic variable. For the exogenous case with J=2, we derive analytical results, while for the more general cases, we rely on numerical analysis to explore the equilibrium outcomes.
   </details>
 
