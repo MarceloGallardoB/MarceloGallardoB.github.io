@@ -82,7 +82,7 @@ permalink: /academic-presentation/
  <div class="presentation-item">
     <p>
       <strong>
-        Convergencia del método de Nelder-Mead simplex en dimensiones bajas y aplicaciones en economía
+       Convergence of the Nelder–Mead Simplex Method in Low Dimensions and Applications in Economics
       </strong>
     </p>
     <p><em>For Numerical Analysis, Mathematics PUCP</em></p>
