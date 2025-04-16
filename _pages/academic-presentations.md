@@ -91,7 +91,7 @@ permalink: /academic-presentation/
         Summary | <a style="color: #003d90" href="{{ '/files/slides/nelder_mead_slides.pdf' | relative_url }}" target="_blank">Slides</a>
       </summary>
       <p>
-        As part of the final assignment for the course <em>Numerical Analysis (2024-2)</em>, I presented the article <em>Convergence properties of the nelder-mead simplex method in low dimensions.</em> e?rey Lagarias, James Reeds, M. W. and Wright, P. (1998). <br>
+        As part of the final assignment for the course <em>Numerical Analysis (2024-2)</em>, I presented the article <em>Convergence properties of the nelder-mead simplex method in low dimensions.</em> Jeffrey Lagarias, James Reeds, M. W. and Wright, P. (1998). <br>
       </p>
     </details>
   </div>
