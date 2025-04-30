@@ -148,7 +148,7 @@ permalink: /experience/
           Esposito</a>
       </p>
       <p class="card-text">
-        <a href="{{ "/files/courses/education-and-experience/harvard_pucp.pdf"
+        <a href="{{ "/files/education-and-experience/harvard_certificate.pdf"
           | relative_url }}">Certificate</a>
       </p>
       <p class="card-text">Aug. 2024</p>
