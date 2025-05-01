@@ -18,6 +18,6 @@ permalink: /
 
 {% include index.html %}
 
-Mathematician from the Pontificia Universidad Católica del Perú (PUCP) with a concentration in economics. I am also a teaching and research assistant. My research interests include Consumer Theory, Matching Theory, Optimal Control, and Optimal Transport applied to Economics.
+Mathematician from the Pontificia Universidad Católica del Perú (PUCP) with a concentration in economics. I am also a teaching and research assistant. 
 
 Contact information [here]({{ "/contact" | relative_url }}) and CV [here]({{ "/files/education-and-experience/cv_mg.pdf" | relative_url }}).
