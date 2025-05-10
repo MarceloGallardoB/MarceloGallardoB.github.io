@@ -18,7 +18,7 @@ permalink: /courses/optimization-i/2025-1/
 
 ### Graded problem Sets
 - [Graded problem set 1]({{ "/files/courses/Optimization/1/2025/pc1_iop_2025.pdf" | relative_url }})
-- [Graded problem set 2]({{ "/files/courses/Optimization/1/2025/pc2_iop_2025.pdf" | relative_url }})
+- [Graded problem set 2]({{ "/files/courses/Optimization/1/2025/pc2_2025.pdf" | relative_url }})
 
 
 ### Solutions to graded problem Sets
