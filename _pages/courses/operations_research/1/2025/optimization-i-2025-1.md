@@ -16,6 +16,7 @@ permalink: /courses/optimization-i/2025-1/
 - [Problem set 2]({{ "/files/courses/Optimization/1/2025/pd2_iop_2025.pdf" | relative_url }})
 - [Exercises for the midterm]({{ "/files/courses/Optimization/1/2025/ejercicios_parcial.pdf" | relative_url }})
 - [Problem set 3]({{ "/files/courses/Optimization/1/2025/pd3_iop_2025.pdf" | relative_url }})
+- [Solution to problem set 3]({{ "/files/courses/Optimization/1/2025/sol_pd3.pdf" | relative_url }})
 
 
 ### Graded problem Sets
@@ -26,7 +27,6 @@ permalink: /courses/optimization-i/2025-1/
 ### Solutions to graded problem Sets
 - [Solution to graded problem set 1]({{ "/files/courses/Optimization/1/2025/sol_pc1_iop_2025_1.pdf" | relative_url }})
 - [Solution to graded problem set 2]({{ "/files/courses/Optimization/1/2025/sol_pc2_2025.pdf" | relative_url }})
-- [Solution to graded problem set 3]({{ "/files/courses/Optimization/1/2025/sol_pd3.pdf" | relative_url }})
 
 
 ### Slides
