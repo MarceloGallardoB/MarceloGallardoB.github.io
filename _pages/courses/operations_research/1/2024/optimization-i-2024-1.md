@@ -18,6 +18,7 @@ permalink: /courses/optimization-i/2024-1/
 - [Problem set 4]({{ "/files/courses/Optimization/1/2024/1/Problem_set_4.pdf" | relative_url }})
 - [Midterm preparation]({{ "/files/courses/Optimization/1/2024/1/Midterm-problem-set.pdf" | relative_url }})
 
+
 ---
 
 ### Graded Problem Sets and Exams
@@ -36,6 +37,7 @@ permalink: /courses/optimization-i/2024-1/
 - [Solutions to graded problem set 1]({{ "/files/courses/Optimization/1/2024/1/Graded_problem_set_1_sol.pdf" | relative_url }})
 - [Solutions to graded problem set 2]({{ "/files/courses/Optimization/1/2024/1/Graded_problem_set_2_sol.pdf" | relative_url }})
 - [Solutions to graded problem set 3]({{ "/files/courses/Optimization/1/2024/1/Graded_problem_set_3_sol.pdf" | relative_url }})
+- [Solutions to graded problem set 4]({{ "/files/courses/Optimization/1/2024/1/sol_pc4_v1.pdf" | relative_url }})
 - [Solutions to midterm]({{ "/files/courses/Optimization/1/2024/1/guia_resolucion_parcial_IOP224_lecture_notes.pdf" | relative_url }})
 - [Solutions to final exam]({{ "/files/courses/Optimization/1/2024/1/final_sol.pdf" | relative_url }})
 
