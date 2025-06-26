@@ -16,7 +16,7 @@ permalink:  /courses/financial-microeconomics/2024-2/
 - [Problem set 2]({{ "/files/courses/Financial-microeconomics/Problem_set_2_Micro_Fin.pdf" | relative_url }})
 - [Problem set 3]({{ "/files/courses/Financial-microeconomics/Problem_set_3_Micro_Fin.pdf" | relative_url }})
 - [Problem set 4]({{ "/files/courses/Financial-microeconomics/Problem_set_4_Micro_Fin.pdf" | relative_url }})
-- [Problem set 5]({{ "/files/courses/Financial-microeconomics/Problem_set_5_micro_Fin.pdf" | relative_url }})
+- [Problem set 5]({{ "/files/courses/Financial-microeconomics/Problem_set_5_Micro_Fin.pdf" | relative_url }})
 - [Problem set 6]({{ "/files/courses/Financial-microeconomics/Problem_set_6_Micro_Fin.pdf" | relative_url }})
 - [Problem set 7]({{ "/files/courses/Financial-microeconomics/Problem_set_7_Micro_Fin.pdf" | relative_url }})
 - [Problem set 8]({{ "/files/courses/Financial-microeconomics/Problem_set_8_Micro_Fin.pdf" | relative_url }})
@@ -27,9 +27,9 @@ permalink:  /courses/financial-microeconomics/2024-2/
 ### Solutions to Problem Sets
 - [Solutions to problem set 1]({{ "/files/courses/Financial-microeconomics/Problem_set_1_Micro_Fin_sol.pdf" | relative_url }})
 - [Solutions to problem set 2]({{ "/files/courses/Financial-microeconomics/Problem_set_2_Micro_Fin_sol.pdf" | relative_url }})
-- [Solutions to problem set 3]({{ "/files/courses/Financial-microeconomics/Slides_Problem_set_3_Micro_Fin_sol.pdf" | relative_url }})
-- [Solutions to problem set 4]({{ "/files/courses/Financial-microeconomics/Slides_Problem_set_4_Micro_Fin_sol.pdf" | relative_url }})
-- [Solutions to problem set 6]({{ "/files/courses/Financial-microeconomics/Problem_set_6_Micro_Fin_sol.pdf" | relative_url }})
+- [Solutions to problem set 3]({{ "/files/courses/Financial-microeconomics/Slides_Problem_set_3_Micro_Fin.pdf" | relative_url }})
+- [Solutions to problem set 4]({{ "/files/courses/Financial-microeconomics/Slides_Problem_set_4_Micro_Fin.pdf" | relative_url }})
+- [Solutions to problem set 6]({{ "/files/courses/Financial-microeconomics/sol_pd6_micro_fin.pdf" | relative_url }})
 - [Solutions to problem set 8]({{ "/files/courses/Financial-microeconomics/Problem_set_8_Micro_Fin_sol.pdf" | relative_url }})
 - [Solutions to problem set 9]({{ "/files/courses/Financial-microeconomics/Problem_set_9_Micro_Fin_sol.pdf" | relative_url }})
 
