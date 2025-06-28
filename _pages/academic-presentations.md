@@ -99,16 +99,16 @@ permalink: /academic-presentation/
  <div class="presentation-item">
     <p>
       <strong>
-       Convergence of the Nelder–Mead Simplex Method in Low Dimensions and Applications in Economics
+       Applications of Gröbner bases in general equilibrium and game theory
       </strong>
     </p>
     <p><em>For Numerical Analysis, Mathematics PUCP</em></p>
     <details>
       <summary>
-        Summary | <a style="color: #003d90" href="{{ '/files/slides/nelder_mead_slides.pdf' | relative_url }}" target="_blank">Slides</a>
+        Summary | <a style="color: #003d90" href="{{ '/files/slides/slides_groebner.pdf' | relative_url }}" target="_blank">Slides</a>
       </summary>
       <p>
-        As part of the final assignment for the course <em>Numerical Analysis (2024-2)</em>, I presented the article <em>Convergence properties of the nelder-mead simplex method in low dimensions.</em> Jeffrey Lagarias, James Reeds, M. W. and Wright, P. (1998). <br>
+        As part of the final assignment for the course <em>Advanced Algebra (2025-1)</em>, I presented the article <em>Tackling Multiplicity of Equilibria with Gröbner Bases.</em> Felix Kubler and Karl Schmedders (2010). <br>
       </p>
     </details>
   </div>
