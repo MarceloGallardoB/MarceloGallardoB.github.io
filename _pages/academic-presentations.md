@@ -96,6 +96,24 @@ permalink: /academic-presentation/
     </details>
   </div>
 
+ <div class="presentation-item">
+    <p>
+      <strong>
+       Convergence of the Nelder–Mead Simplex Method in Low Dimensions and Applications in Economics
+      </strong>
+    </p>
+    <p><em>For Numerical Analysis, Mathematics PUCP</em></p>
+    <details>
+      <summary>
+        Summary | <a style="color: #003d90" href="{{ '/files/slides/nelder_mead_slides.pdf' | relative_url }}" target="_blank">Slides</a>
+      </summary>
+      <p>
+        As part of the final assignment for the course <em>Numerical Analysis (2024-2)</em>, I presented the article <em>Convergence properties of the nelder-mead simplex method in low dimensions.</em> Jeffrey Lagarias, James Reeds, M. W. and Wright, P. (1998). <br>
+      </p>
+    </details>
+  </div>
+
+
 
 </div>
 
