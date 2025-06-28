@@ -102,7 +102,7 @@ permalink: /academic-presentation/
        Applications of Gröbner bases in general equilibrium and game theory
       </strong>
     </p>
-    <p><em>For Numerical Analysis, Mathematics PUCP</em></p>
+    <p><em>For Advanced Algebra, Mathematics PUCP</em></p>
     <details>
       <summary>
         Summary | <a style="color: #003d90" href="{{ '/files/slides/slides_groebner.pdf' | relative_url }}" target="_blank">Slides</a>
