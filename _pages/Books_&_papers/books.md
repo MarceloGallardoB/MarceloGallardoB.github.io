@@ -67,12 +67,14 @@ permalink: /publication/books/
   Marcelo Gallardo, following Paul Castillo's classes  
   <details>
     <summary>Summary | <a href="{{ "/files/courses/macroeconomics/rbc_macro_intermedia.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
+    Preliminary draft, please notify any mistake!
   </details>
 
 * RBC with productive public investment
   Marcelo Gallardo  
   <details>
     <summary>Summary | <a href="{{ "/files/courses/macroeconomics/tarea_modulo_2_macro_intermedia.pdf" | relative_url }}" target="_blank">Note</a></summary>
+  Preliminary draft, please notify any mistake!
   </details>
 
 ---
