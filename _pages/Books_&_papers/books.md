@@ -63,4 +63,16 @@ permalink: /publication/books/
     It is important to emphasize that this work does not introduce any new results in the literature. Instead, we focus on developing a clear and understandable approach to Brouwer's Fixed Point Theorem and its applications in general equilibrium.
   </details>
 
+* Real Business Cycles
+  Marcelo Gallardo, following Paul Castillo's classes  
+  <details>
+    <summary>Summary | <a href="{{ "/files/courses/macroeconomics/rbc_macro_intermedia.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
+  </details>
+
+* RBC with productive public investment
+  Marcelo Gallardo  
+  <details>
+    <summary>Summary | <a href="{{ "/files/courses/macroeconomics/tarea_modulo_2_macro_intermedia.pdf" | relative_url }}" target="_blank">Note</a></summary>
+  </details>
+
 ---
