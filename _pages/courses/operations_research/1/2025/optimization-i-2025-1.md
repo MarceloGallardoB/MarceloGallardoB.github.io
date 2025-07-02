@@ -55,5 +55,5 @@ permalink: /courses/optimization-i/2025-1/
 - (10) ECON204 UC Berkeley, [Chris Shannon](https://eml.berkeley.edu/~cshannon/) course.
 - (11) For advanced studies: Real Analysis with Economic Applications (Efe A. Ok, 2007), Mathematical Economics (Kevin Lancaster, 1968), Optimal Transport Methods in Economics (Algred Galichon, 2016), Optimization by Vector Spaces Methods (David G. Luenberger, 1969), Convex Optimization (Stephen Boyd, 2004).
 - (12) [The Extraordinary Theorems of John Nash - with Cédric Villani](https://www.youtube.com/watch?v=iHKa8F-RsEM). Cédric Villani was Fields Medal winner in 2010.
-- (13) Lecture Notes General Equilibrium Theory, from [Federico Echenique](https://eml.berkeley.edu/~fechenique/).
+- (13) Lecture Notes General Equilibrium Theory, by Professor [Federico Echenique](https://eml.berkeley.edu/~fechenique/).
 - (14) For numerical optimization (not required for the course): Numerical Optimization (Nocedal and Wrigth, 2006),  Optimization, Volume 2: Computational Methods (Izmailov and Solodov, 2007). 
