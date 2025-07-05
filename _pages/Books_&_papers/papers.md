@@ -49,10 +49,9 @@ permalink: /publication/papers/
     This paper develops a new political-economic uncertainty index based on tweets from influential figures in Peruvian politics and economics. Tweets are analyzed using GPT-3.5 Turbo, generating a time series of political-economic uncertainty.
   </details>
 
-* Novel innovation indicator for Peruvian universities          
-Marcelo Gallardo and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/).  
+* Field Experiments on Seasonal Products and Markdown Pricing
+Marcelo Gallardo and [Carlos Noton](https://economiayadministracion.uc.cl/docentes/carlos-noton/).  
   <details>
     <summary>Abstract | <a href="" target="_blank">Draft available under request</a></summary>
-   This paper proposes an innovation indicator for Peruvian universities, focusing on scientific innovation in fields such as engineering and pure sciences. The indicator is constructed using a selected dataset (Scopus, TUNI, Sunedu) and confirmatory factor analysis (CFA) to ensure robust measurement, with Tucker-Lewis Index (TLI) and Comparative Fit Index (CFI) used to validate the model fit. K-means clustering is applied to identify innovation clusters among universities. The validity of the indicator is examined through standard correlation with university rankings and econometric analysis linking the indicator with wage per hour and simple overeducation. To address potential sample selection bias, we implement a Heckman two-step correction, incorporating the inverse Mills ratio (IMR) into the wage equation. Additionally, we correct for heteroscedasticity by employing heteroscedasticity-robust standard errors (HC3). For this work, we used ENAHO modules 200-500.
   </details>
 ---
