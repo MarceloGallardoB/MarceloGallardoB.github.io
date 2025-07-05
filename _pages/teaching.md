@@ -55,7 +55,7 @@ permalink: /teaching/
   <div>
     <h2>Teaching Assistance</h2>
      <p style="margin-top: -10px; margin-bottom: 10px;">
-      I have served as a teaching assistant in various undergraduate-level courses in mathematics and economics. All typos are my own—please don't hesitate to point them out! In every qualified examination, any issues were clarified at the moment. 
+      I have served as a teaching assistant in various undergraduate-level courses in mathematics and economics. All typos are my own—please don't hesitate to point them out! 
     </p>
     <h3>
       <img src="{{ '/assets/img/institutions/pucp-logo.png' | relative_url }}"
