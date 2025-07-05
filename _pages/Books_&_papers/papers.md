@@ -50,6 +50,7 @@ permalink: /publication/papers/
   </details>
 
 * Field Experiments on Seasonal Products and Markdown Pricing
+  
 Marcelo Gallardo and [Carlos Noton](https://economiayadministracion.uc.cl/docentes/carlos-noton/).  
   <details>
     <summary>Abstract | <a href="" target="_blank">Coming soon</a></summary>
