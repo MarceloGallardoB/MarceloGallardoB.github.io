@@ -49,9 +49,8 @@ permalink: /publication/papers/
     This paper develops a new political-economic uncertainty index based on tweets from influential figures in Peruvian politics and economics. Tweets are analyzed using GPT-3.5 Turbo, generating a time series of political-economic uncertainty.
   </details>
 
-* Field Experiments on Seasonal Products and Markdown Pricing
-  
-Marcelo Gallardo and [Carlos Noton](https://economiayadministracion.uc.cl/docentes/carlos-noton/).  
+* Field Experiments on Seasonal Products and Markdown Pricing  
+  Marcelo Gallardo and [Carlos Noton](https://economiayadministracion.uc.cl/docentes/carlos-noton/).  
   <details>
     <summary>Abstract | <a href="" target="_blank">Coming soon</a></summary>
   </details>
