@@ -40,8 +40,7 @@ permalink: /publication/books/
     These lecture notes offer a deep dive into econometrics, structured around key themes from matrix algebra basics to statistical models.  
     The content begins with foundational matrix operations and their relevance to econometrics, advancing to multivariate models with a focus on linear models and optimization issues.  
     It also addresses qualitative variables, sampling methods, and experimental designs. Crucial econometric challenges such as multicollinearity, parameter stability, heteroscedasticity, and serial autocorrelation are thoroughly examined, alongside detection and correction techniques.  
-    The notes culminate in discussions on more advanced topics like instrumental variables, maximum likelihood estimation, and an appendix on probability theory, equipping readers with a broad understanding of econometric analysis and application.  
-    **New:** The second version will include more examples and an introduction to time series.
+    The notes culminate in discussions on more advanced topics like instrumental variables, maximum likelihood estimation, basic time series analysis, and an appendix on probability theory, equipping readers with a broad understanding of econometric analysis and application.  
   </details>
 
 * Notes on Optimal Transport Theory and its Applications in Economics and Finance  
@@ -64,7 +63,7 @@ permalink: /publication/books/
   </details>
 
 * Real Business Cycles
-  Marcelo Gallardo, following Paul Castillo's classes  
+  Marcelo Gallardo, following [Paul Castillo's](https://www.bcrp.gob.pe/funcionarios-principales/gerente-general.html) classes  
   <details>
     <summary>Summary | <a href="{{ "/files/courses/macroeconomics/rbc_macro_intermedia.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
     Preliminary draft, please notify any mistake! 
