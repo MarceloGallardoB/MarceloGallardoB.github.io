@@ -59,9 +59,9 @@ permalink: /academic-presentation/
           Finding a Walrasian Equilibrium is Easy for a Fixed Number of Agents
         </a>
         by 
-        <a href="https://eml.berkeley.edu/~fechenique/index.html" target="_blank">F. Echenique</a>
+        <a href="https://eml.berkeley.edu/~fechenique/index.html" target="_blank">Federico Echenique</a>
         and 
-        <a href="https://adamwierman.com/" target="_blank">A. Wierman</a>
+        <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a>
       </strong>
     </p>
     <p><em>For Numerical Analysis, Mathematics PUCP</em></p>
