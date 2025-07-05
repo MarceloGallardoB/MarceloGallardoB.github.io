@@ -16,17 +16,17 @@ permalink: /publication/books/
 ## Books
 
 * Linear Algebra and Optimization for Economists - Submitted to [Fondo Editorial PUCP](https://www.fondoeditorial.pucp.edu.pe/)  
-  [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge_chavez_fuentes) and Marcelo Gallardo. Foreword by Professor [Cesar Martinelli](https://sites.google.com/site/martinellicesar/home). 
+  [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and Marcelo Gallardo. Foreword by Professor [Cesar Martinelli](https://sites.google.com/site/martinellicesar/home). 
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/Index_ALOECO.pdf" | relative_url }}" target="_blank">Index</a></summary>
     Pre-published book about Linear Algebra and Static Optimization for Economists. Covers topics such as convex analysis, constrained optimization, and economic applications.
   </details>
 
 * Dynamical Systems and Optimal Control for Economists - Under review  
-  [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge_chavez_fuentes) and Marcelo Gallardo.  
+  [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and Marcelo Gallardo.  
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/Index_DSOC.pdf" | relative_url }}" target="_blank">Index</a></summary>
-    Working book about Dynamical Systems and Optimal Control in Continuous Time for Economists. Topics include differential equations, optimal control theory, and economic models.
+   Dynamical Systems and Optimal Control in Continuous Time for Economists. Topics include linear differential equations, nonlinear dynamical systems, limit cycles, calculus of variations, optimal control theory, and economic models.
   </details>
 
 ---
@@ -67,7 +67,7 @@ permalink: /publication/books/
   Marcelo Gallardo, following Paul Castillo's classes  
   <details>
     <summary>Summary | <a href="{{ "/files/courses/macroeconomics/rbc_macro_intermedia.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
-    Preliminary draft, please notify any mistake!
+    Preliminary draft, please notify any mistake! 
   </details>
 
 * RBC with productive public investment
