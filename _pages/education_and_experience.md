@@ -76,7 +76,7 @@ permalink: /experience/
         relative_url }}" alt="PUCP Logo">
     </div>
     <div class="card-body">
-      <h5 class="card-title"> Graduate School (courses) Economics and Applied Mathematics</h5>
+      <h5 class="card-title"> Graduate School (courses in economics and applied mathematics)</h5>
       <p class="card-text">
         <a href="https://www.pucp.edu.pe/carrera/matematicas/">Pontificia
           Universidad Católica del Perú</a>
