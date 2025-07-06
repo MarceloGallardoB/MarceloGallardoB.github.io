@@ -93,7 +93,7 @@ permalink: /experience/
         relative_url }}" alt="PUCP Logo">
     </div>
     <div class="card-body">
-      <h5 class="card-title">Grade Lic. and Bs. in Mathematics</h5>
+      <h5 class="card-title"> Lic. and Bs. in Mathematics</h5>
       <p class="card-text">
         <a href="https://www.pucp.edu.pe/carrera/matematicas/">Pontificia
           Universidad Católica del Perú</a>
