@@ -360,7 +360,7 @@ permalink: /experience/
           href="https://cris.pucp.edu.pe/en/persons/jorge-richard-chavez-fuentes"
           target="_blank">Jorge Chavez</a>
       </p>
-      <p class="card-text">2021 - 2024</p>
+      <p class="card-text">2021 - 2025</p>
     </div>
   </div>
   
