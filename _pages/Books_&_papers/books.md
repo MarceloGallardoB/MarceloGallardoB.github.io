@@ -53,7 +53,7 @@ permalink: /publication/books/
   </details>
 
 
-* Notes on Optimal Transport Theory and its Applications in Economics and Finance  
+* Optimal Transport Theory and its Applications in Economics and Finance  
   Marcelo Gallardo and Carlos Cosentino. Final project for the course *Introduction to Optimal Transport*, taught by [Johel Beltrán](https://emap.fgv.br/en/professors/johel-victorino-beltran-ramirez).  
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/optimal_transport_para_economistas.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
