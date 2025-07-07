@@ -76,7 +76,7 @@ permalink: /publication/books/
 * Real Business Cycles
   Marcelo Gallardo, following [Paul Castillo's](https://www.bcrp.gob.pe/funcionarios-principales/gerente-general.html) classes  
   <details>
-    <summary>Summary | <a href="{{ "/files/courses/macroeconomics/rbc_macro_intermedia.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
+    <summary>Summary | <a href="{{ "/files/courses/macroeconomics/rbc_macro_intermedia.pdf" | relative_url }}" target="_blank">Lecture Notes (draft)</a></summary>
     Preliminary draft, please notify any mistake! 
   </details>
 
