@@ -72,7 +72,8 @@ permalink: /publication/books/
     It is important to emphasize that this work does not introduce any new results in the literature. Instead, we focus on developing a clear and understandable approach to Brouwer's Fixed Point Theorem and its applications in general equilibrium.
   </details>
 
-* Real Business Cycles for 1ECO74 (Macroeconomics, Graduate School)                                                                                                                                              Marcelo Gallardo, following [Paul Castillo's](https://www.bcrp.gob.pe/funcionarios-principales/gerente-general.html) classes  
+* Real Business Cycles for 1ECO74 (Macroeconomics, Graduate School)
+  Marcelo Gallardo, following [Paul Castillo's](https://www.bcrp.gob.pe/funcionarios-principales/gerente-general.html) classes  
   <details>
     <summary>Summary | <a href="{{ "/files/courses/macroeconomics/rbc_macro_intermedia.pdf" | relative_url }}" target="_blank">Lecture Notes (draft)</a></summary>
     Preliminary draft, please notify any mistake! 
