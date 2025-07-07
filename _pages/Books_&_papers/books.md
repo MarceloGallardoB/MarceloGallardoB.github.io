@@ -45,6 +45,7 @@ permalink: /publication/books/
 
 
 * Game Theory - Notes for 1ECO43 (2025) PUCP
+  
   Professor [César Martinelli](https://sites.google.com/site/martinellicesar/home), and written by Marcelo Gallardo.  
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/teoria_juegos_25_1.pdf" | relative_url }}" target="_blank">Lecture Notes (draft) </a></summary>
