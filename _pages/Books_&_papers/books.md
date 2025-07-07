@@ -43,6 +43,16 @@ permalink: /publication/books/
     The notes culminate in discussions on more advanced topics like instrumental variables, maximum likelihood estimation, basic time series analysis, and an appendix on probability theory, equipping readers with a broad understanding of econometric analysis and application.  
   </details>
 
+
+* Game Theory - Draft 
+  Notes for 1ECO43 (2025), taught at PUCP by Professor [César Martinelli](https://sites.google.com/site/martinellicesar/home) and written by Marcelo Gallardo.  
+  <details>
+    <summary>Summary | <a href="{{ "/files/books-and-papers/teoria_juegos_25_1.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
+    These lecture notes offer a deep dive into econometrics, structured around key themes from matrix algebra basics to statistical models.  
+    These lecture notes offer a comprehensive exploration of game theory, structured around both static and dynamic models under varying information environments. The material opens with static games—first with complete information (Nash equilibrium) and then with incomplete information (Bayesian Nash equilibrium)—before moving on to extensive-form games with perfect and imperfect information, examining subgame perfect equilibrium as well as perfect Bayesian and sequential equilibria. It also covers cooperative solution concepts, including the Nash bargaining solution and Rubinstein’s alternating-offers model, and delves into infinitely repeated games with automaton-based strategy representations. An appendix presents decision theory under uncertainty, a proof of the minimax theorem via convex-set separation, and concise overviews of seminal papers by Myerson (1978), Kreps & Scheinkman (1983), Reny (1999), and Echenique & Saito (2015). The core textbook references are Osborne & Rubinstein (1994), Mas-Colell, Whinston & Green, and Fudenberg & Tirole (1991).
+  </details>
+
+
 * Notes on Optimal Transport Theory and its Applications in Economics and Finance  
   Marcelo Gallardo and Carlos Cosentino. Final project for the course *Introduction to Optimal Transport*, taught by [Johel Beltrán](https://emap.fgv.br/en/professors/johel-victorino-beltran-ramirez).  
   <details>
