@@ -44,8 +44,7 @@ permalink: /publication/books/
   </details>
 
 
-* Game Theory - Notes for 1ECO43 (2025) PUCP
-  
+* Game Theory - Notes for 1ECO43 (2025) PUCP                                                                                                                                                                   
   Professor [César Martinelli](https://sites.google.com/site/martinellicesar/home), and written by Marcelo Gallardo.  
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/teoria_juegos_25_1.pdf" | relative_url }}" target="_blank">Lecture Notes (draft) </a></summary>
@@ -74,6 +73,7 @@ permalink: /publication/books/
   </details>
 
 * Real Business Cycles
+  
   Marcelo Gallardo, following [Paul Castillo's](https://www.bcrp.gob.pe/funcionarios-principales/gerente-general.html) classes  
   <details>
     <summary>Summary | <a href="{{ "/files/courses/macroeconomics/rbc_macro_intermedia.pdf" | relative_url }}" target="_blank">Lecture Notes (draft)</a></summary>
