@@ -27,8 +27,7 @@ permalink: /courses/optimization-i/2024-1/
 - [Graded problem set 3]({{ "/files/courses/Optimization/1/2024/1/Graded_problem_set_3.pdf" | relative_url }})
 - [Graded problem set 4]({{ "/files/courses/Optimization/1/2024/1/Graded_problem_set_4.pdf" | relative_url }})
 - [Midterm]({{ "/files/courses/Optimization/1/2024/1/Midterm.pdf" | relative_url }})
-- [Mock final exam 1]({{ "/files/courses/Optimization/1/2024/1/mock_final_exam_iop224.pdf" | relative_url }})
-- [Mock final exam 2]({{ "/files/courses/Optimization/1/2024/1/mock_final_exam_2.pdf" | relative_url }})
+- [Mock final exam]({{ "/files/courses/Optimization/1/2024/1/mock_final_exam_2.pdf" | relative_url }})
 - [Final exam]({{ "/files/courses/Optimization/1/2024/1/final_iop224_v2_lecture_notes.pdf" | relative_url }})
 
 ---
