@@ -32,11 +32,11 @@ permalink: /research/
     <h2>Publications</h2>
     <ul>
       <li>
-        <a style="color: #003d90" href='{{ "/publication/papers" | relative_url }}'>Papers</a><br>
+        <a style="color: #003d90" href='{{ "/research/papers" | relative_url }}'>Papers</a><br>
         Peer-reviewed articles and working paper.
       </li>
       <li>
-        <a style="color: #003d90" href='{{ "/publication/books" | relative_url }}'>Books</a><br>
+        <a style="color: #003d90" href='{{ "/research/books" | relative_url }}'>Books</a><br>
         Books and lecture notes.
       </li>
     </ul>
