@@ -113,7 +113,7 @@ permalink: /academic-presentation/
     </details>
   </div>
 
-  <h2>Project presentations</h2>
+  <h2>Project Presentations</h2>
 
 </div>
 
