@@ -14,6 +14,7 @@ permalink: /research/
     .content-publications li {
       text-align: left;
       margin-left: 0;
+      margin-left: -10px;  
     }
     .content-publications ul {
       list-style: none;
