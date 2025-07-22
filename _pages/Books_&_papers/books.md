@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: "Books"
-permalink: /publication/books/
+permalink: /research/books/
 ---
 
 <style> 
