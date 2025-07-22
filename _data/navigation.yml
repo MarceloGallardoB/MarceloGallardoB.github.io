@@ -9,11 +9,14 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Papers"
-    url: /research/papers/
+  - title: "Manuscripts"
+    url: /research/manuscripts/
 
   - title: "Books"
     url: /research/books/
+
+  - title: "Lecture Notes"
+    url: /research/lecture-notes/
 
   - title: "Teaching"
     url: /teaching/
