@@ -1,7 +1,7 @@
 <nav>
   <ul>
     {% for link in site.data.navigation.main %}
-      {% unless link.url contains '/courses/' or link.url == '/contact/' or link.url == '/publication/papers/' or link.url == '/publication/books/' %}
+      {% unless link.url contains '/courses/' or link.url == '/contact/' or link.url == '/research/lecture-notes/' or link.url == '/research/manuscripts/' or link.url == '/research/books/' %}
         <li><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
       {% endunless %}
     {% endfor %}
