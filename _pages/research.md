@@ -29,7 +29,7 @@ permalink: /research/
 </style>
 
   <div class="content-publications">
-    <h2>Publications</h2>
+    <h2>Research</h2>
     <ul>
       <li>
         <a style="color: #003d90" href='{{ "/research/manuscripts" | relative_url }}'>Manuscripts</a><br>
