@@ -13,7 +13,7 @@ permalink: /research/manuscripts/
 </style>
 
 {% include publications.html %}
-## Completed Papers
+## Preprints available
 
 
 * **Congestion and Penalization in Optimal Transport**  - Submitted  
@@ -39,7 +39,7 @@ permalink: /research/manuscripts/
   </details>
 ---
 
-## Working Papers
+## Working Papers: draft available
 
 
 * Political and economic uncertainty indicator for Peru based on Twitter and GPT-3.5 Turbo - New version coming soon  
