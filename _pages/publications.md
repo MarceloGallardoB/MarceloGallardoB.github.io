@@ -1,7 +1,7 @@
 ---
 layout: pages
-title: "Publications"
-permalink: /publication/
+title: "Research"
+permalink: /research/
 ---
 <style>
     .content-publications {
