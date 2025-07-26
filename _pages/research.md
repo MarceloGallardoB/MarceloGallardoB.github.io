@@ -31,13 +31,12 @@ permalink: /research/
     margin-bottom: 15px;
   }
 
-  /* 2) En pantallas grandes (>= 769px): centrar */
-  @media (min-width: 769px) {
-    .content-publications {
-      padding: 0;
-      text-align: center;
-    }
+@media (max-width: 768px) {
+  .content-publications {
+    text-align: left !important;
+    padding: 0 1rem !important;
   }
+}
 </style>
 
 <div class="content-publications">
