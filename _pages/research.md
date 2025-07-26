@@ -15,8 +15,7 @@ permalink: /research/
     .content-publications ul,
     .content-publications li {
       text-align: left;
-      margin-left: 0;
-      margin-left: -10px;  
+      margin-left: 0; 
     }
     .content-publications ul {
       list-style: none;
@@ -29,7 +28,20 @@ permalink: /research/
           margin-bottom: 15px;
         }
 
-    
+  /* Sólo en pantallas pequeñas (<= 768px), justifica a la izquierda */
+  @media (max-width: 768px) {
+    .content-publications {
+      text-align: left;
+      margin: 0 auto; /* opcional: puedes añadir algo de __padding__ si quieres */
+      padding: 0 1rem;
+    }
+    .content-publications h2,
+    .content-publications p,
+    .content-publications ul,
+    .content-publications li {
+      margin-left: 0;
+    }
+  }
     
 </style>
   <div class="content-publications">
