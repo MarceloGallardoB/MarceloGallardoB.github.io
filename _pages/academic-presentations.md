@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: "Academic Presentations"
+title: "Academic presentations"
 permalink: /academic-presentation/
 ---
 {% include publications.html %}
@@ -34,7 +34,7 @@ permalink: /academic-presentation/
 </style>
 
 <div class="content-academic-presentations">
-  <h2>Academic Presentations</h2>
+  <h2>Academic presentations</h2>
 
   <div class="presentation-item">
     <p><strong>Optimal Transport and Some Other Mathematical Models with Applications in Economics</strong></p>
@@ -50,6 +50,10 @@ permalink: /academic-presentation/
       </p>
     </details>
   </div>
+
+
+
+  <h2>Course project presentations</h2>
 
   <div class="presentation-item">
     <p>
@@ -112,9 +116,6 @@ permalink: /academic-presentation/
       </p>
     </details>
   </div>
-
-  <h2>Project Presentations</h2>
-
 </div>
 
 
