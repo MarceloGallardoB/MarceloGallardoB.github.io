@@ -33,7 +33,7 @@ permalink: /research/manuscripts/
 * **Irregular wave dynamics driven by a random force within the Burgers equation**   
   Marcelo Gallardo and [Marcelo Flamarion](https://scholar.google.com/citations?user=YROzmEAAAAAJ&hl=en).  
   <details>
-    <summary>Abstract | <a href="https://tcam.sbmac.org.br/tema" target="_blank">Pre-print under request</a></summary>
+    <summary>Abstract | <a href="https://tcam.sbmac.org.br/tema" target="_blank">Pre-print available under request</a></summary>
     In this article, we study the classical Burgers equation as a model for random fields. First, we consider initial data defined as a sum of harmonics with random phases and compute the blow-up time. Several simulations are performed, revealing that, while the critical blow-up time is approximately distributed according to a Gaussian law, the statistical tests reject the normality hypothesis. For the viscous case, we analyze waves driven by a random force. Using the Cole-Hopf transformation, the averaged wave field is computed numerically. Through a change of variables, we demonstrate that randomness primarily affects the phase of the wave field. Assuming the phase follows a uniform distribution, we show that the averaged field spreads and diminishes over time.
 
   </details>
