@@ -181,9 +181,8 @@ permalink: /teaching/
       <hr>
       <p class="card-text">
         <a href="{{ "/courses/mathematics-for-economists-4/2022-2" |
-          relative_url }}">2022-2</a>
-          <a href="{{ "/courses/mathematics-for-economists-4/2022-2" |
-          relative_url }}">2025-2</a>
+          relative_url }}">2022-2</a> |
+          <a href="#">2025-2</a>
       </p>
     </div>
   </div>
