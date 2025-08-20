@@ -66,6 +66,24 @@ permalink: /teaching/
     <h4>Faculty of Sciences and Engineering, Department of Mathematics</h4>
   </div>
 
+ 
+   <div class="card">
+    <div class="card-body">
+      <h5 class="card-title">
+        <a href=""
+          target="_blank">Applied Differential Equations (EDAS)</a>
+      </h5>
+      <p class="card-text">
+        With <a href="https://www.pucp.edu.pe/profesor/marcelo-velloso-flamarion-vasconcellos-"
+          target="_blank">PhD Marcelo Flamarion</a>
+      </p>
+      <hr>
+      <p class="card-text">
+        <a href="">2025-2</a> 
+      </p>
+    </div>
+  </div>
+  
   <div class="card">
     <div class="card-body">
       <h5 class="card-title">
@@ -164,6 +182,8 @@ permalink: /teaching/
       <p class="card-text">
         <a href="{{ "/courses/mathematics-for-economists-4/2022-2" |
           relative_url }}">2022-2</a>
+          <a href="{{ "/courses/mathematics-for-economists-4/2022-2" |
+          relative_url }}">2025-2</a>
       </p>
     </div>
   </div>
