@@ -132,6 +132,26 @@ permalink: /teaching/
     <div class="card-body">
       <h5 class="card-title">
         <a
+          href="https://facultad.pucp.edu.pe/ciencias-sociales/cursos/matematicas-para-economistas/"
+          target="_blank">Mathematics for Economists 4</a>
+      </h5>
+      <p class="card-text">
+        With <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes"
+          target="_blank">PhD Jorge Chávez</a>
+      </p>
+      <hr>
+      <p class="card-text">
+        <a href="{{ "/courses/mathematics-for-economists-4/2022-2" |
+          relative_url }}">2022-2</a> |
+          <a href="#">2025-2</a>
+      </p>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-body">
+      <h5 class="card-title">
+        <a
           href="https://facultad.pucp.edu.pe/ciencias-sociales/cursos/microeconomia-financiera/"
           target="_blank">Financial Microeconomics</a>
       </h5>
@@ -163,26 +183,6 @@ permalink: /teaching/
       <p class="card-text">
         <a href="{{ "/courses/microeconomics/2024-2" | relative_url
           }}">2024-2</a>
-      </p>
-    </div>
-  </div>
-
-  <div class="card">
-    <div class="card-body">
-      <h5 class="card-title">
-        <a
-          href="https://facultad.pucp.edu.pe/ciencias-sociales/cursos/matematicas-para-economistas/"
-          target="_blank">Mathematics for Economists 4</a>
-      </h5>
-      <p class="card-text">
-        With <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes"
-          target="_blank">PhD Jorge Chávez</a>
-      </p>
-      <hr>
-      <p class="card-text">
-        <a href="{{ "/courses/mathematics-for-economists-4/2022-2" |
-          relative_url }}">2022-2</a> |
-          <a href="#">2025-2</a>
       </p>
     </div>
   </div>
