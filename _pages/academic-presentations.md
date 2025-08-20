@@ -43,7 +43,7 @@ permalink: /academic-presentation/
     <p><a href="" target="_blank">Certification</a></p>
     <details>
       <summary>
-        Summary | <a style="color: #003d90" href="{{ '/files/slides/slides_mg_coloquio_2025.pdf' | relative_url }}" target="_blank">Slides</a>| <a style="color: #003d90" href="{{ '/files/certificates/Marcelo_Gallardo_Burga_Coloquio_Certificate.pdf' | relative_url }}" target="_blank">Certificate</a> | <a style="color: #003d90" href="https://drive.google.com/drive/folders/1iMiujsCje-BLF9ltlEhZxg0IHvNNZiB2?usp=drive_link" target="_blank">Pictures</a>
+        Summary | <a style="color: #003d90" href="{{ '/files/slides/slides_mg_coloquio_2025.pdf' | relative_url }}" target="_blank">Slides</a>| <a style="color: #003d90" href="{{ '/files/certificates/Marcelo_Gallardo_Burga_Coloquio_Certificate.pdf' | relative_url }}" target="_blank">Certificate</a> | <a style="color: #003d90" href="https://drive.google.com/drive/folders/1YasqLREIaCbpC68J5NPdRPUZIzV9_7dG" target="_blank">Pictures</a>
       </summary>
       <p>
         Presentation for the 38th Colloquium of the Peruvian Mathematical Society, based on the paper of the same name. A new model is introduced and analyzed in both the finite and infinite types/groups cases. Existence and uniqueness of solutions are characterized via convex optimization in both finite and infinite dimensions, as well as a method for obtaining interior solutions in the discrete case using a Neumann approximation and an algorithm based on the Sherman–Morrison formula. .<br>
