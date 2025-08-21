@@ -71,7 +71,7 @@ permalink: /teaching/
     <div class="card-body">
       <h5 class="card-title">
         <a href=""
-          target="_blank">Applied Differential Equations (EDAS)</a>
+          target="_blank">Applied Differential Equations </a>
       </h5>
       <p class="card-text">
         With <a href="https://www.pucp.edu.pe/profesor/marcelo-velloso-flamarion-vasconcellos-"
@@ -79,7 +79,8 @@ permalink: /teaching/
       </p>
       <hr>
       <p class="card-text">
-        <a href="">2025-2</a> 
+        <a href="{{ "/courses/applied-differential-equations/2025/2" | relative_url
+          }}">2025-2</a> 
       </p>
     </div>
   </div>
