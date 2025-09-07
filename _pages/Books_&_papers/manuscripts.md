@@ -30,7 +30,7 @@ permalink: /research/manuscripts/
     In this paper, we build upon the optimal transport quadratic regularization model to develop a framework that incorporates congestion costs, particularly in matching within the healthcare and education sectors. Specifically, we introduce a model with heterogeneous quadratic costs. We analyze the model's properties under specific cases, extending the existing literature. Furthermore, we explore key structural characteristics of the model and provide numerical examples illustrating why this formulation more accurately captures real-world phenomena, particularly in the Peruvian context. The main result consists of identifying a specific type of corner solution when matching the same number of clusters, i.e., N=L.
   </details>
 
-* **Irregular wave dynamics driven by a random force within the Burgers equation**   
+* **[Irregular wave dynamics driven by a random force within the Burgers equation](https://marcelogallardob.github.io/files/books-and-papers/edp_paper.pdf)**   
   Marcelo Gallardo and [Marcelo Flamarion](https://scholar.google.com/citations?user=YROzmEAAAAAJ&hl=en).  
   <details>
     <summary>Abstract | <a href="https://marcelogallardob.github.io/files/books-and-papers/edp_paper.pdf" target="_blank">Pre-print available under request</a></summary>
