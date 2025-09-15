@@ -200,7 +200,7 @@ permalink: /experience/
         relative_url }}" alt="PUCP Logo">
     </div>
     <div class="card-body">
-      <h5 class="card-title"> Contest Initiation to scientific research</h5>
+      <h5 class="card-title"> Contest Initiation to Scientific Research</h5>
       <p class="card-text">Winner in the individual class</p>
       <p class="card-text">
         <a href="https://www.pucp.edu.pe/carrera/matematicas/">Pontificia
@@ -249,7 +249,7 @@ permalink: /experience/
           }}">Financial Microeconomics</a>
       </p>
       <p class="card-text">
-        With PhD <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes"
+        With <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes"
           target="_blank">Jorge Chávez</a> |
         <a href="https://www.pucp.edu.pe/profesor/pavel-coronado-castellanos"
           target="_blank">Pavel Coronado</a> |
@@ -274,7 +274,7 @@ permalink: /experience/
           }}">Functional Analysis</a>
       </p>
       <p class="card-text">
-        With PhD <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes"
+        With <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes"
           target="_blank">Jorge Chávez</a> |
         <a href="https://www.pucp.edu.pe/profesor/percy-fernandez-sanchez"
           target="_blank">Percy Fernández</a>
