@@ -21,7 +21,7 @@ permalink: /research/books/
     <summary>
       Summary | 
       <a href="{{ '/files/books-and-papers/Index_ALOECO.pdf' | relative_url }}" target="_blank">Index</a> | 
-      <a href="{{ '/files/books-and-papers/ALOECO_excerpt_chapter_10' | relative_url }}" target="_blank">Book Excerpt</a>
+      <a href="{{ '/files/books-and-papers/ALOECO_excerpt_chapter_10.pdf' | relative_url }}" target="_blank">Book Excerpt</a>
     </summary>
     Pre-published book about Linear Algebra and Static Optimization for Economists. Covers topics such as convex analysis, constrained optimization, and economic applications.
   </details>
