@@ -177,22 +177,6 @@ permalink: /experience/
   
   </div>
   
-  <div class="card">
-    <div class="card-header">
-      <img draggable="false"
-        src="{{ "/assets/img/institutions/ecole-paris.png" | relative_url }}"
-        alt="École Polytechnique Logo">
-    </div>
-    <div class="card-body">
-      <h5 class="card-title">Admission to l’X Bachelor Program</h5>
-      <p class="card-text">École Polytechnique, Paris, France</p>
-      <p class="card-text">
-        <a
-          href="{{ "/files/courses/education-and-experience/admission_l_X.pdf"
-          | relative_url }}">Admission</a>
-      </p>
-    </div>
-  </div>
   
   <div class="card">
     <div class="card-header">
