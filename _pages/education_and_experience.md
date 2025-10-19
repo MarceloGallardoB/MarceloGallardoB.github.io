@@ -170,7 +170,7 @@ permalink: /experience/
         Scientifique</h5>
       <p class="card-text">Colegio Franco Peruano, Lima PE</p>
       <p class="card-text">
-        <a href="{{ "/files/courses/education-and-experience/notes_bac.pdf" |
+        <a href="{{ "/files/education-and-experience/bac_s_releve_notes.pdf" |
           relative_url }}">Diplôme</a>
       </p>
     </div>
