@@ -97,21 +97,6 @@ permalink: /experience/
   
   <div class="card">
     <div class="card-header">
-      <img draggable="false" src="{{ "/assets/img/institutions/pucp-logo.png" |
-        relative_url }}" alt="PUCP Logo">
-    </div>
-    <div class="card-body">
-      <h5 class="card-title"> Lic. and Bs. in Mathematics</h5>
-      <p class="card-text">
-        <a href="https://www.pucp.edu.pe/carrera/matematicas/">Pontificia
-          Universidad Católica del Perú</a>
-      </p>
-      <p class="card-text">2020 - 2025</p>
-    </div>
-  </div>
-  
-  <div class="card">
-    <div class="card-header">
       <img draggable="false"
         src="{{ "/assets/img/institutions/LyceeFrancoPeruvien.png" | relative_url
         }}" alt="LFP Logo">
