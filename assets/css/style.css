@@ -439,7 +439,7 @@ img {
 
 #img-profile {
     display: block;
-    max-width: 100%;
+    max-width: 120%;
     height: auto;
     border: none;
     box-shadow: none;
