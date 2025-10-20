@@ -130,6 +130,10 @@ permalink: /experience/
         <a href="https://qlab.pucp.edu.pe/">Pontificia Universidad Católica
           del Perú</a>
       </p>
+      <p class="card-text">
+        <a href="{{ "/files/education-and-experience/diplomados_marcelo_gallardo.pdf"
+          | relative_url }}">Transcript</a>
+      </p>
       <p class="card-text">Summer and Winter School 2022, 2023, and 2024</p>
     </div>
   </div>
