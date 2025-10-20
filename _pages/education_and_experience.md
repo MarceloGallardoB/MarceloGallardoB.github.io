@@ -76,13 +76,21 @@ permalink: /experience/
         relative_url }}" alt="PUCP Logo">
     </div>
     <div class="card-body">
-      <h5 class="card-title"> Graduate School (courses in economics and applied mathematics)</h5>
       <p class="card-text">
         <a href="https://www.pucp.edu.pe/carrera/matematicas/">Pontificia
           Universidad Católica del Perú</a>
       </p>
+      <h5 class="card-title"> Graduate School (courses in economics and applied mathematics)</h5>
       <p class="card-text">
         2023 - 2025
+      </p>
+      <h5 class="card-title"> Lic. and Bs. in Mathematics</h5>
+      <p class="card-text">
+        2020 - 2025
+      </p>
+      <h5 class="card-title"> Humanity Studies at EEGGLL</h5>
+      <p class="card-text">
+        2019
       </p>
     </div>
   </div>
