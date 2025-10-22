@@ -14,7 +14,7 @@ permalink: /research/manuscripts/
 
 {% include publications.html %}
 
-## Working papers: draft available
+## Working papers
 
 * Field Experiments on Seasonal Products and Markdown Pricing - Draft coming soon
   Marcelo Gallardo and [Carlos Noton](https://economiayadministracion.uc.cl/docentes/carlos-noton/).  
@@ -25,7 +25,7 @@ permalink: /research/manuscripts/
 * EPU Index: Leveraging X, ChatGPT-3.5 Turbo, and DeepSeek - Code running 
   [Manuel Loaiza](https://github.com/ManuelLoaizaV), [Marcelo Gallardo](https://marcelogallardob.github.io/), and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/).  
   <details>
-    <summary>Abstract | <a href="" target="_blank"> Draft available under request </a></summary>
+    <summary>Abstract | <a href="" target="_blank"> New version coming soon </a></summary>
     This paper develops a new political-economic uncertainty index based on tweets from influential figures in Peruvian politics and economics. Tweets are analyzed using GPT-3.5 Turbo, generating a time series of political-economic uncertainty.
   </details>
 
