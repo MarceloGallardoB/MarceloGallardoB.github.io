@@ -13,6 +13,24 @@ permalink: /research/manuscripts/
 </style>
 
 {% include publications.html %}
+
+## Working papers: draft available
+
+* Field Experiments on Seasonal Products and Markdown Pricing - Draft coming soon
+  Marcelo Gallardo and [Carlos Noton](https://economiayadministracion.uc.cl/docentes/carlos-noton/).  
+  <details>
+    <summary>Abstract | <a href="" target="_blank">Coming soon</a></summary>
+  </details>
+  
+* EPU Index: Leveraging X, ChatGPT-3.5 Turbo, and DeepSeek - Code running 
+  [Manuel Loaiza](https://github.com/ManuelLoaizaV), [Marcelo Gallardo](https://marcelogallardob.github.io/), and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/).  
+  <details>
+    <summary>Abstract | <a href="" target="_blank"> Draft available under request </a></summary>
+    This paper develops a new political-economic uncertainty index based on tweets from influential figures in Peruvian politics and economics. Tweets are analyzed using GPT-3.5 Turbo, generating a time series of political-economic uncertainty.
+  </details>
+
+---
+
 ## Preprints available
 
 
@@ -36,22 +54,5 @@ permalink: /research/manuscripts/
     <summary>Abstract | <a href="https://marcelogallardob.github.io/files/books-and-papers/edp_paper.pdf" target="_blank">Pre-print available under request</a></summary>
     In this article, we study the classical Burgers equation as a model for random fields. First, we consider initial data defined as a sum of harmonics with random phases and compute the blow-up time. Several simulations are performed, revealing that, while the critical blow-up time is approximately distributed according to a Gaussian law, the statistical tests reject the normality hypothesis. For the viscous case, we analyze waves driven by a random force. Using the Cole-Hopf transformation, the averaged wave field is computed numerically. Through a change of variables, we demonstrate that randomness primarily affects the phase of the wave field. Assuming the phase follows a uniform distribution, we show that the averaged field spreads and diminishes over time.
 
-  </details>
----
-
-## Working papers: draft available
-
-
-* EPU Index: Leveraging X, ChatGPT-3.5 Turbo, and DeepSeek - Code running 
-  [Manuel Loaiza](https://github.com/ManuelLoaizaV), [Marcelo Gallardo](https://marcelogallardob.github.io/), and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/).  
-  <details>
-    <summary>Abstract | <a href="" target="_blank"> Draft available under request </a></summary>
-    This paper develops a new political-economic uncertainty index based on tweets from influential figures in Peruvian politics and economics. Tweets are analyzed using GPT-3.5 Turbo, generating a time series of political-economic uncertainty.
-  </details>
-
-* Field Experiments on Seasonal Products and Markdown Pricing - Draft coming soon
-  Marcelo Gallardo and [Carlos Noton](https://economiayadministracion.uc.cl/docentes/carlos-noton/).  
-  <details>
-    <summary>Abstract | <a href="" target="_blank">Coming soon</a></summary>
   </details>
 ---
