@@ -260,7 +260,8 @@ permalink: /experience/
           target="_blank">Percy Fernández | <a href="https://www.pucp.edu.pe/profesor/marcelo-velloso-flamarion-  vasconcellos" target="_blank">Marcelo Flamarion </a>
       </p>
     </div>
-  </div>
+
+</div>
 
    <h2>Research Assistance </h2>
   
