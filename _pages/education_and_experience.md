@@ -155,7 +155,39 @@ permalink: /experience/
 
   <!-- Awards & Honors -->
   <h2>Awards & Honors</h2>
-  
+    
+  <div class="card">
+    <div class="card-header">
+      <img draggable="false" src="{{ "/assets/img/institutions/pucp-logo.png" |
+        relative_url }}" alt="PUCP Logo">
+    </div>
+    <div class="card-body">
+      <h5 class="card-title">Excellence Scholarhsip</h5>
+      <p class="card-text">Winner in the individual class</p>
+      <p class="card-text">
+        <a href="https://www.pucp.edu.pe/carrera/matematicas/">Pontificia
+          Universidad Católica del Perú (PUCP)</a>
+      </p>
+      <p class="card-text">2024</p>
+    </div>
+  </div>  
+
+  <div class="card">
+    <div class="card-header">
+      <img draggable="false" src="{{ "/assets/img/institutions/pucp-logo.png" |
+        relative_url }}" alt="PUCP Logo">
+    </div>
+    <div class="card-body">
+      <h5 class="card-title"> Contest Initiation to Scientific Research</h5>
+      <p class="card-text">Winner in the individual class</p>
+      <p class="card-text">
+        <a href="https://www.pucp.edu.pe/carrera/matematicas/">Pontificia
+          Universidad Católica del Perú (PUCP)</a>
+      </p>
+      <p class="card-text">2020 and 2021</p>
+    </div>
+  </div>
+
   <div class="card">
     <div class="card-header">
       <img draggable="false"
@@ -173,40 +205,6 @@ permalink: /experience/
     </div>
   
   </div>
-  
-  
-  <div class="card">
-    <div class="card-header">
-      <img draggable="false" src="{{ "/assets/img/institutions/pucp-logo.png" |
-        relative_url }}" alt="PUCP Logo">
-    </div>
-    <div class="card-body">
-      <h5 class="card-title"> Contest Initiation to Scientific Research</h5>
-      <p class="card-text">Winner in the individual class</p>
-      <p class="card-text">
-        <a href="https://www.pucp.edu.pe/carrera/matematicas/">Pontificia
-          Universidad Católica del Perú (PUCP)</a>
-      </p>
-      <p class="card-text">2020 and 2021</p>
-    </div>
-  </div>
-  
-  <div class="card">
-    <div class="card-header">
-      <img draggable="false" src="{{ "/assets/img/institutions/pucp-logo.png" |
-        relative_url }}" alt="PUCP Logo">
-    </div>
-    <div class="card-body">
-      <h5 class="card-title">Excellence Scholarhsip</h5>
-      <p class="card-text">Winner in the individual class</p>
-      <p class="card-text">
-        <a href="https://www.pucp.edu.pe/carrera/matematicas/">Pontificia
-          Universidad Católica del Perú (PUCP)</a>
-      </p>
-      <p class="card-text">2024</p>
-    </div>
-  </div>  
-
   <!-- Teaching Experience -->
   <h2>Teaching Experience</h2>
   
@@ -252,13 +250,14 @@ permalink: /experience/
         <a href="{{ "/courses/optimization-i/2024-1" | relative_url
           }}">Optimization I</a> |
         <a href="{{ "/courses/functional-analysis/2024-1" | relative_url
-          }}">Functional Analysis</a>
+          }}">Functional Analysis</a> | <a href="{{ "/courses/courses/applied-differential-equations/2025/2" | relative_url
+          }}">Applied Differential Equations</a>
       </p>
       <p class="card-text">
         With <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes"
-          target="_blank">Jorge Chávez</a> |
+          target="_blank">Jorge Chávez</a> | 
         <a href="https://www.pucp.edu.pe/profesor/percy-fernandez-sanchez"
-          target="_blank">Percy Fernández</a>
+          target="_blank">Percy Fernández | <a href="https://www.pucp.edu.pe/profesor/marcelo-velloso-flamarion-  vasconcellos" target="_blank">Marcelo Flamarion </a>
       </p>
     </div>
   </div>
@@ -267,31 +266,11 @@ permalink: /experience/
   
   <div class="card">
     <div class="card-header">
-      <img draggable="false" src="{{ "/assets/img/institutions/uc_logo.jpg" |
-        relative_url }}" alt="PUC Chile Logo">
-    </div>
-    <div class="card-body">
-      <h5 class="card-title">Research assistance for professor at PUC Chile</h5>
-      <p class="card-text">
-        <a href="https://economiayadministracion.uc.cl/">PUC Chile School of
-          Economics and Administration</a>
-      </p>
-      <p class="card-text">
-        Working with Professor <a
-          href="https://sites.google.com/view/carlos-noton-homepage?usp=sharing"
-          target="_blank"> Carlos Noton</a>
-      </p>
-      <p class="card-text">2025 - now</p>
-    </div>
-  </div>
-  
-  <div class="card">
-    <div class="card-header">
       <img draggable="false" src="{{ "/assets/img/institutions/unsw.png" |
         relative_url }}" alt="UNSW Logo">
     </div>
     <div class="card-body">
-      <h5 class="card-title">Research assistance for professor at UNSW</h5>
+      <h5 class="card-title">Research assistance for Professor Juan Carlos Carbajal at UNSW</h5>
       <p class="card-text">
         <a href="https://www.unsw.edu.au/business/our-schools/economics">UNSW
           Business School</a>
@@ -302,6 +281,26 @@ permalink: /experience/
           target="_blank">Juan Carlos Carbajal</a>
       </p>
       <p class="card-text">2024 - now</p>
+    </div>
+  </div>
+
+ <div class="card">
+    <div class="card-header">
+      <img draggable="false" src="{{ "/assets/img/institutions/pucp-logo.png"
+        | relative_url }}" alt="PUCP Logo">
+    </div>
+    <div class="card-body">
+      <h5 class="card-title">PUCP</h5>
+      <p class="card-text">
+        <a
+          href="https://cris.pucp.edu.pe/en/persons/jorge-richard-chavez-fuentes">PUCP</a>
+      </p>
+      <p class="card-text">
+        Worked with Professor <a
+          href="https://cris.pucp.edu.pe/en/persons/jorge-richard-chavez-fuentes"
+          target="_blank">Jorge Chavez</a>
+      </p>
+      <p class="card-text">2021 - 2025</p>
     </div>
   </div>
   
@@ -325,25 +324,7 @@ permalink: /experience/
     </div>
   </div>
 
-  <div class="card">
-    <div class="card-header">
-      <img draggable="false" src="{{ "/assets/img/institutions/pucp-logo.png"
-        | relative_url }}" alt="PUCP Logo">
-    </div>
-    <div class="card-body">
-      <h5 class="card-title">PUCP</h5>
-      <p class="card-text">
-        <a
-          href="https://cris.pucp.edu.pe/en/persons/jorge-richard-chavez-fuentes">PUCP</a>
-      </p>
-      <p class="card-text">
-        Worked with Professor <a
-          href="https://cris.pucp.edu.pe/en/persons/jorge-richard-chavez-fuentes"
-          target="_blank">Jorge Chavez</a>
-      </p>
-      <p class="card-text">2021 - 2025</p>
-    </div>
-  </div>
+ 
   
  
 </div>
