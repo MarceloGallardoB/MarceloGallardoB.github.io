@@ -205,7 +205,7 @@ permalink: /experience/
     </div>
   
   </div>
-  <!-- Teaching Experience -->
+
   <h2>Teaching Experience</h2>
   
   <div class="card">
@@ -261,9 +261,11 @@ permalink: /experience/
       </p>
     </div>
 
+  </div>
+
 </div>
 
-   <h2>Research Assistance </h2>
+<h2>Research Assistance </h2>
   
   <div class="card">
     <div class="card-header">
@@ -325,7 +327,4 @@ permalink: /experience/
     </div>
   </div>
 
- 
-  
- 
 </div>
