@@ -72,39 +72,26 @@ permalink: /experience/
   
   <div class="card">
     <div class="card-header">
-      <img draggable="false" src="{{ "/assets/img/institutions/pucp-logo.png" |
-        relative_url }}" alt="PUCP Logo">
+      <img draggable="false" src="{{ '/assets/img/institutions/pucp-logo.png' | relative_url }}" alt="PUCP Logo">
     </div>
     <div class="card-body">
-      <p class="card-text">
-        <a href="https://www.pucp.edu.pe/carrera/matematicas/">Pontificia
-          Universidad Católica del Perú</a>
-      </p>
-      <h5 class="card-title"> Graduate School (courses in economics and applied mathematics)</h5>
-      <p class="card-text">
-        2023 - 2025
-      </p>
-      <h5 class="card-title"> Lic. and Bs. in Mathematics</h5>
-      <p class="card-text">
-        2020 - 2025
-      </p>
-      <h5 class="card-title"> Humanity Studies at EEGGLL</h5>
-      <p class="card-text">
-        2019
-      </p>
+      <p class="card-text"><a href="https://www.pucp.edu.pe/carrera/matematicas/">Pontificia Universidad Católica del Perú</a></p>
+      <h5 class="card-title">Graduate School (courses in economics and applied mathematics)</h5>
+      <p class="card-text">2023 - 2025</p>
+      <h5 class="card-title">Lic. and Bs. in Mathematics</h5>
+      <p class="card-text">2020 - 2025</p>
+      <h5 class="card-title">Humanity Studies at EEGGLL</h5>
+      <p class="card-text">2019</p>
     </div>
   </div>
   
   <div class="card">
     <div class="card-header">
-      <img draggable="false"
-        src="{{ "/assets/img/institutions/LyceeFrancoPeruvien.png" | relative_url
-        }}" alt="LFP Logo">
+      <img draggable="false" src="{{ '/assets/img/institutions/LyceeFrancoPeruvien.png' | relative_url }}" alt="LFP Logo">
     </div>
     <div class="card-body">
-      <h5 class="card-title">Baccaluréat Scientifique</h5>
-      <p class="card-text"> <a href="https://lfrancope.edu.pe/">Lycée Franco
-          Péruvien</a></p>
+      <p class="card-text"><a href="https://lfrancope.edu.pe/">Lycée Franco-Péruvien</a></p>
+      <h5 class="card-title">Baccalauréat Scientifique</h5>
       <p class="card-text">2017 - 2019</p>
     </div>
   </div>
@@ -114,141 +101,109 @@ permalink: /experience/
   
   <div class="card">
     <div class="card-header">
-      <img draggable="false" src="{{ "/assets/img/institutions/qlab_logo.png"
-        | relative_url }}" alt="QLab Logo">
+      <img draggable="false" src="{{ '/assets/img/institutions/qlab_logo.png' | relative_url }}" alt="QLab Logo">
     </div>
     <div class="card-body">
-      <h5 class="card-title">QLab</h5>
-      <p class="card-text">
-        <a href="https://qlab.pucp.edu.pe/">Pontificia Universidad Católica
-          del Perú</a>
-      </p>
-      <p class="card-text">
-        <a href="{{ "/files/education-and-experience/diplomados_marcelo_gallardo.pdf"
-          | relative_url }}">Transcript</a>
-      </p>
-      <p class="card-text">Summer and Winter School 2022, 2023, and 2024</p>
+      <p class="card-text"><a href="https://qlab.pucp.edu.pe/">QLab – Pontificia Universidad Católica del Perú</a></p>
+      <h5 class="card-title">Summer and Winter School</h5>
+      <p class="card-text"><a href="{{ '/files/education-and-experience/diplomados_marcelo_gallardo.pdf' | relative_url }}">Transcript</a></p>
+      <p class="card-text">2022, 2023, 2024</p>
     </div>
   </div>
   
   <div class="card">
     <div class="card-header">
-      <img draggable="false"
-        src="{{ "/assets/img/institutions/harvard-logo.png" | relative_url }}"
-        alt="Harvard Logo">
+      <img draggable="false" src="{{ '/assets/img/institutions/harvard-logo.png' | relative_url }}" alt="Harvard Logo">
     </div>
     <div class="card-body">
-      <h5 class="card-title">Harvard University</h5>
-      <p class="card-text">
-        Professor <a
-          href="https://professional.dce.harvard.edu/faculty/mark-esposito/">Mark
-          Esposito</a>
-      </p>
-      <p class="card-text">
-        <a href="{{ "/files/education-and-experience/harvard_certificate.pdf"
-          | relative_url }}">Certificate</a>
-      </p>
+      <p class="card-text"><a href="https://www.harvard.edu/">Harvard University</a></p>
+      <h5 class="card-title">Executive Program – Professor Mark Esposito</h5>
+      <p class="card-text"><a href="{{ '/files/education-and-experience/harvard_certificate.pdf' | relative_url }}">Certificate</a></p>
       <p class="card-text">Aug. 2024</p>
     </div>
   </div>
-
 
   <!-- Awards & Honors -->
   <h2>Awards & Honors</h2>
     
   <div class="card">
     <div class="card-header">
-      <img draggable="false" src="{{ "/assets/img/institutions/pucp-logo.png" |
-        relative_url }}" alt="PUCP Logo">
+      <img draggable="false" src="{{ '/assets/img/institutions/pucp-logo.png' | relative_url }}" alt="PUCP Logo">
     </div>
     <div class="card-body">
-      <h5 class="card-title">Excellence Scholarhsip</h5>
-      <p class="card-text">Winner in the individual class</p>
-      <p class="card-text">
-        <a href="https://www.pucp.edu.pe/carrera/matematicas/">Pontificia
-          Universidad Católica del Perú (PUCP)</a>
-      </p>
+      <p class="card-text"><a href="https://www.pucp.edu.pe/">Pontificia Universidad Católica del Perú</a></p>
+      <h5 class="card-title">Excellence Scholarship</h5>
+      <p class="card-text">Winner – Individual Category</p>
       <p class="card-text">2024</p>
     </div>
   </div>  
 
   <div class="card">
     <div class="card-header">
-      <img draggable="false" src="{{ "/assets/img/institutions/pucp-logo.png" |
-        relative_url }}" alt="PUCP Logo">
+      <img draggable="false" src="{{ '/assets/img/institutions/pucp-logo.png' | relative_url }}" alt="PUCP Logo">
     </div>
     <div class="card-body">
-      <h5 class="card-title"> Contest Initiation to Scientific Research</h5>
-      <p class="card-text">Winner in the individual class</p>
-      <p class="card-text">
-        <a href="https://www.pucp.edu.pe/carrera/matematicas/">Pontificia
-          Universidad Católica del Perú (PUCP)</a>
-      </p>
+      <p class="card-text"><a href="https://www.pucp.edu.pe/">Pontificia Universidad Católica del Perú</a></p>
+      <h5 class="card-title">Contest – Initiation to Scientific Research</h5>
+      <p class="card-text">Winner – Individual Category</p>
       <p class="card-text">2020 and 2021</p>
     </div>
   </div>
 
   <div class="card">
     <div class="card-header">
-      <img draggable="false"
-        src="{{ "/assets/img/institutions/LyceeFrancoPeruvien.png" |
-        relative_url }}" alt="PUCP Logo">
+      <img draggable="false" src="{{ '/assets/img/institutions/LyceeFrancoPeruvien.png' | relative_url }}" alt="LFP Logo">
     </div>
     <div class="card-body">
-      <h5 class="card-title">Mention Très Bien au Baccalauréat
-        Scientifique</h5>
-      <p class="card-text">Colegio Franco Peruano, Lima PE</p>
+      <p class="card-text"><a href="https://lfrancope.edu.pe/">Lycée Franco-Péruvien</a></p>
+      <h5 class="card-title">Mention Très Bien – Baccalauréat Scientifique</h5>
+      <p class="card-text"><a href="{{ '/files/education-and-experience/bac_s_releve_notes.pdf' | relative_url }}">Diplôme</a></p>
+    </div>
+  </div>
+
+  <!-- Teaching Experience -->
+  <h2>Teaching Experience</h2>
+
+  <div class="card">
+    <div class="card-header">
+      <img draggable="false" src="{{ '/assets/img/institutions/pucp-logo.png' | relative_url }}" alt="PUCP Logo">
+    </div>
+    <div class="card-body">
+      <p class="card-text"><a href="https://www.pucp.edu.pe/">Pontificia Universidad Católica del Perú</a></p>
+      <h5 class="card-title">Teaching Assistant – Department of Economics</h5>
       <p class="card-text">
-        <a href="{{ "/files/education-and-experience/bac_s_releve_notes.pdf" |
-          relative_url }}">Diplôme</a>
+        <a href="{{ '/courses/mathematics-for-economists-3/2022-1' | relative_url }}">Mathematics for Economists 3</a> |
+        <a href="{{ '/courses/mathematics-for-economists-4/2022-2' | relative_url }}">Mathematics for Economists 4</a> |
+        <a href="{{ '/courses/microeconomics/2024-2' | relative_url }}">Microeconomics 2</a> |
+        <a href="{{ '/courses/financial-microeconomics/2024-2/' | relative_url }}">Financial Microeconomics</a>
+      </p>
+      <p class="card-text muted">
+        With <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes" target="_blank">Jorge Chávez</a> |
+        <a href="https://www.pucp.edu.pe/profesor/pavel-coronado-castellanos" target="_blank">Pavel Coronado</a> |
+        <a href="https://es.wikipedia.org/wiki/Jos%C3%A9_Gallardo_Ku" target="_blank">José Gallardo Ku</a>
       </p>
     </div>
-  
   </div>
 
-<h2>Teaching Experience</h2>
-
-<div class="card">
-  <div class="card-header">
-    <img draggable="false" src="{{ '/assets/img/institutions/pucp-logo.png' | relative_url }}" alt="PUCP Logo">
+  <div class="card">
+    <div class="card-header">
+      <img draggable="false" src="{{ '/assets/img/institutions/pucp-logo.png' | relative_url }}" alt="PUCP Logo">
+    </div>
+    <div class="card-body">
+      <p class="card-text"><a href="https://www.pucp.edu.pe/">Pontificia Universidad Católica del Perú</a></p>
+      <h5 class="card-title">Teaching Assistant – Department of Mathematics</h5>
+      <p class="card-text">
+        <a href="{{ '/courses/optimization-i/2024-1' | relative_url }}">Optimization I</a> |
+        <a href="{{ '/courses/functional-analysis/2024-1' | relative_url }}">Functional Analysis</a> |
+        <a href="{{ '/courses/applied-differential-equations/2025-2' | relative_url }}">Applied Differential Equations</a>
+      </p>
+      <p class="card-text muted">
+        With <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes" target="_blank">Jorge Chávez</a> |
+        <a href="https://www.pucp.edu.pe/profesor/percy-fernandez-sanchez" target="_blank">Percy Fernández</a> |
+        <a href="https://www.pucp.edu.pe/profesor/marcelo-velloso-flamarion-vasconcellos" target="_blank">Marcelo Flamarion</a>
+      </p>
+    </div>
   </div>
-  <div class="card-body">
-    <h5 class="card-title">Economics, PUCP</h5>
-    <p class="card-text">
-      <a href="{{ '/courses/mathematics-for-economists-3/2022-1' | relative_url }}">Mathematics for Economists 3</a> |
-      <a href="{{ '/courses/mathematics-for-economists-4/2022-2' | relative_url }}">Mathematics for Economists 4</a> |
-      <a href="{{ '/courses/microeconomics/2024-2' | relative_url }}">Microeconomics 2</a> |
-      <a href="{{ '/courses/financial-microeconomics/2024-2/' | relative_url }}">Financial Microeconomics</a>
-    </p>
-    <p class="card-text muted">
-      With
-      <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes" target="_blank" rel="noopener">Jorge Chávez</a> |
-      <a href="https://www.pucp.edu.pe/profesor/pavel-coronado-castellanos" target="_blank" rel="noopener">Pavel Coronado</a> |
-      <a href="https://es.wikipedia.org/wiki/Jos%C3%A9_Gallardo_Ku" target="_blank" rel="noopener">José Gallardo Ku</a>
-    </p>
-  </div>
-</div>
-
-<div class="card">
-  <div class="card-header">
-    <img draggable="false" src="{{ '/assets/img/institutions/pucp-logo.png' | relative_url }}" alt="PUCP Logo">
-  </div>
-  <div class="card-body">
-    <h5 class="card-title">Mathematics, PUCP</h5>
-    <p class="card-text">
-      <a href="{{ '/courses/optimization-i/2024-1' | relative_url }}">Optimization I</a> |
-      <a href="{{ '/courses/functional-analysis/2024-1' | relative_url }}">Functional Analysis</a> |
-      <a href="{{ '/courses/applied-differential-equations/2025-2' | relative_url }}">Applied Differential Equations</a>
-    </p>
-    <p class="card-text muted">
-      With
-      <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes" target="_blank" rel="noopener">Jorge Chávez</a> |
-      <a href="https://www.pucp.edu.pe/profesor/percy-fernandez-sanchez" target="_blank" rel="noopener">Percy Fernández</a> |
-      <a href="https://www.pucp.edu.pe/profesor/marcelo-velloso-flamarion-vasconcellos" target="_blank" rel="noopener">Marcelo Flamarion</a>
-    </p>
-  </div>
-</div>
-
 
   <!-- Research Assistance -->
   <h2>Research Assistance</h2>
@@ -258,10 +213,10 @@ permalink: /experience/
       <img draggable="false" src="{{ '/assets/img/institutions/unsw.png' | relative_url }}" alt="UNSW Logo">
     </div>
     <div class="card-body">
-      <h5 class="card-title">Research assistance for Professor Juan Carlos Carbajal (UNSW)</h5>
-      <p class="card-text"><a href="https://www.unsw.edu.au/business/our-schools/economics">UNSW Business School</a></p>
-      <p class="card-text">Working with <a href="https://sites.google.com/site/carbajaleconomics/home" target="_blank" rel="noopener">Juan Carlos Carbajal</a></p>
-      <p class="card-text muted">2024–present</p>
+      <p class="card-text"><a href="https://www.unsw.edu.au/business">University of New South Wales Business School</a></p>
+      <h5 class="card-title">Research Assistant for Professor Juan Carlos Carbajal</h5>
+      <p class="card-text">Working on mechanism design and optimal transport theory</p>
+      <p class="card-text muted">2024 – Present</p>
     </div>
   </div>
 
@@ -270,10 +225,10 @@ permalink: /experience/
       <img draggable="false" src="{{ '/assets/img/institutions/pucp-logo.png' | relative_url }}" alt="PUCP Logo">
     </div>
     <div class="card-body">
-      <h5 class="card-title">PUCP</h5>
-      <p class="card-text"><a href="https://cris.pucp.edu.pe/en/persons/jorge-richard-chavez-fuentes">PUCP</a></p>
-      <p class="card-text">Worked with <a href="https://cris.pucp.edu.pe/en/persons/jorge-richard-chavez-fuentes" target="_blank" rel="noopener">Jorge Chávez</a></p>
-      <p class="card-text muted">2021–2025</p>
+      <p class="card-text"><a href="https://www.pucp.edu.pe/">Pontificia Universidad Católica del Perú</a></p>
+      <h5 class="card-title">Research Assistant for Professor Jorge Chávez</h5>
+      <p class="card-text">Collaborating on optimization and economic theory research</p>
+      <p class="card-text muted">2021 – 2025</p>
     </div>
   </div>
 
@@ -282,11 +237,10 @@ permalink: /experience/
       <img draggable="false" src="{{ '/assets/img/institutions/grade_logo.png' | relative_url }}" alt="GRADE Logo">
     </div>
     <div class="card-body">
-      <h5 class="card-title">GRADE</h5>
-      <p class="card-text"><a href="https://www.grade.org.pe/en/investigadores/personal/jleon/">GRADE</a></p>
-      <p class="card-text">Worked with <a href="https://www.grade.org.pe/en/investigadores/personal/jleon/" target="_blank" rel="noopener">Juan León Jara-Almonte</a></p>
-      <p class="card-text muted">2022–2024</p>
+      <p class="card-text"><a href="https://www.grade.org.pe/">Grupo de Análisis para el Desarrollo (GRADE)</a></p>
+      <h5 class="card-title">Research Assistant for Professor Juan León Jara-Almonte</h5>
+      <p class="card-text">Worked on applied econometric analysis and policy evaluation</p>
+      <p class="card-text muted">2022 – 2024</p>
     </div>
   </div>
-
 </div>
