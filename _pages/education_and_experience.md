@@ -206,49 +206,49 @@ permalink: /experience/
   
   </div>
 
-  <!-- Teaching -->
-  <h2>Teaching Experience</h2>
+<h2>Teaching Experience</h2>
 
-  <div class="card">
-    <div class="card-header">
-      <img draggable="false" src="{{ '/assets/img/institutions/pucp-logo.png' | relative_url }}" alt="PUCP Logo">
-    </div>
-    <div class="card-body">
-      <h5 class="card-title">Economics, PUCP</h5>
-      <ul class="list-compact">
-        <li><a href="{{ '/courses/mathematics-for-economists-3/2022-1' | relative_url }}">Mathematics for Economists 3</a></li>
-        <li><a href="{{ '/courses/mathematics-for-economists-4/2022-2' | relative_url }}">Mathematics for Economists 4</a></li>
-        <li><a href="{{ '/courses/microeconomics/2024-2' | relative_url }}">Microeconomics 2</a></li>
-        <li><a href="{{ '/courses/financial-microeconomics/2024-2/' | relative_url }}">Financial Microeconomics</a></li>
-      </ul>
-      <p class="card-text muted">
-        With
-        <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes" target="_blank" rel="noopener">Jorge Chávez</a> ·
-        <a href="https://www.pucp.edu.pe/profesor/pavel-coronado-castellanos" target="_blank" rel="noopener">Pavel Coronado</a> ·
-        <a href="https://es.wikipedia.org/wiki/Jos%C3%A9_Gallardo_Ku" target="_blank" rel="noopener">José Gallardo Ku</a>
-      </p>
-    </div>
+<div class="card">
+  <div class="card-header">
+    <img draggable="false" src="{{ '/assets/img/institutions/pucp-logo.png' | relative_url }}" alt="PUCP Logo">
   </div>
+  <div class="card-body">
+    <h5 class="card-title">Economics, PUCP</h5>
+    <p class="card-text">
+      <a href="{{ '/courses/mathematics-for-economists-3/2022-1' | relative_url }}">Mathematics for Economists 3</a> |
+      <a href="{{ '/courses/mathematics-for-economists-4/2022-2' | relative_url }}">Mathematics for Economists 4</a> |
+      <a href="{{ '/courses/microeconomics/2024-2' | relative_url }}">Microeconomics 2</a> |
+      <a href="{{ '/courses/financial-microeconomics/2024-2/' | relative_url }}">Financial Microeconomics</a>
+    </p>
+    <p class="card-text muted">
+      With
+      <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes" target="_blank" rel="noopener">Jorge Chávez</a> |
+      <a href="https://www.pucp.edu.pe/profesor/pavel-coronado-castellanos" target="_blank" rel="noopener">Pavel Coronado</a> |
+      <a href="https://es.wikipedia.org/wiki/Jos%C3%A9_Gallardo_Ku" target="_blank" rel="noopener">José Gallardo Ku</a>
+    </p>
+  </div>
+</div>
 
-  <div class="card">
-    <div class="card-header">
-      <img draggable="false" src="{{ '/assets/img/institutions/pucp-logo.png' | relative_url }}" alt="PUCP Logo">
-    </div>
-    <div class="card-body">
-      <h5 class="card-title">Mathematics, PUCP</h5>
-      <ul class="list-compact">
-        <li><a href="{{ '/courses/optimization-i/2024-1' | relative_url }}">Optimization I</a></li>
-        <li><a href="{{ '/courses/functional-analysis/2024-1' | relative_url }}">Functional Analysis</a></li>
-        <li><a href="{{ '/courses/applied-differential-equations/2025-2' | relative_url }}">Applied Differential Equations</a></li>
-      </ul>
-      <p class="card-text muted">
-        With
-        <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes" target="_blank" rel="noopener">Jorge Chávez</a> ·
-        <a href="https://www.pucp.edu.pe/profesor/percy-fernandez-sanchez" target="_blank" rel="noopener">Percy Fernández</a> ·
-        <a href="https://www.pucp.edu.pe/profesor/marcelo-velloso-flamarion-vasconcellos" target="_blank" rel="noopener">Marcelo Flamarion</a>
-      </p>
-    </div>
+<div class="card">
+  <div class="card-header">
+    <img draggable="false" src="{{ '/assets/img/institutions/pucp-logo.png' | relative_url }}" alt="PUCP Logo">
   </div>
+  <div class="card-body">
+    <h5 class="card-title">Mathematics, PUCP</h5>
+    <p class="card-text">
+      <a href="{{ '/courses/optimization-i/2024-1' | relative_url }}">Optimization I</a> |
+      <a href="{{ '/courses/functional-analysis/2024-1' | relative_url }}">Functional Analysis</a> |
+      <a href="{{ '/courses/applied-differential-equations/2025-2' | relative_url }}">Applied Differential Equations</a>
+    </p>
+    <p class="card-text muted">
+      With
+      <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes" target="_blank" rel="noopener">Jorge Chávez</a> |
+      <a href="https://www.pucp.edu.pe/profesor/percy-fernandez-sanchez" target="_blank" rel="noopener">Percy Fernández</a> |
+      <a href="https://www.pucp.edu.pe/profesor/marcelo-velloso-flamarion-vasconcellos" target="_blank" rel="noopener">Marcelo Flamarion</a>
+    </p>
+  </div>
+</div>
+
 
   <!-- Research Assistance -->
   <h2>Research Assistance</h2>
