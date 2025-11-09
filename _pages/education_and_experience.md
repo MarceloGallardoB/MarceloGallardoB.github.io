@@ -227,7 +227,7 @@ permalink: /experience/
     <div class="card-body">
       <p class="card-text"><a href="https://www.pucp.edu.pe/">Pontificia Universidad Católica del Perú</a></p>
       <h5 class="card-title">Research Assistant for Professor Jorge Chávez</h5>
-      <p class="card-text">Collaborating on optimization and economic theory research</p>
+      <p class="card-text">Collaborated on convex optimization and control theory applied to economics research</p>
       <p class="card-text muted">2021 – 2025</p>
     </div>
   </div>
@@ -239,7 +239,7 @@ permalink: /experience/
     <div class="card-body">
       <p class="card-text"><a href="https://www.grade.org.pe/">Grupo de Análisis para el Desarrollo (GRADE)</a></p>
       <h5 class="card-title">Research Assistant for Professor Juan León Jara-Almonte</h5>
-      <p class="card-text">Worked on applied econometric analysis and policy evaluation</p>
+      <p class="card-text">Worked on theoretical econometrics teaching material and applied econometric analysis </p>
       <p class="card-text muted">2022 – 2024</p>
     </div>
   </div>
