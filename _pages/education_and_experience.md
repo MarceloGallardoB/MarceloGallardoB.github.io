@@ -95,7 +95,17 @@ permalink: /experience/
       <p class="card-text">2017 - 2019</p>
     </div>
   </div>
-  
+
+  <div class="card">
+    <div class="card-header">
+      <img draggable="false" src="{{ '/assets/img/institutions/logo-epfl.png' | relative_url }}" alt="LPFL logo">
+    </div>
+    <div class="card-body">
+      <p class="card-text"><a href="https://lfrancope.edu.pe/">École Polytechnique Fédérale de Lausanne</a></p>
+      <h5 class="card-title">Studies in Physics</h5>
+      <p class="card-text">2019 – 2020</p>
+    </div>
+  </div>
   <!-- Complementary Education -->
   <h2>Complementary Education</h2>
   
