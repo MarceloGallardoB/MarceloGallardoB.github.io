@@ -92,7 +92,7 @@ permalink: /experience/
     <div class="card-body">
       <p class="card-text"><a href="https://lfrancope.edu.pe/">École Polytechnique Fédérale de Lausanne</a></p>
       <h5 class="card-title">Studies in Physics</h5>
-      <p class="card-text">2019 – 2020</p>
+      <p class="card-text">2019-2</p>
     </div>
   </div>
   
@@ -227,7 +227,7 @@ permalink: /experience/
     <div class="card-body">
       <p class="card-text"><a href="https://www.unsw.edu.au/business">University of New South Wales Business School</a></p>
       <h5 class="card-title">Research Assistant for Professor Juan Carlos Carbajal</h5>
-      <p class="card-text">Working on mechanism design and optimal transport theory</p>
+      <p class="card-text"> Working on mechanism design and political economy theory</p>
       <p class="card-text muted">2024 – Present</p>
     </div>
   </div>
@@ -239,7 +239,7 @@ permalink: /experience/
     <div class="card-body">
       <p class="card-text"><a href="https://www.pucp.edu.pe/">Pontificia Universidad Católica del Perú</a></p>
       <h5 class="card-title">Research Assistant for Professor Jorge Chávez</h5>
-      <p class="card-text">Collaborated on convex optimization and control theory applied to economics research</p>
+      <p class="card-text"> Convex optimization and control theory applied to economic theory</p>
       <p class="card-text muted">2021 – 2025</p>
     </div>
   </div>
@@ -251,7 +251,7 @@ permalink: /experience/
     <div class="card-body">
       <p class="card-text"><a href="https://www.grade.org.pe/">Grupo de Análisis para el Desarrollo (GRADE)</a></p>
       <h5 class="card-title">Research Assistant for Professor Juan León Jara-Almonte</h5>
-      <p class="card-text">Worked on theoretical econometrics teaching material and applied econometric analysis </p>
+      <p class="card-text">Worked on the development of theoretical econometrics teaching material and on applied econometric analysis </p>
       <p class="card-text muted">2022 – 2024</p>
     </div>
   </div>
