@@ -145,7 +145,7 @@ permalink: /experience/
     <div class="card-body">
       <p class="card-text"><a href="https://www.pucp.edu.pe/">Pontificia Universidad Católica del Perú</a></p>
       <h5 class="card-title">Excellence Scholarship</h5>
-      <p class="card-text">Winner – Individual Category</p>
+      <p class="card-text"></p>
       <p class="card-text">2024</p>
     </div>
   </div>  
@@ -227,7 +227,7 @@ permalink: /experience/
     <div class="card-body">
       <p class="card-text"><a href="https://www.unsw.edu.au/business">University of New South Wales Business School</a></p>
       <h5 class="card-title">Research Assistant for Professor Juan Carlos Carbajal</h5>
-      <p class="card-text"> Working on mechanism design and political economy theory</p>
+      <p class="card-text"> Mechanism design, auction theory and political economy</p>
       <p class="card-text muted">2024 – Present</p>
     </div>
   </div>
@@ -251,7 +251,7 @@ permalink: /experience/
     <div class="card-body">
       <p class="card-text"><a href="https://www.grade.org.pe/">Grupo de Análisis para el Desarrollo (GRADE)</a></p>
       <h5 class="card-title">Research Assistant for Professor Juan León Jara-Almonte</h5>
-      <p class="card-text">Worked on the development of theoretical econometrics teaching material and on applied econometric analysis </p>
+      <p class="card-text"> Theoretical econometrics and applied econometric analysis </p>
       <p class="card-text muted">2022 – 2024</p>
     </div>
   </div>
