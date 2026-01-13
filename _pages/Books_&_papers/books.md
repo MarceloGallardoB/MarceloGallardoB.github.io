@@ -21,6 +21,7 @@ permalink: /research/books/
     <summary>
       Summary | 
       <a href="{{ '/files/books-and-papers/Index_ALOECO.pdf' | relative_url }}" target="_blank">Index</a> | 
+      <a href="{{ '/files/books-and-papers/caratula_ALOECO.pdf' | relative_url }}" target="_blank">Editorial information</a>|     
       <a href="{{ '/files/books-and-papers/ALOECO_excerpt_chapter_10.pdf' | relative_url }}" target="_blank">Book Excerpt</a>
     </summary>
     Linear Algebra and Static Optimization for Economists. Covers topics such as linear systems, topology in real vector normed spaces, convex analysis, unconstraind and constrained optimization, and economic applications.
