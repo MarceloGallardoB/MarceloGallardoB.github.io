@@ -21,7 +21,7 @@ permalink: /research/books/
     <summary>
       Summary 
     </summary>
-    Linear Algebra and Static Optimization for Economists. Covers topics such as vector spaces, linear systems, topology in real vector normed spaces, convex sets, convex functions, unconstraind and constrained optimization, and economic applications (such as pure exchange economies).
+   The book covers topics such as vector spaces, linear systems, topology in real vector normed spaces, convex sets (Farkas Lemma), convex functions, unconstraind and constrained optimization, smooth comparative statics and economic applications (such as pure exchange economies).
   </details>
 
 
