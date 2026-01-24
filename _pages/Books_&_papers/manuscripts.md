@@ -17,17 +17,26 @@ permalink: /research/manuscripts/
 ## Working papers
 
 * Field Experiments on Seasonal Products and Markdown Pricing - Draft coming soon
-  Marcelo Gallardo and [Carlos Noton](https://economiayadministracion.uc.cl/docentes/carlos-noton/).  
+  Marcelo Gallardo, [Carlos Noton](https://economiayadministracion.uc.cl/docentes/carlos-noton/) and [Marcelo Olivares](https://www.marcelo-olivares.net/).  
   <details>
     <summary>Abstract | <a href="" target="_blank">Coming soon</a></summary>
   </details>
+
+
+* EPU Index: Leveraging X and DeepSeek - Draft coming soon
+  [Manuel Loaiza](https://github.com/ManuelLoaizaV), [Marcelo Gallardo](https://marcelogallardob.github.io/), and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/).  
+  <details>
+    <summary>Abstract | <a href="" target="_blank"> New version coming soon </a></summary>
+    This paper develops a new political-economic uncertainty index based on tweets from influential figures in Peruvian politics and economics.
+  </details>
+
 
 ---
 
 ## Preprints available
 
 
-* **[Congestion and Penalization in Optimal Transport](https://marcelogallardob.github.io/files/books-and-papers/congestion_penalization_optimal_transport.pdf)**    
+* **[Congestion and Penalization in Optimal Transport](https://marcelogallardob.github.io/files/books-and-papers/congestion_penalization_optimal_transport.pdf)** R&R at Decisions in Economics and Finance (Springer)   
   [Marcelo Gallardo](https://marcelogallardob.github.io/), [Manuel Loaiza](https://github.com/ManuelLoaizaV), and [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).  
   <details>
     <summary>Abstract | <a href="https://arxiv.org/abs/2410.07363" target="_blank">Pre-print</a></summary>
