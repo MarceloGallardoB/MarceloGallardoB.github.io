@@ -15,7 +15,7 @@ permalink: /research/books/
 {% include publications.html %}
 ## Books
 
-* Linear Algebra and Optimization for Economists - Published by [Fondo Editorial PUCP](https://www.fondoeditorial.pucp.edu.pe/)  
+* Linear Algebra and Optimization for Economists - Published by [Fondo Editorial PUCP](https://www.fondoeditorial.pucp.edu.pe/matematica/1760-gestion-de-la-sostenibilidad-en-la-moda-peruana-experiencias-de-investigacion.html)  
 [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and Marcelo Gallardo. Foreword by Professor [Cesar Martinelli](https://sites.google.com/site/martinellicesar/home). 
   <details>
     <summary>
