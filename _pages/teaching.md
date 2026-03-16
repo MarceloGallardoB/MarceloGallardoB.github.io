@@ -97,6 +97,8 @@ permalink: /teaching/
       </p>
       <hr>
       <p class="card-text">
+        <a href="{{ "/courses/optimization-i/2026" | relative_url
+          }}">2026-1</a> |
         <a href="{{ "/courses/optimization-i/2025-1" | relative_url
           }}">2025-1</a> |
         <a href="{{ "/courses/optimization-i/2024-1" | relative_url
