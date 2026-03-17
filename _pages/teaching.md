@@ -71,11 +71,11 @@ permalink: /teaching/
     <div class="card-body">
       <h5 class="card-title">
         <a href=""
-          target="_blank">Microeconomics 1 With PhD (a.b.d.)</a>
+          target="_blank">Microeconomics 1</a>
       </h5>
       <p class="card-text">
         With <a href=""
-          target="_blank">Jose Gallardo</a>
+          target="_blank">With PhD (a.b.d.) Jose Gallardo</a>
       </p>
       <hr>
       <p class="card-text">
