@@ -75,7 +75,7 @@ permalink: /teaching/
       </h5>
       <p class="card-text">
         With <a href=""
-          target="_blank">With PhD (a.b.d.) Jose Gallardo</a>
+          target="_blank">PhD (a.b.d.) Jose Gallardo</a>
       </p>
       <hr>
       <p class="card-text">
