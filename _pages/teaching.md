@@ -52,6 +52,7 @@ permalink: /teaching/
 </style>
 
 <div class="content-teaching">
+  
   <div>
     <h2>Teaching Assistance</h2>
      <p style="margin-top: -10px; margin-bottom: 10px;">
@@ -81,6 +82,24 @@ permalink: /teaching/
       <p class="card-text">
         <a href="{{ "/courses/applied-differential-equations/2025/2" | relative_url
           }}">2025-2</a> 
+      </p>
+    </div>
+  </div>
+
+  
+   <div class="card">
+    <div class="card-body">
+      <h5 class="card-title">
+        <a href=""
+          target="_blank">Microeconomics 1 With PhD (a.b.d.)</a>
+      </h5>
+      <p class="card-text">
+        With <a href=""
+          target="_blank">Jose Gallardo</a>
+      </p>
+      <hr>
+      <p class="card-text">
+        <a href="{{ "" | relative_url }}">2026-1</a> 
       </p>
     </div>
   </div>
