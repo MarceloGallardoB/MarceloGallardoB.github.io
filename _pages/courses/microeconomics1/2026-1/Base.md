@@ -1,4 +1,3 @@
-
 ---
 layout: pages
 title: "Microeconomics I - 2026-1"
@@ -9,17 +8,30 @@ permalink: /courses/microeconomics1/2026-1/Base
 
 ### Syllabus del curso
 
+- [Syllabus]({{ "" | relative_url }})
+
 ---
 
 ### Problem Sets
 
+---
+
 ### Graded problem Sets
+
+---
 
 ### Solutions to graded problem Sets
 
+---
+
 ### Exams
 
+
+---
+
 ### Mandatory book
+
+---
 
 ### Suggested books and sources
 
