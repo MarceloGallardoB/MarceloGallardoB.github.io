@@ -79,7 +79,7 @@ permalink: /teaching/
       </p>
       <hr>
       <p class="card-text">
-        <a href="{{ "/courses/microeconomics1/1/2026-1/Base.md" | relative_url }}">2026-1</a> 
+        <a href="{{ "/courses/microeconomics1/2026-1/Base.md" | relative_url }}">2026-1</a> 
       </p>
     </div>
   </div>
