@@ -8,7 +8,6 @@ permalink: /courses/microeconomics1/1/2026-1/Base.md
 ## [Microeconomics 1](), 2026-1
 
 ### Syllabus del curso
-- [Syllabus]({{ "" | relative_url }})
 
 ---
 
