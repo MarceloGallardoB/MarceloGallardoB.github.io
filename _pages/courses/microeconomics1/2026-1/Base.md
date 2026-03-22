@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: "Microeconomics I - 2026-1"
-permalink: /courses/microeconomics1/2026-1/Base
+permalink: /courses/microeconomics1/2026-1/
 ---
 
 ## [Microeconomics 1](), 2026-1
