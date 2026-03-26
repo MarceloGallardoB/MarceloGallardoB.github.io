@@ -8,7 +8,7 @@ permalink: /courses/microeconomics1/2026-1/
 
 ### Syllabus 
 
-- [Syllabus]({{ "/files/courses/Microeconomics 1/ECO255_MICROECONOMÍA 1 - Programa del Curso - José Gallardo.pdf" | relative_url }})
+- [Syllabus]({{ "/files/courses/Microeconomics 1/eco255_micro_1.pdf" | relative_url }})
 
 ---
 
