@@ -187,7 +187,7 @@ permalink: /experience/
         <a href="{{ '/courses/mathematics-for-economists-3/2022-1' | relative_url }}">Mathematics for Economists 3</a> |
         <a href="{{ '/courses/mathematics-for-economists-4/2022-2' | relative_url }}">Mathematics for Economists 4</a> |
         <a href="{{ '/courses/microeconomics/2024-2' | relative_url }}">Microeconomics 2</a> |
-        <a href="{{ '/courses/financial-microeconomics/2024-2/' | relative_url }}">Financial Microeconomics</a>|<a href="{{ '/courses/microeconomics1/2026-1/' | relative_url }}">Microeconomics 1</a> 
+        <a href="{{ '/courses/financial-microeconomics/2024-2/' | relative_url }}">Financial Microeconomics</a>|<a href="{{ '/courses/microeconomics1/2026-1/' | relative_url }}"> Microeconomics 1</a> 
       </p>
       <p class="card-text muted">
         With <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes" target="_blank">Jorge Chávez</a> |
