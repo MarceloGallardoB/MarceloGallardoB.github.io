@@ -28,9 +28,7 @@ permalink: /courses/microeconomics1/2026-1/
 
 ---
 
-### Suggested books and sources
-
-#### Obligatory
+### Suggested books 
 
 - Garavito, C. (2020). *Microeconomía: Consumidores, Productores y Estructuras de Mercado*. Segunda edición. Fondo Editorial PUCP.
 
@@ -40,15 +38,7 @@ permalink: /courses/microeconomics1/2026-1/
 
 - Varian, H. (2003). *Microeconomía Intermedia: Un enfoque actual*. Quinta edición. W.W. Norton & Company.
 
----
+-  Advanced (Optional): Mas-Colell, A., Whinston, M. & Green, J. (1995). *Microeconomic Theory*. Oxford University Press.
 
-#### Advanced (Optional)
-
-- Mas-Colell, A., Whinston, M. & Green, J. (1995). *Microeconomic Theory*. Oxford University Press.
-
----
-
-#### Mathematical Foundations
-
-- Chávez, J. & Gallardo, M. (2025). *Álgebra lineal y optimización para el análisis económico*. Fondo Editorial PUCP.  
+- Mathematical foundations (Complementary): Chávez, J. & Gallardo, M. (2025). *Álgebra lineal y optimización para el análisis económico*. Fondo Editorial PUCP.  
  
