@@ -13,7 +13,7 @@ permalink: /courses/microeconomics1/2026-1/
 ---
 
 ### Problem Sets
-
+- [Syllabus]({{ "/files/courses/Microeconomics 1/eco255_micro_1.pdf" | relative_url }})
 ---
 
 ### Graded problem Sets
@@ -21,7 +21,8 @@ permalink: /courses/microeconomics1/2026-1/
 ---
 
 ### Solutions to graded problem Sets
-
+- [Syllabus]({{ "/files/courses/Microeconomics 1/pd1.pdf" | relative_url }})
+ 
 ---
 
 ### Exams
@@ -39,6 +40,11 @@ permalink: /courses/microeconomics1/2026-1/
 - Varian, H. (2003). *Microeconomía Intermedia: Un enfoque actual*. Quinta edición. W.W. Norton & Company.
 
 -  Advanced (Optional): Mas-Colell, A., Whinston, M. & Green, J. (1995). *Microeconomic Theory*. Oxford University Press.
+
+---
+
+### Handouts (complementary) 
+
 
 - Mathematical foundations (Complementary): Chávez, J. & Gallardo, M. (2025). *Álgebra lineal y optimización para el análisis económico*. Fondo Editorial PUCP.  
  
