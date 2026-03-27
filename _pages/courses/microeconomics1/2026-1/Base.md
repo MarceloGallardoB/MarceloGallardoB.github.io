@@ -13,7 +13,7 @@ permalink: /courses/microeconomics1/2026-1/
 ---
 
 ### Problem Sets
-- [Syllabus]({{ "/files/courses/Microeconomics 1/eco255_micro_1.pdf" | relative_url }})
+- [PD1]({{ "/files/courses/Microeconomics 1/pd1.pdf" | relative_url }})
 ---
 
 ### Graded problem Sets
@@ -21,7 +21,7 @@ permalink: /courses/microeconomics1/2026-1/
 ---
 
 ### Solutions to graded problem Sets
-- [Syllabus]({{ "/files/courses/Microeconomics 1/pd1.pdf" | relative_url }})
+
  
 ---
 
