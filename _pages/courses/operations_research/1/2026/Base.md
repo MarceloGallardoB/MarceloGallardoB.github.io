@@ -17,7 +17,7 @@ permalink: /courses/operations_research/1/2026/Base
 ### Graded problem Sets
 
 ### Solutions to graded problem Sets
-- [Problem set 1]({{ "/files/courses/Optimization/1/2026/pd1_iop_2026_soluciones.pdf" | relative_url }})
+- [Solutions to problem set 1]({{ "/files/courses/Optimization/1/2026/pd1_iop_2026_soluciones.pdf" | relative_url }})
 
 ### Exams
 
