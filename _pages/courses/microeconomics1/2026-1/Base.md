@@ -19,19 +19,25 @@ permalink: /courses/microeconomics1/2026-1/
 ---
 
 ### Graded problem sets
-
+- [PC1]({{ "/files/courses/Microeconomics 1/pc1.pdf" | relative_url }})
+  
 ---
 
-### Solutions to graded problem sets
+### Solutions to problem sets
 - [Sol PD1]({{ "/files/courses/Microeconomics 1/solucionario_pd1.pdf" | relative_url }})
 - [Sol PD2]({{ "/files/courses/Microeconomics 1/solucionario_pd2_v2.pdf" | relative_url }})
  
 ---
+
+### Solutions to graded problem sets
+- [Sol PC1]({{ "/files/courses/Microeconomics 1/pc1_solucionario.pdf" | relative_url }})
+ 
+---
+
 ### Optional/advanced problem sets (not mandatory)
 - [Advanced and optional PD1]({{ "/files/courses/Microeconomics 1/pset_1_opcional.pdf" | relative_url }})
 
 ---
-
 
 ### Exams
 
