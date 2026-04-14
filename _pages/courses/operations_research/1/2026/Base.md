@@ -11,12 +11,13 @@ permalink: /courses/operations_research/1/2026/Base
 
 ---
 
-### Problem Sets
+### Problem sets
 - [Problem set 1]({{ "/files/courses/Optimization/1/2026/pd1_iop_2026.pdf" | relative_url }})
 
-### Graded problem Sets
+### Graded problem sets and solutions
+- [Graded problem set 1]({{ "/files/courses/Optimization/1/2026/pc1_v3_enunciado_solucionario.pdf" | relative_url }})
 
-### Solutions to graded problem Sets
+### Solutions to problem sets
 - [Solutions to problem set 1]({{ "/files/courses/Optimization/1/2026/pd1_iop_2026_soluciones.pdf" | relative_url }})
 
 ### Exams
