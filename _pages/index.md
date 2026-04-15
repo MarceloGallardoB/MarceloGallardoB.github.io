@@ -18,7 +18,7 @@ permalink: /
 
 {% include index.html %}
 
-Incoming PhD student in Economics at ... 
+Incoming PhD student in Economics at UC Berkeley. 
 
 Mathematician from the Pontificia Universidad Católica del Perú (PUCP) with a concentration in economics. 
 
