@@ -35,8 +35,9 @@ permalink: /courses/microeconomics1/2026-1/
  
 ---
 
-### Optional/advanced problem sets (not mandatory)
-- [Advanced and optional PD1]({{ "/files/courses/Microeconomics 1/pset_1_opcional.pdf" | relative_url }})
+### Optional/advanced problem sets or handouts (not mandatory)
+- [Advanced and optional problems in preferences and choice]({{ "/files/courses/Microeconomics 1/pset_1_opcional.pdf" | relative_url }})
+- [Envelope theorem and application]({{ "/files/courses/Microeconomics 1/teorema_envolvente.pdf" | relative_url }})
 
 ---
 
