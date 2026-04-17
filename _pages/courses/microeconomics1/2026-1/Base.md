@@ -15,7 +15,7 @@ permalink: /courses/microeconomics1/2026-1/
 ### Problem sets
 - [PD1]({{ "/files/courses/Microeconomics 1/pd1.pdf" | relative_url }})
 - [PD2]({{ "/files/courses/Microeconomics 1/pd2.pdf" | relative_url }})
-
+- [PD3]({{ "/files/courses/Microeconomics 1/pd3.pdf" | relative_url }})
 ---
 
 ### Graded problem sets
@@ -26,6 +26,7 @@ permalink: /courses/microeconomics1/2026-1/
 ### Solutions to problem sets
 - [Sol PD1]({{ "/files/courses/Microeconomics 1/solucionario_pd1.pdf" | relative_url }})
 - [Sol PD2]({{ "/files/courses/Microeconomics 1/solucionario_pd2_v2.pdf" | relative_url }})
+- [Sol PD3]({{ "/files/courses/Microeconomics 1/solucionario_pd3.pdf" | relative_url }})
  
 ---
 
