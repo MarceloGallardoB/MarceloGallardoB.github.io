@@ -130,7 +130,7 @@ permalink: /academic-presentation/
       </p>
     </details>
   </div>
-</div>
+
 
 
 
