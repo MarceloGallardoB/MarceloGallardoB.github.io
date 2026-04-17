@@ -35,20 +35,19 @@ permalink: /academic-presentation/
 
 <div class="content-academic-presentations">
   <h2>Academic presentations</h2>
-
-
   <div class="presentation-item">
     <p><strong>Congestion and penalization in optimal transport</strong></p>
     <p><em>For the 38th Colloquium of the Peruvian Mathematical Society 2025</em></p>
     <details>
       <summary>
-        Summary | <a style="color: #003d90" href="{{ '/files/slides/slides_mg_coloquio_2025.pdf' | relative_url }}" target="_blank">Slides</a>| <a style="color: #003d90" href="{{ '/files/certificates/Marcelo_Gallardo_Burga_Coloquio_Certificate.pdf' | relative_url }}" target="_blank">Certificate</a> | <a style="color: #003d90" </a>
+        Summary | <a style="color: #003d90" href="{{ '/files/slides/slides_mg_coloquio_2025.pdf' | relative_url }}" target="_blank">Slides</a> | <a style="color: #003d90" href="{{ '/files/certificates/Marcelo_Gallardo_Burga_Coloquio_Certificate.pdf' | relative_url }}" target="_blank">Certificate</a>
       </summary>
       <p>
-        Presentation for the 38th Colloquium of the Peruvian Mathematical Society, based on the paper of the same name. A new model is introduced and analyzed in both the finite and infinite types/groups cases. Existence and uniqueness of solutions are characterized via convex optimization in both finite and infinite dimensions, as well as a method for obtaining interior solutions in the discrete case using a Neumann approximation and an algorithm based on the Sherman–Morrison formula. .<br>
+        Presentation for the 38th Colloquium of the Peruvian Mathematical Society, based on the paper of the same name. A new model is introduced and analyzed in both the finite and infinite types/groups cases. Existence and uniqueness of solutions are characterized via convex optimization in both finite and infinite dimensions, as well as a method for obtaining interior solutions in the discrete case using a Neumann approximation and an algorithm based on the Sherman–Morrison formula.<br>
       </p>
     </details>
   </div>
+</div>
 
 
 
