@@ -16,6 +16,7 @@ permalink: /courses/microeconomics1/2026-1/
 - [PD1]({{ "/files/courses/Microeconomics 1/pd1.pdf" | relative_url }})
 - [PD2]({{ "/files/courses/Microeconomics 1/pd2.pdf" | relative_url }})
 - [PD3]({{ "/files/courses/Microeconomics 1/pd3.pdf" | relative_url }})
+  
 ---
 
 ### Graded problem sets
