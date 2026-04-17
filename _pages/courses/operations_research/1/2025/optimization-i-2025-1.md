@@ -40,7 +40,7 @@ permalink: /courses/optimization-i/2025-1/
 ### Exams
 - [Midterm]({{ "/files/courses/Optimization/1/2025/examen_parcial_iop_2025.pdf" | relative_url }})
 - [Midterm solutions]({{ "/files/courses/Optimization/1/2025/sol_examen_parcial.pdf" | relative_url }})
-
+- [Final exam]({{ "/files/courses/Optimization/1/2025/final_iop224_2025.pdf" | relative_url }})
 
 ### Suggested books and sources
 - (1) For linear algebra: Linear Algebra Done Right 4h edition (Sheldon Axler, 2025), Linear Algebra 2nd Edition (Kenneth M Hoffman and Ray Kunze, 1971).
