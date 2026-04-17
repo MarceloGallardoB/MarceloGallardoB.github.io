@@ -57,10 +57,7 @@ permalink: /courses/microeconomics1/2026-1/
 
 -  Advanced (Optional): Mas-Colell, A., Whinston, M. & Green, J. (1995). *Microeconomic Theory*. Oxford University Press.
 
----
-
-### Handouts (complementary) 
-
-
 - Mathematical foundations (Complementary): Chávez, J. & Gallardo, M. (2025). *Álgebra lineal y optimización para el análisis económico*. Fondo Editorial PUCP.  
- 
+
+- Mathematical foundations (Optional): Sundaram (2025). *A First Course in Optimization*. Cambridge University Press.  
+
