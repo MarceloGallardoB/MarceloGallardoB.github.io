@@ -21,6 +21,7 @@ permalink: /courses/microeconomics1/2026-1/
 
 ### Graded problem sets
 - [PC1]({{ "/files/courses/Microeconomics 1/pc1.pdf" | relative_url }})
+- [PC1r]({{ "/files/courses/Microeconomics 1/pc1r.pdf" | relative_url }})
   
 ---
 
@@ -33,12 +34,13 @@ permalink: /courses/microeconomics1/2026-1/
 
 ### Solutions to graded problem sets
 - [Sol PC1]({{ "/files/courses/Microeconomics 1/pc1_solucionario.pdf" | relative_url }})
- 
+- [Sol PC1r]({{ "/files/courses/Microeconomics 1/pc1r_solucionario.pdf" | relative_url }})
 ---
 
 ### Optional/advanced problem sets or handouts (not mandatory)
 - [Advanced and optional problems in preferences and choice]({{ "/files/courses/Microeconomics 1/pset_1_opcional.pdf" | relative_url }})
 - [Envelope theorem and application]({{ "/files/courses/Microeconomics 1/teorema_envolvente.pdf" | relative_url }})
+- [Lagrange and multiplier sign]({{ "/files/courses/Microeconomics 1/lagrangiano_v3.pdf" | relative_url }})
 
 ---
 
