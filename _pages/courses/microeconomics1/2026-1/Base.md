@@ -22,7 +22,8 @@ permalink: /courses/microeconomics1/2026-1/
 ### Graded problem sets
 - [PC1]({{ "/files/courses/Microeconomics 1/pc1.pdf" | relative_url }})
 - [PC1r]({{ "/files/courses/Microeconomics 1/pc1r.pdf" | relative_url }})
-  
+
+
 ---
 
 ### Solutions to problem sets
