@@ -41,6 +41,7 @@ permalink: /courses/microeconomics1/2026-1/
 - [Advanced and optional problems in preferences and choice]({{ "/files/courses/Microeconomics 1/pset_1_opcional.pdf" | relative_url }})
 - [Envelope theorem and application]({{ "/files/courses/Microeconomics 1/teorema_envolvente.pdf" | relative_url }})
 - [Lagrange and multiplier sign]({{ "/files/courses/Microeconomics 1/lagrangiano_v3.pdf" | relative_url }})
+- [Expenditure minimization]({{ "/files/courses/Microeconomics 1/minimizacion_gasto.pdf" | relative_url }})
 
 ---
 
