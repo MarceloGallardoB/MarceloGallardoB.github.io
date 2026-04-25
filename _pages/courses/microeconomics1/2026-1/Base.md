@@ -44,7 +44,7 @@ permalink: /courses/microeconomics1/2026-1/
 - [Math. review: Envelope theorem and applications]({{ "/files/courses/Microeconomics 1/teorema_envolvente.pdf" | relative_url }})
 - [Math. review: Constrained optimization and Lagrange multiplier sign]({{ "/files/courses/Microeconomics 1/lagrangiano_v3.pdf" | relative_url }})
 - [Consumer theory: Expenditure minimization for classical utility functions]({{ "/files/courses/Microeconomics 1/minimizacion_gasto.pdf" | relative_url }})
-- [Welfare: Compensating and equivalent variation]({{ "/files/courses/Microeconomics 1/minimizacion_gasto.pdf" | relative_url }})
+- [Welfare: Compensating and equivalent variation]({{ "/files/courses/Microeconomics 1/nota_vc_ve.pdf" | relative_url }})
 
 ---
 
