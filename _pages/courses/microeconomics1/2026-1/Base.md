@@ -16,6 +16,7 @@ permalink: /courses/microeconomics1/2026-1/
 - [PD1]({{ "/files/courses/Microeconomics 1/pd1.pdf" | relative_url }})
 - [PD2]({{ "/files/courses/Microeconomics 1/pd2.pdf" | relative_url }})
 - [PD3]({{ "/files/courses/Microeconomics 1/pd3.pdf" | relative_url }})
+- [PD4]({{ "/files/courses/Microeconomics 1/pd4.pdf" | relative_url }})
   
 ---
 
@@ -39,10 +40,11 @@ permalink: /courses/microeconomics1/2026-1/
 ---
 
 ### Optional/advanced problem sets or handouts (not mandatory)
-- [Advanced and optional problems in preferences and choice]({{ "/files/courses/Microeconomics 1/pset_1_opcional.pdf" | relative_url }})
-- [Envelope theorem and application]({{ "/files/courses/Microeconomics 1/teorema_envolvente.pdf" | relative_url }})
-- [Lagrange and multiplier sign]({{ "/files/courses/Microeconomics 1/lagrangiano_v3.pdf" | relative_url }})
-- [Expenditure minimization]({{ "/files/courses/Microeconomics 1/minimizacion_gasto.pdf" | relative_url }})
+- [Preferences: Advanced and optional problems in decision theory (preferences and choice)]({{ "/files/courses/Microeconomics 1/pset_1_opcional.pdf" | relative_url }})
+- [Math. review: Envelope theorem and applications]({{ "/files/courses/Microeconomics 1/teorema_envolvente.pdf" | relative_url }})
+- [Math. review: Constrained optimization and Lagrange multiplier sign]({{ "/files/courses/Microeconomics 1/lagrangiano_v3.pdf" | relative_url }})
+- [Consumer theory: Expenditure minimization for classical utility functions]({{ "/files/courses/Microeconomics 1/minimizacion_gasto.pdf" | relative_url }})
+- [Welfare: Compensating and equivalent variation]({{ "/files/courses/Microeconomics 1/minimizacion_gasto.pdf" | relative_url }})
 
 ---
 
