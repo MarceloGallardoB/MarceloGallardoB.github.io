@@ -37,7 +37,8 @@ permalink: /courses/microeconomics1/2026-1/
 ### Solutions to graded problem sets
 - [Sol PC1]({{ "/files/courses/Microeconomics 1/pc1_solucionario.pdf" | relative_url }})
 - [Sol PC1r]({{ "/files/courses/Microeconomics 1/pc1r_solucionario.pdf" | relative_url }})
-  
+- [Sol PC2]({{ "/files/courses/Microeconomics 1/pc2_solucionario.pdf" | relative_url }})
+
 ---
 
 ### Optional/advanced problem sets or handouts (not mandatory)
