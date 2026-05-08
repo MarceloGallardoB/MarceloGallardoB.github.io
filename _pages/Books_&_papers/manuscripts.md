@@ -16,20 +16,32 @@ permalink: /research/manuscripts/
 
 ## Working papers
 
-* Field Experiments on Seasonal Products and Markdown Pricing - Draft coming soon!
+* Field Experiments on Seasonal Products and Markdown Pricing - Draft coming soon.
   Marcelo Gallardo, [Carlos Noton](https://economiayadministracion.uc.cl/docentes/carlos-noton/) and [Marcelo Olivares](https://www.marcelo-olivares.net/).  
   <details>
     <summary>Abstract | <a href="" target="_blank">Coming soon</a></summary>
   </details>
 
 
-* EPU Index: Leveraging X and DeepSeek - Draft coming soon
+* EPU Index: Leveraging X and DeepSeek - Draft coming soon.
   [Manuel Loaiza](https://github.com/ManuelLoaizaV), [Marcelo Gallardo](https://marcelogallardob.github.io/), and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/).  
   <details>
     <summary>Abstract | <a href="" target="_blank"> New version coming soon </a></summary>
     This paper develops a new political-economic uncertainty index based on tweets from influential figures in Peruvian politics and economics. We use DeepSeek to process the tweets.
   </details>
 
+* Information and voting: Evidence from Peru's 2026 presidential election - Draft coming soon.
+  [Marcelo Gallardo](https://marcelogallardob.github.io/), Nicolás Velarde and Cristina Gutarra.  
+  <details>
+    <summary>Abstract | <a href="" target="_blank"> New version coming soon </a></summary>
+    We study how election-night flash electoral estimates shape voting decisions in Peru's highly fragmented 2026 presidential election. We exploit a natural experiment: on 12-April-2026, 187 polling tables in 13 voting centres could not be installed, and the Jurado Nacional de Elecciones (JNE) extended voting for the
+affected (near 55 000) electors to Monday 13~April. These voters cast their ballots after observing the flash estimates of
+Ipsos and Datum, while otherwise comparable Sunday voters did not. We develop a Bayesian-persuasion model of voting in a
+multi-candidate plurality election with two public signals about the identity of the second-place finisher, and derive testable
+predictions about vote reallocation toward the three candidates the flash estimates rendered viable: López Aliaga, Sánchez, and Nieto. The empirical strategy combines the natural-experiment design with matching on polling-table-level pre-treatment covariates: distributions of voter sex and age at the table,
+district-level demographics, and a single Right--Left index constructed from 2021 first-round shares. The estimated
+treatment effects also discipline the strategic-intensity rati b_i/a_i that governs how much voters trade off ideological match for runoff viability. Our results inform the design of electoral information environments in young democracies with high political volatility, a question of first-order importance in Peru, a country that has had nine presidents in ten years and persistent institutional instability since 2016.
+  </details>
 
 ---
 
