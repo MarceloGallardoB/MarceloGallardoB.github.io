@@ -17,6 +17,7 @@ permalink: /courses/microeconomics1/2026-1/
 - [PD2]({{ "/files/courses/Microeconomics 1/pd2.pdf" | relative_url }})
 - [PD3]({{ "/files/courses/Microeconomics 1/pd3.pdf" | relative_url }})
 - [PD4]({{ "/files/courses/Microeconomics 1/pd4.pdf" | relative_url }})
+- [PD5]({{ "/files/courses/Microeconomics 1/pd5.pdf" | relative_url }})
   
 ---
 
