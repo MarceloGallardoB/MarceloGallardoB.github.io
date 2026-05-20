@@ -71,23 +71,6 @@ permalink: /teaching/
     <div class="card-body">
       <h5 class="card-title">
         <a href=""
-          target="_blank">Microeconomics 1</a>
-      </h5>
-      <p class="card-text">
-        With <a href=""
-          target="_blank">PhD (a.b.d.) Jose Gallardo</a>
-      </p>
-      <hr>
-      <p class="card-text">
-        <a href="{{ "/courses/microeconomics1/2026-1" | relative_url }}">2026-1</a> 
-      </p>
-    </div>
-  </div>
- 
-   <div class="card">
-    <div class="card-body">
-      <h5 class="card-title">
-        <a href=""
           target="_blank">Applied Differential Equations </a>
       </h5>
       <p class="card-text">
@@ -146,6 +129,23 @@ permalink: /teaching/
 
   <div>
     <h4>Faculty of Social Sciences, Economics and Finance</h4>
+  </div>
+
+   <div class="card">
+    <div class="card-body">
+      <h5 class="card-title">
+        <a href=""
+          target="_blank">Microeconomics 1</a>
+      </h5>
+      <p class="card-text">
+        With <a href=""
+          target="_blank">PhD (a.b.d.) Jose Gallardo</a>
+      </p>
+      <hr>
+      <p class="card-text">
+        <a href="{{ "/courses/microeconomics1/2026-1" | relative_url }}">2026-1</a> 
+      </p>
+    </div>
   </div>
 
   <div class="card">
