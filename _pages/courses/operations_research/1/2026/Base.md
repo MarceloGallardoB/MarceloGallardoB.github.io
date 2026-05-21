@@ -33,7 +33,7 @@ permalink: /courses/operations_research/1/2026/Base
 
 ### Mandatory book
 
-[Linear Algebra and Optimization for the Economic Analysis](https://www.fondoeditorial.pucp.edu.pe/matematica/1760-gestion-de-la-sostenibilidad-en-la-moda-peruana-experiencias-de-investigacion.html)
+[Linear Algebra and Optimization for the Economic Analysis](https://www.fondoeditorial.pucp.edu.pe/matematica/1760-gestion-de-la-sostenibilidad-en-la-moda-peruana-experiencias-de-investigacion.html) by Jorge Chávez and Marcelo Gallardo.
 
 ### Suggested books and sources
 - (1) For linear algebra: Linear Algebra Done Right 4h edition (Sheldon Axler, 2025), Linear Algebra 2nd Edition (Kenneth M Hoffman and Ray Kunze, 1971).
