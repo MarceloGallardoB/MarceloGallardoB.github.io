@@ -18,12 +18,14 @@ permalink: /courses/microeconomics1/2026-1/
 - [PD3]({{ "/files/courses/Microeconomics 1/pd3.pdf" | relative_url }})
 - [PD4]({{ "/files/courses/Microeconomics 1/pd4.pdf" | relative_url }})
 - [PD5]({{ "/files/courses/Microeconomics 1/pd5.pdf" | relative_url }})
+- [PD6]({{ "/files/courses/Microeconomics 1/pd6.pdf" | relative_url }})
   
 ---
 
 ### Graded problem sets
 - [PC1]({{ "/files/courses/Microeconomics 1/pc1.pdf" | relative_url }})
 - [PC1r]({{ "/files/courses/Microeconomics 1/pc1r.pdf" | relative_url }})
+- [PC2]({{ "/files/courses/Microeconomics 1/pc2_solucionario.pdf" | relative_url }})
 
 ---
 
@@ -33,6 +35,7 @@ permalink: /courses/microeconomics1/2026-1/
 - [Sol PD3]({{ "/files/courses/Microeconomics 1/solucionario_pd3.pdf" | relative_url }})
 - [Sol PD4]({{ "/files/courses/Microeconomics 1/sol4.pdf" | relative_url }})
 - [Sol PD5]({{ "/files/courses/Microeconomics 1/sol_pd5.pdf" | relative_url }})
+- [Sol PD6]({{ "/files/courses/Microeconomics 1/solucionario_pd6.pdf" | relative_url }})
 
 ---
 
@@ -53,6 +56,9 @@ permalink: /courses/microeconomics1/2026-1/
 ---
 
 ### Exams
+
+- [Midterm]({{ "/files/courses/Microeconomics 1/parcial_2026_1.pdf" | relative_url }})
+
 
 ---
 
