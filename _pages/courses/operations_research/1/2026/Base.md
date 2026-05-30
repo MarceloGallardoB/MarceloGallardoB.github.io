@@ -28,6 +28,9 @@ permalink: /courses/operations_research/1/2026/Base
 ### Solutions to problem sets
 - [Solutions to problem set 1]({{ "/files/courses/Optimization/1/2026/pd1_iop_2026_soluciones.pdf" | relative_url }})
 - [Solutions to problem set 2]({{ "/files/courses/Optimization/1/2026/pd2_iop_2026_v2_soluciones.pdf" | relative_url }})
+- [Solutions to problem set 3]({{ "/files/courses/Optimization/1/2026/pd3_iop_2026_soluciones.pdf" | relative_url }})
+
+---
 
 ### Exams
 - [Midterm with solutions]({{ "/files/courses/Optimization/1/2026/parcial_iop_2026.pdf" | relative_url }})
