@@ -19,6 +19,7 @@ permalink: /courses/microeconomics1/2026-1/
 - [PD4]({{ "/files/courses/Microeconomics 1/pd4.pdf" | relative_url }})
 - [PD5]({{ "/files/courses/Microeconomics 1/pd5.pdf" | relative_url }})
 - [PD6]({{ "/files/courses/Microeconomics 1/pd6.pdf" | relative_url }})
+- [PD7]({{ "/files/courses/Microeconomics 1/pd7.pdf" | relative_url }})
   
 ---
 
@@ -37,6 +38,7 @@ permalink: /courses/microeconomics1/2026-1/
 - [Sol PD4]({{ "/files/courses/Microeconomics 1/sol4.pdf" | relative_url }})
 - [Sol PD5]({{ "/files/courses/Microeconomics 1/sol_pd5.pdf" | relative_url }})
 - [Sol PD6]({{ "/files/courses/Microeconomics 1/solucionario_pd6.pdf" | relative_url }})
+- [Sol PD7]({{ "/files/courses/Microeconomics 1/solucionario_pd7.pdf" | relative_url }})
 
 ---
 
