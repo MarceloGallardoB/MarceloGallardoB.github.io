@@ -22,6 +22,7 @@ permalink: /courses/operations_research/1/2026/Base
 - [Graded problem set 1 (with solutions)]({{ "/files/courses/Optimization/1/2026/pc1_v3_enunciado_solucionario.pdf" | relative_url }})
 - [Graded problem set 2]({{ "/files/courses/Optimization/1/2026/practica2_2026.pdf" | relative_url }})
 - [Graded problem set 2 (solutions)]({{ "/files/courses/Optimization/1/2026/practica2_2026_sol.pdf" | relative_url }})
+- [Graded problem set 3]({{ "/files/courses/Optimization/1/2026/pc3_iop_2026_enunciado.pdf" | relative_url }})
 
 ---
 
