@@ -75,7 +75,6 @@ permalink: /academic-presentation/
     <p>
       <strong>
         On the Conference Paper: Finding a Walrasian Equilibrium is Easy for a Fixed Number of Agents
-        </a>
         by 
         <a href="https://eml.berkeley.edu/~fechenique/index.html" target="_blank">Federico Echenique</a>
         and 
