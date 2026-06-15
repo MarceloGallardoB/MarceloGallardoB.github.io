@@ -41,6 +41,7 @@ permalink: /courses/microeconomics1/2026-1/
 - [Sol PD6]({{ "/files/courses/Microeconomics 1/solucionario_pd6.pdf" | relative_url }})
 - [Sol PD7]({{ "/files/courses/Microeconomics 1/solucionario_pd7.pdf" | relative_url }})
 - [Sol PD8]({{ "/files/courses/Microeconomics 1/solucionario_pd8.pdf" | relative_url }})
+  
 ---
 
 ### Solutions to graded problem sets
