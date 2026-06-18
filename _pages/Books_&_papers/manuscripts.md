@@ -39,7 +39,7 @@ permalink: /research/manuscripts/
 
 ---
 
-## Preprints available
+## Completed papers
 
 * **[Congestion and Penalization in Optimal Transport](https://marcelogallardob.github.io/files/books-and-papers/congestion_penalization_optimal_transport.pdf)** R&R at Decisions in Economics and Finance (Springer) New version! 
   [Marcelo Gallardo](https://marcelogallardob.github.io/), [Manuel Loaiza](https://github.com/ManuelLoaizaV), and [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).  
