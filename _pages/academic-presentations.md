@@ -36,6 +36,23 @@ permalink: /academic-presentation/
 <div class="content-academic-presentations">
   <h2>Academic presentations</h2>
   <div class="presentation-item">
+    <p><strong>Information and voting: Evidence from Peru’s 2026 presidential election (2026) with Nicolas Velarde and Cristina Gutarra </strong></p>
+    <p><em>For the XIV Economics Students’ Assembly Colloquium (2026) </em></p>
+    <details>
+      <summary>
+        Summary | <a style="color: #003d90" href="{{ '/files/slides/info_voting_2026.pdf' | relative_url }}" target="_blank">Slides</a> | <a style="color: #003d90" href="{{ '' | relative_url }}" target="_blank">Certificate</a>
+      </summary>
+      <p>
+        Presentation for the XIV Economics Students' Assembly Colloquium, 2026, based on the paper of the same name. The causal effect of election-night flash estimates on voting behavior is studied through a natural experiment, in which a logistical failure displaced roughly 55,000 voters in Lima Sur to vote one day after the rest of the country, once the first viability signals had already been released. A Bayesian-updating / information-design model is combined with a cardinality matching design to identify the treatment effects on candidate vote shares, and the resulting reallocation is explained by a viability × affinity mechanism.<br>
+      </p>
+    </details>
+  </div>
+</div>
+
+
+<div class="content-academic-presentations">
+  <h2>Academic presentations</h2>
+  <div class="presentation-item">
     <p><strong>Congestion and penalization in optimal transport</strong></p>
     <p><em>For the 38th Colloquium of the Peruvian Mathematical Society 2025</em></p>
     <details>
