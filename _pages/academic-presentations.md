@@ -34,6 +34,7 @@ permalink: /academic-presentation/
 </style>
 
 <div class="content-academic-presentations">
+   <h2>Academic presentations</h2>
   <div class="presentation-item">
     <p><strong>Information and voting: Evidence from Peru’s 2026 presidential election (2026) with Nicolas Velarde and Cristina Gutarra </strong></p>
     <p><em>For the XIV Economics Students’ Assembly Colloquium (2026) </em></p>
@@ -50,7 +51,6 @@ permalink: /academic-presentation/
 
 
 <div class="content-academic-presentations">
-  <h2>Academic presentations</h2>
   <div class="presentation-item">
     <p><strong>Congestion and penalization in optimal transport</strong></p>
     <p><em>For the 38th Colloquium of the Peruvian Mathematical Society 2025</em></p>
