@@ -29,6 +29,7 @@ permalink: /courses/microeconomics1/2026-1/
 - [PC1r]({{ "/files/courses/Microeconomics 1/pc1r.pdf" | relative_url }})
 - [PC2]({{ "/files/courses/Microeconomics 1/pc2_solucionario.pdf" | relative_url }})
 - [PC3]({{ "/files/courses/Microeconomics 1/pc3.pdf" | relative_url }})
+- [PC4]({{ "/files/courses/Microeconomics 1/pc4.pdf" | relative_url }})
 
 ---
 
@@ -49,6 +50,7 @@ permalink: /courses/microeconomics1/2026-1/
 - [Sol PC1r]({{ "/files/courses/Microeconomics 1/pc1r_solucionario.pdf" | relative_url }})
 - [Sol PC2]({{ "/files/courses/Microeconomics 1/pc2_solucionario.pdf" | relative_url }})
 - [Sol PC3]({{ "/files/courses/Microeconomics 1/solucionario_pc3.pdf" | relative_url }})
+- [Sol PC4]({{ "/files/courses/Microeconomics 1/solucionario_pc4.pdf" | relative_url }})
 
 ---
 
