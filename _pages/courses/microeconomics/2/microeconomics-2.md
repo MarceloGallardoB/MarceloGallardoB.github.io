@@ -20,7 +20,7 @@ permalink: /courses/microeconomics/2024-2/
 - [Problem set 3]({{ "/files/courses/Microeconomics-II/Problem_set_3_Micro_2.pdf" | relative_url }})
 - [Problem set 4]({{ "/files/courses/Microeconomics-II/Problem_set_4_Micro_2.pdf" | relative_url }})
 - [Problem set 5]({{ "/files/courses/Microeconomics-II/Problem_set_5_Micro_2.pdf" | relative_url }})
-- [Problem set 6]({{ "/files/courses/Microeconomics-II/Problem_set_6_Micro_2.pdf" | r`elative_url }})
+- [Problem set 6]({{ "/files/courses/Microeconomics-II/Problem_set_6_Micro_2.pdf" | relative_url }})
 - [Problem set 7]({{ "/files/courses/Microeconomics-II/Problem_set_7_Micro_2.pdf" | relative_url }})
 - [Problem set 8]({{ "/files/courses/Microeconomics-II/Problem_set_8_Micro_2.pdf" | relative_url }})
 

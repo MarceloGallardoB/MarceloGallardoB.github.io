@@ -55,9 +55,35 @@ permalink: /teaching/
   
   <div>
     <h2>Teaching Assistance</h2>
-     <p style="margin-top: -10px; margin-bottom: 10px;">
+    <p style="margin-top: -10px; margin-bottom: 10px;">
       I have served as a teaching assistant in various undergraduate-level courses in mathematics and economics. All typos are my own—please don't hesitate to point them out! 
     </p>
+    <h3>
+      <img src="{{ '/assets/img/institutions/uc-berkeley.png' | relative_url }}"
+        draggable="false" alt="UC Berkeley Logo"
+        style="height: 30px; vertical-align: middle;"> University of California, Berkeley
+    </h3>
+    <h4>Department of Economics</h4>
+  </div>
+
+  <div class="card">
+    <div class="card-body">
+      <h5 class="card-title">
+        <a href="https://econ.berkeley.edu/course/2025-fall-econ-1-001-lec-001"
+          target="_blank">ECON 1 - Introduction to Economics (Section 001)</a>
+      </h5>
+      <p class="card-text">
+        Reader, University of California, Berkeley
+      </p>
+      <hr>
+      <p class="card-text">
+        <a href="https://econ.berkeley.edu/course/2025-fall-econ-1-001-lec-001"
+          target="_blank">Fall 2026</a>
+      </p>
+    </div>
+  </div>
+
+  <div>
     <h3>
       <img src="{{ '/assets/img/institutions/pucp-logo.png' | relative_url }}"
         draggable="false" alt="PUCP Logo"

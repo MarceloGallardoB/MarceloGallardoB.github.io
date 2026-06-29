@@ -33,10 +33,23 @@ permalink: /experience/
   .card-header img {
     display: block;
     margin: 0;
+    width: 42px;
+    height: 42px;
+    object-fit: contain;
   }
   
   .card-body {
     text-align: left;
+    min-width: 0;
+  }
+
+  .content-experience .card {
+    align-items: flex-start;
+    gap: 12px;
+  }
+
+  .content-experience .card-header {
+    flex: 0 0 52px;
   }
   
   @media (max-width: 768px) {
@@ -54,6 +67,7 @@ permalink: /experience/
     
    .card-header img{
       width:30px;
+      height:30px;
    }
 
    .card-title{
@@ -69,6 +83,17 @@ permalink: /experience/
 <div class="content-experience">
   <!-- Education -->
   <h2>Education</h2>
+
+  <div class="card">
+    <div class="card-header">
+      <img draggable="false" src="{{ '/assets/img/institutions/uc-berkeley.png' | relative_url }}" alt="UC Berkeley Logo">
+    </div>
+    <div class="card-body">
+      <p class="card-text"><a href="https://econ.berkeley.edu/" target="_blank">University of California, Berkeley</a></p>
+      <h5 class="card-title">PhD in Economics</h5>
+      <p class="card-text">2026 - Present</p>
+    </div>
+  </div>
   
   <div class="card">
     <div class="card-header">
@@ -175,6 +200,20 @@ permalink: /experience/
 
   <!-- Teaching Experience -->
   <h2>Teaching Experience</h2>
+
+  <div class="card">
+    <div class="card-header">
+      <img draggable="false" src="{{ '/assets/img/institutions/uc-berkeley.png' | relative_url }}" alt="UC Berkeley Logo">
+    </div>
+    <div class="card-body">
+      <p class="card-text"><a href="https://econ.berkeley.edu/" target="_blank">University of California, Berkeley</a></p>
+      <h5 class="card-title">Reader</h5>
+      <p class="card-text">
+        <a href="https://econ.berkeley.edu/course/2025-fall-econ-1-001-lec-001" target="_blank">ECON 1 - Introduction to Economics (Section 001)</a>
+      </p>
+      <p class="card-text muted">Fall 2026</p>
+    </div>
+  </div>
 
   <div class="card">
     <div class="card-header">

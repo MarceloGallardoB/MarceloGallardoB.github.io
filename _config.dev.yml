@@ -11,3 +11,5 @@ comments:
 
 sass:
   style: expanded
+  cache: false
+  cache_location: /tmp/sass-cache
