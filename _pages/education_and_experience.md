@@ -116,7 +116,7 @@ permalink: /experience/
     </div>
     <div class="card-body">
       <p class="card-text"><a href="https://lfrancope.edu.pe/">École Polytechnique Fédérale de Lausanne</a></p>
-      <h5 class="card-title">Studies in Physics</h5>
+      <h5 class="card-title">Cycle Propédeutique BA1 </h5>
       <p class="card-text">2019-2</p>
     </div>
   </div>
