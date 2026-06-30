@@ -24,7 +24,6 @@ permalink: /courses/microeconomics1/2026-1/
 - [PD9]({{ "/files/courses/Microeconomics 1/pd9.pdf" | relative_url }})
 - [PD10]({{ "/files/courses/Microeconomics 1/pd10.pdf" | relative_url }})
 
-
 ---
 
 ### Graded problem sets
