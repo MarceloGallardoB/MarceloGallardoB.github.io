@@ -69,7 +69,7 @@ permalink: /teaching/
   <div class="card">
     <div class="card-body">
       <h5 class="card-title">
-        <a href="https://econ.berkeley.edu/course/2025-fall-econ-1-001-lec-001"
+        <a href="https://undergraduate.catalog.berkeley.edu/courses/1051681/overview-aoYks"
           target="_blank">ECON 1 - Introduction to Economics (Section 001)</a>
       </h5>
       <p class="card-text">
