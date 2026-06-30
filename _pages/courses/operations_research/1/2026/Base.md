@@ -15,6 +15,7 @@ permalink: /courses/operations_research/1/2026/Base
 - [Problem set 1]({{ "/files/courses/Optimization/1/2026/pd1_iop_2026.pdf" | relative_url }})
 - [Problem set 2]({{ "/files/courses/Optimization/1/2026/pd2_iop_2026_v2.pdf" | relative_url }})
 - [Problem set 3]({{ "/files/courses/Optimization/1/2026/pd3_iop_2026.pdf" | relative_url }})
+- [Problem set 4]({{ "/files/courses/Optimization/1/2026/lista_juegos_preferencias_iop_2026_enunciado.pdf" | relative_url }})
 
 ---
 
