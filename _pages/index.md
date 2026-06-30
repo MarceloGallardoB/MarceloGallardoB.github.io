@@ -19,6 +19,7 @@ permalink: /
 {% include index.html %}
 
 Mathematician from the Pontificia Universidad Católica del Perú (PUCP) with a concentration in economics.
-Incoming Ph.D. student at University of California, Berkeley.
+
+Incoming Ph.D. student at the University of California, Berkeley.
 
 Contact information [here]({{ "/contact" | relative_url }}) and CV [here]({{ "/files/education-and-experience/cv_mg.pdf" | relative_url }}).
