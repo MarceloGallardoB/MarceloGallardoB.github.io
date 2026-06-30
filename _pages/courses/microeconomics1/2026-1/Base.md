@@ -21,7 +21,10 @@ permalink: /courses/microeconomics1/2026-1/
 - [PD6]({{ "/files/courses/Microeconomics 1/pd6.pdf" | relative_url }})
 - [PD7]({{ "/files/courses/Microeconomics 1/pd7.pdf" | relative_url }})
 - [PD8]({{ "/files/courses/Microeconomics 1/pd8.pdf" | relative_url }})
-  
+- [PD9]({{ "/files/courses/Microeconomics 1/pd9.pdf" | relative_url }})
+- [PD10]({{ "/files/courses/Microeconomics 1/pd10.pdf" | relative_url }})
+
+
 ---
 
 ### Graded problem sets
@@ -61,6 +64,8 @@ permalink: /courses/microeconomics1/2026-1/
 - [Consumer theory: Expenditure minimization for classical utility functions]({{ "/files/courses/Microeconomics 1/minimizacion_gasto.pdf" | relative_url }})
 - [Welfare: Compensating and equivalent variation]({{ "/files/courses/Microeconomics 1/nota_vc_ve.pdf" | relative_url }})
 - [Total, average and marginal cost]({{ "/files/courses/Microeconomics 1/apunte_costos.pdf" | relative_url }})
+- [Public goods and externalities]({{ "/files/courses/Microeconomics 1/nota_bienes_publicos_externalidades.pdf" | relative_url }})
+- [Public goods and mechanism design]({{ "/files/courses/Microeconomics 1/nota_bienes_publicos.pdf" | relative_url }})
 
 ---
 
