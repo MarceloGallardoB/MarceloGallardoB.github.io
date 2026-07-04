@@ -44,6 +44,8 @@ permalink: /courses/microeconomics1/2026-1/
 - [Sol PD6]({{ "/files/courses/Microeconomics 1/solucionario_pd6.pdf" | relative_url }})
 - [Sol PD7]({{ "/files/courses/Microeconomics 1/solucionario_pd7.pdf" | relative_url }})
 - [Sol PD8]({{ "/files/courses/Microeconomics 1/solucionario_pd8.pdf" | relative_url }})
+- [Sol PD10]({{ "/files/courses/Microeconomics 1/solucionario_pd10.pdf" | relative_url }})
+
   
 ---
 
@@ -65,6 +67,7 @@ permalink: /courses/microeconomics1/2026-1/
 - [Total, average and marginal cost]({{ "/files/courses/Microeconomics 1/apunte_costos.pdf" | relative_url }})
 - [Public goods and externalities]({{ "/files/courses/Microeconomics 1/nota_bienes_publicos_externalidades.pdf" | relative_url }})
 - [Public goods and mechanism design]({{ "/files/courses/Microeconomics 1/nota_bienes_publicos.pdf" | relative_url }})
+- [Solutions to selected exercises from previous final exams]({{ "/files/courses/Microeconomics 1/solucionario_finales_micro1.pdf" | relative_url }})
 
 ---
 
