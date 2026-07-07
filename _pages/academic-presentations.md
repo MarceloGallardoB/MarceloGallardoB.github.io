@@ -33,21 +33,7 @@ permalink: /academic-presentation/
 
 </style>
 
-<div class="content-academic-presentations">
-   <h2>Academic presentations</h2>
-  <div class="presentation-item">
-    <p><strong> Undergraduate Thesis  </strong></p>
-    <p><em> PUCP 2026 </em></p>
-    <details>
-      <summary>
-        Summary | <a style="color: #003d90" href="{{ '/files/slides/slides_tesis_2026.pdf' | relative_url }}" target="_blank">Slides</a> | <a style="color: #003d90" href="{{ '' | relative_url }}" target="_blank">Certificate</a>
-      </summary>
-      <p>
-       Slides for my licenciatura thesis defense, based on the papers “Heterogeneous Quadratic Regularization” and “Congestion and Penalization.”<br>
-      </p>
-    </details>
-  </div>
-</div>
+
 
 <div class="content-academic-presentations">
    <h2>Academic presentations</h2>
@@ -97,6 +83,19 @@ permalink: /academic-presentation/
   </div>
 
 
+  <div class="presentation-item">
+    <p><strong> Undergraduate Thesis  </strong></p>
+    <p><em> PUCP 2026 </em></p>
+    <details>
+      <summary>
+        Summary | <a style="color: #003d90" href="{{ '/files/slides/slides_tesis_2026.pdf' | relative_url }}" target="_blank">Slides</a> | <a style="color: #003d90" href="{{ '' | relative_url }}" target="_blank">Certificate</a>
+      </summary>
+      <p>
+       Slides for my licenciatura thesis defense, based on the papers “Heterogeneous Quadratic Regularization” and “Congestion and Penalization.”<br>
+      </p>
+    </details>
+  </div>
+</div>
 
   <h2>Course project presentations</h2>
 
