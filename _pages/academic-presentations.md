@@ -33,7 +33,6 @@ permalink: /academic-presentation/
 
 </style>
 
-
 <div class="content-academic-presentations">
    <h2>Academic presentations</h2>
   <div class="presentation-item">
@@ -49,8 +48,6 @@ permalink: /academic-presentation/
     </details>
   </div>
 </div>
-
-
 
 <div class="content-academic-presentations">
    <h2>Academic presentations</h2>
