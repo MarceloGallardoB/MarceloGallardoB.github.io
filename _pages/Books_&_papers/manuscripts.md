@@ -26,7 +26,7 @@ permalink: /research/manuscripts/
 * EPU Index: Leveraging X and DeepSeek - Preliminary draft available.
   [Manuel Loaiza](https://github.com/ManuelLoaizaV), [Marcelo Gallardo](https://marcelogallardob.github.io/), and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/).  
   <details>
-    <summary>Abstract | <a href="https://marcelogallardob.github.io/files/books-and-papers/epu_gallardo_loaiza_rodriguez_2026.pdf" target="_blank"> Preprint </a></summary>
+    <summary>Abstract | <a href="https://marcelogallardob.github.io/files/books-and-papers/epu_2026_v13_final.pdf" target="_blank"> Preprint </a></summary>
     This paper develops a new political-economic uncertainty index based on tweets from influential figures in Peruvian politics and economics. We use DeepSeek to process the tweets.
   </details>
 
