@@ -39,6 +39,7 @@ permalink: /courses/operations_research/1/2026/Base
 ### Exams
 - [Midterm with solutions]({{ "/files/courses/Optimization/1/2026/parcial_iop_2026.pdf" | relative_url }})
 - [Final exam]({{ "/files/courses/Optimization/1/2026/examen_final_iop_2026_enunciado.pdf" | relative_url }})
+- [Final exam solutions]({{ "/files/courses/Optimization/1/2026/examen_final_iop_2026_completo.pdf" | relative_url }})
 
 
 ---
