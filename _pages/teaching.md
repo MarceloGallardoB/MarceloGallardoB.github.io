@@ -75,10 +75,13 @@ permalink: /teaching/
       <p class="card-text">
         Reader, University of California, Berkeley
       </p>
+      <p class="card-text">
+        With <a href="https://jimdcampbell.com/about/"
+          target="_blank">Jim Campbell</a>
+      </p>
       <hr>
       <p class="card-text">
-        <a href="https://econ.berkeley.edu/course/2025-fall-econ-1-001-lec-001"
-          target="_blank">Fall 2026</a>
+        <a href="{{ "/courses/econ1/2026-fall/" | relative_url }}">Fall 2026</a>
       </p>
     </div>
   </div>

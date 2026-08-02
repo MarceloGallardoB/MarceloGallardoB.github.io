@@ -209,7 +209,10 @@ permalink: /experience/
       <p class="card-text"><a href="https://econ.berkeley.edu/" target="_blank">University of California, Berkeley</a></p>
       <h5 class="card-title">Reader</h5>
       <p class="card-text">
-        <a href="https://econ.berkeley.edu/course/2025-fall-econ-1-001-lec-001" target="_blank">ECON 1 - Introduction to Economics (Section 001)</a>
+        <a href="{{ '/courses/econ1/2026-fall/' | relative_url }}">ECON 1 - Introduction to Economics (Section 001)</a>
+      </p>
+      <p class="card-text muted">
+        With <a href="https://jimdcampbell.com/about/" target="_blank">Jim Campbell</a>
       </p>
       <p class="card-text muted">Fall 2026</p>
     </div>
@@ -267,7 +270,7 @@ permalink: /experience/
       <p class="card-text"><a href="https://www.unsw.edu.au/business">University of New South Wales Business School</a></p>
       <h5 class="card-title">Research Assistant for Professor Juan Carlos Carbajal</h5>
       <p class="card-text"> Mechanism design, auction theory and political economy</p>
-      <p class="card-text muted">2024 – Present</p>
+      <p class="card-text muted">2024 – 2026</p>
     </div>
   </div>
 
