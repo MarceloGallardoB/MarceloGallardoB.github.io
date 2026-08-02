@@ -13,13 +13,13 @@ permalink: /
 </style>
 
 ## Marcelo Manuel Gallardo Burga
-### Department of Mathematics
-### PUCP
+### Department of Economics
+### University of California, Berkeley
 
 {% include index.html %}
 
-Mathematician from the Pontificia Universidad Católica del Perú (PUCP) with a concentration in economics.
+Ph.D. student in Economics at the University of California, Berkeley.
 
-Incoming Ph.D. student at the University of California, Berkeley.
+Previously, B.Sc. and Licenciatura in Mathematics at the Pontificia Universidad Católica del Perú (PUCP), with a concentration in economics.
 
 Contact information [here]({{ "/contact" | relative_url }}) and CV [here]({{ "/files/education-and-experience/cv_mg.pdf" | relative_url }}).

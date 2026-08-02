@@ -29,7 +29,25 @@ permalink: /research/
   text-decoration: none;
   color: inherit;
 }
-.content-publications h2 { margin-bottom: 15px; }
+.content-publications h2 { margin-bottom: 10px; }
+
+/* Afiliación: logo + institución, justo debajo del título */
+.content-publications .affiliation {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 0 0 20px 0;
+  text-align: left;        /* no hereda el centrado del contenedor */
+}
+.content-publications .affiliation img {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+  flex: 0 0 32px;
+}
+.content-publications .affiliation a {
+  color: #003d90;
+}
 
 /* ========== 2. Desactiva el centrado de flexbox en móvil ========== */
 /* Muchos temas (p. ej. Minimal‑Mistakes) envuelven el contenido            */
@@ -55,6 +73,12 @@ permalink: /research/
 
 <div class="content-publications">
   <h2>Research</h2>
+
+  <div class="affiliation">
+    <img draggable="false" src="{{ '/assets/img/institutions/uc-berkeley.png' | relative_url }}" alt="UC Berkeley Logo">
+    <a href="https://econ.berkeley.edu/" target="_blank">University of California, Berkeley</a>
+  </div>
+
   <ul>
     <li><a style="color:#003d90" href="{{ '/research/manuscripts'    | relative_url }}">Manuscripts</a></li>
     <li><a style="color:#003d90" href="{{ '/research/books'          | relative_url }}">Books</a></li>
