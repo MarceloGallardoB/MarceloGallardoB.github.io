@@ -18,7 +18,7 @@ permalink: /research/lecture-notes/
 * On the Continuous Dependence of Fixed Points on Parameters, 2026  
   Marcelo Gallardo. The problem discussed in this note arose in Lecture 5 of ECON204 (2026), taught by Professor [Chris Shannon](https://eml.berkeley.edu/~cshannon/e204_26.html) at the University of California, Berkeley.  
   <details>
-    <summary>Summary</summary>
+    <summary>Summary | <a href="{{ "/files/phd/econ204/continuous_dependence_parameters.pdf" | relative_url }}" target="_blank">Note</a></summary>
     Theorem 7.18 in de la Fuente (2000) asserts that if each T<sub>α</sub> is a contraction and T is continuous in α, then the fixed point depends continuously on the parameter.  
     We show by means of a counterexample in ℓ² that the statement is false as written, and we identify two hypotheses under which it becomes correct.  
     The first is a bound on the contraction moduli required only near the parameter of interest, limsup<sub>α→α₀</sub> β<sub>α</sub> &lt; 1; it covers the canonical comparative-statics exercise in the discount factor, where Ω = (0,1) and sup<sub>α</sub> β<sub>α</sub> = 1.  
