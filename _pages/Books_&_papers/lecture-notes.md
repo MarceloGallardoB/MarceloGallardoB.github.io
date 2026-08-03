@@ -15,7 +15,7 @@ permalink: /research/lecture-notes/
 {% include publications.html %}
 ## Notes and Lecture Notes
 
-* On the Continuous Dependence of Fixed Points on Parameters  
+* On the Continuous Dependence of Fixed Points on Parameters, 2026  
   Marcelo Gallardo. The problem discussed in this note arose in Lecture 5 of ECON204 (2026), taught by Professor [Chris Shannon](https://eml.berkeley.edu/~cshannon/e204_26.html) at the University of California, Berkeley.  
   <details>
     <summary>Summary</summary>
@@ -27,7 +27,7 @@ permalink: /research/lecture-notes/
   </details>
 
 
-* Game Theory - Notes for 1ECO43 (2025) PUCP                                                                                                                                                                   
+* Game Theory - Notes for 1ECO43, PUCP, 2025                                                                                                                                                                   
   Professor [César Martinelli](https://sites.google.com/site/martinellicesar/home), and written by Marcelo Gallardo.  
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/teoria_juegos_25_1.pdf" | relative_url }}" target="_blank">Lecture Notes </a></summary>
@@ -36,7 +36,7 @@ permalink: /research/lecture-notes/
   </details>
 
 
-* Optimal Transport Theory and its Applications in Economics and Finance  
+* Optimal Transport Theory and its Applications in Economics and Finance, 2024  
   Marcelo Gallardo and Carlos Cosentino. Final project for the course *Introduction to Optimal Transport*, taught by [Johel Beltrán](https://emap.fgv.br/en/professors/johel-victorino-beltran-ramirez).  
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/optimal_transport_para_economistas.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
@@ -45,7 +45,7 @@ permalink: /research/lecture-notes/
     The document includes an appendix to support understanding and is intended for advanced students interested in economic and financial applications of optimal transport.
   </details>
 
-* About Brouwer Fixed Point Theorem and its Application in General Equilibrium  
+* About Brouwer Fixed Point Theorem and its Application in General Equilibrium, 2023  
   Marcelo Gallardo, Carlos Cosentino, and Eduardo Llamoca.  
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/brouwer_fixed_point_theorem.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
@@ -55,7 +55,7 @@ permalink: /research/lecture-notes/
     It is important to emphasize that this work does not introduce any new results in the literature. Instead, we focus on developing a clear and understandable approach to Brouwer's Fixed Point Theorem and its applications in general equilibrium.
   </details>
 
-* Real Business Cycles for 1ECO74 (Macroeconomics, Graduate School)                                                                                                                                              
+* Real Business Cycles for 1ECO74 (Macroeconomics, Graduate School), 2025                                                                                                                                              
   Marcelo Gallardo, following [Paul Castillo's](https://www.bcrp.gob.pe/funcionarios-principales/gerente-general.html) classes  
   <details>
     <summary>Summary | <a href="{{ "/files/courses/macroeconomics/rbc_macro_intermedia.pdf" | relative_url }}" target="_blank">Lecture Notes (draft)</a></summary>
