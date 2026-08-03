@@ -19,11 +19,9 @@ permalink: /research/lecture-notes/
   Marcelo Gallardo. The problem discussed in this note arose in Lecture 5 of ECON204 (2026), taught by Professor [Chris Shannon](https://eml.berkeley.edu/~cshannon/e204_26.html) at the University of California, Berkeley.  
   <details>
     <summary>Summary | <a href="{{ "/files/phd/econ204/continuous_dependence_parameters.pdf" | relative_url }}" target="_blank">Note</a></summary>
-    Theorem 7.18 in de la Fuente (2000) asserts that if each T<sub>α</sub> is a contraction and T is continuous in α, then the fixed point depends continuously on the parameter.  
-    We show by means of a counterexample in ℓ² that the statement is false as written, and we identify two hypotheses under which it becomes correct.  
-    The first is a bound on the contraction moduli required only near the parameter of interest, limsup<sub>α→α₀</sub> β<sub>α</sub> &lt; 1; it covers the canonical comparative-statics exercise in the discount factor, where Ω = (0,1) and sup<sub>α</sub> β<sub>α</sub> = 1.  
-    The second is dim X &lt; ∞, under which the statement holds with no restriction on the moduli whatsoever.  
-    The proof rests on Riesz's theorem and on the Arzelà–Ascoli theorem.
+    In dynamic programming the value function is the fixed point of a Bellman operator T<sub>α</sub> on a function space, where α collects preferences, technology and the remaining primitives (Stokey et al., 1989). Comparative statics, continuity of the policy correspondence and consistency of structural estimators all presuppose that α ↦ z(α), the fixed point of T<sub>α</sub>, is continuous.  
+    Theorem 7.18 of de la Fuente (2000) asserts this under hypotheses that do not suffice in infinite dimensions — precisely the setting of dynamic programming. Section 2 locates the gap, following Shannon (2026): the printed proof uses a modulus common to all parameters, which the hypotheses do not supply. Proposition 3.1 then constructs a family in ℓ² meeting every hypothesis whose solution function jumps, so the statement is false and not merely unproved.  
+    Two conditions restore it. Theorem 4.1 replaces the uniform bound by one holding near the parameter of interest, limsup<sub>α→α₀</sub> β<sub>α</sub> &lt; 1; this is what the comparative-statics exercise in the discount factor requires and the uniform bound excludes. Theorem 5.3 shows that when closed balls are compact — in particular when dim X &lt; ∞ — no hypothesis on the moduli is needed.
   </details>
 
 
