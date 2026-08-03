@@ -55,7 +55,7 @@ permalink: /academic-presentation/
 <div class="content-academic-presentations">
   <div class="presentation-item">
     <p><strong>Congestion and penalization in optimal transport</strong></p>
-    <p><em>For the 38th Colloquium of the Peruvian Mathematical Society 2025</em></p>
+    <p><em>For the 38th Colloquium of the Peruvian Mathematical Society (2025)</em></p>
     <details>
       <summary>
         Summary | <a style="color: #003d90" href="{{ '/files/slides/slides_mg_coloquio_2025.pdf' | relative_url }}" target="_blank">Slides</a> | <a style="color: #003d90" href="{{ '/files/certificates/Marcelo_Gallardo_Burga_Coloquio_Certificate.pdf' | relative_url }}" target="_blank">Certificate</a>
@@ -69,7 +69,7 @@ permalink: /academic-presentation/
 
   <div class="presentation-item">
     <p><strong>Optimal Transport and Some Other Mathematical Models with Applications in Economics</strong></p>
-    <p><em>For ADEEM Winter School</em></p>
+    <p><em>For ADEEM Winter School (2023)</em></p>
     <p><a href="{{ '/files/books-and-papers/adeem.pdf' | relative_url }}" target="_blank">Certification</a></p>
     <details>
       <summary>
@@ -84,8 +84,8 @@ permalink: /academic-presentation/
 
 
 <div class="presentation-item">
-    <p><strong>Undergraduate Thesis</strong></p>
-    <p><em>PUCP 2026</em></p>
+    <p><strong>Undergraduate Thesis: Matching and Optimal Transport</strong></p>
+    <p><em>PUCP (2026)</em></p>
     <details>
       <summary>
         Summary | <a style="color: #003d90" href="{{ '/files/slides/slides_ec26_final.pdf' | relative_url }}" target="_blank">Slides</a>
@@ -109,7 +109,7 @@ permalink: /academic-presentation/
         <a href="https://adamwierman.com/" target="_blank">Adam Wierman</a>
       </strong>
     </p>
-    <p><em>For Numerical Analysis, Mathematics PUCP</em></p>
+    <p><em>For Numerical Analysis, Mathematics PUCP (2024)</em></p>
     <details>
       <summary>
         Summary | <a style="color: #003d90" href="{{ '/files/books-and-papers/walrasian_equilibrium_echenique_wierman.pdf' | relative_url }}" target="_blank">Slides</a>
@@ -130,7 +130,7 @@ permalink: /academic-presentation/
        Convergence of the Nelder–Mead Simplex Method in Low Dimensions and Applications in Economics
       </strong>
     </p>
-    <p><em>For Numerical Analysis, Mathematics PUCP</em></p>
+    <p><em>For Numerical Analysis, Mathematics PUCP (2024)</em></p>
     <details>
       <summary>
         Summary | <a style="color: #003d90" href="{{ '/files/slides/nelder_mead_slides.pdf' | relative_url }}" target="_blank">Slides</a>
@@ -147,13 +147,13 @@ permalink: /academic-presentation/
        Applications of Gröbner bases in general equilibrium and game theory
       </strong>
     </p>
-    <p><em>For Advanced Algebra, Mathematics PUCP</em></p>
+    <p><em>For Commutative and Algebraic Geometry, Mathematics PUCP (2025)</em></p>
     <details>
       <summary>
         Summary | <a style="color: #003d90" href="{{ '/files/slides/slides_groebner.pdf' | relative_url }}" target="_blank">Slides</a>
       </summary>
       <p>
-        As part of the final assignment for the course <em>Advanced Algebra (2025-1)</em>, I presented the article <em>Tackling Multiplicity of Equilibria with Gröbner Bases.</em> Felix Kubler and Karl Schmedders (2010). <br>
+        As part of the final assignment for the course <em>Commutative and Algebraic Geometry (2025-1)</em>, I presented the article <em>Tackling Multiplicity of Equilibria with Gröbner Bases.</em> Felix Kubler and Karl Schmedders (2010). <br>
       </p>
     </details>
   </div>
