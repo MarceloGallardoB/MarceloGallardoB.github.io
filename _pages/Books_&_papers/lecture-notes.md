@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: "Lecture Notes"
+title: "Notes and Lecture Notes"
 permalink: /research/lecture-notes/
 ---
 
@@ -13,16 +13,17 @@ permalink: /research/lecture-notes/
 </style>
 
 {% include publications.html %}
-## Lecture Notes
+## Notes and Lecture Notes
 
-* Fundamentals of Econometric Theory - Published at [Decon PUCP](https://departamento-economia.pucp.edu.pe/investigacion/materiales-de-ensenanza)  
-  [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/) and Marcelo Gallardo.  
+* On the Continuous Dependence of Fixed Points on Parameters  
+  Marcelo Gallardo. The problem discussed in this note arose in Lecture 5 of ECON204 (2026), taught by Professor [Chris Shannon](https://eml.berkeley.edu/~cshannon/e204_26.html) at the University of California, Berkeley.  
   <details>
-    <summary>Summary | <a href="{{ "/files/books-and-papers/ME-13.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
-    These lecture notes offer a deep dive into econometrics, structured around key themes from matrix algebra basics to statistical models.  
-    The content begins with foundational matrix operations and their relevance to econometrics, advancing to multivariate models with a focus on linear models and optimization issues.  
-    It also addresses qualitative variables, sampling methods, and experimental designs. Crucial econometric challenges such as multicollinearity, parameter stability, heteroscedasticity, and serial autocorrelation are thoroughly examined, alongside detection and correction techniques.  
-    The notes culminate in discussions on more advanced topics like instrumental variables, maximum likelihood estimation, basic time series analysis, and an appendix on probability theory, equipping readers with a broad understanding of econometric analysis and application.  
+    <summary>Summary</summary>
+    Theorem 7.18 in de la Fuente (2000) asserts that if each T<sub>α</sub> is a contraction and T is continuous in α, then the fixed point depends continuously on the parameter.  
+    We show by means of a counterexample in ℓ² that the statement is false as written, and we identify two hypotheses under which it becomes correct.  
+    The first is a bound on the contraction moduli required only near the parameter of interest, limsup<sub>α→α₀</sub> β<sub>α</sub> &lt; 1; it covers the canonical comparative-statics exercise in the discount factor, where Ω = (0,1) and sup<sub>α</sub> β<sub>α</sub> = 1.  
+    The second is dim X &lt; ∞, under which the statement holds with no restriction on the moduli whatsoever.  
+    The proof rests on Riesz's theorem and on the Arzelà–Ascoli theorem.
   </details>
 
 

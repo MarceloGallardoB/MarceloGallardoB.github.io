@@ -82,6 +82,6 @@ permalink: /research/
   <ul>
     <li><a style="color:#003d90" href="{{ '/research/manuscripts'    | relative_url }}">Manuscripts</a></li>
     <li><a style="color:#003d90" href="{{ '/research/books'          | relative_url }}">Books</a></li>
-    <li><a style="color:#003d90" href="{{ '/research/lecture-notes'  | relative_url }}">Lecture notes</a></li>
+    <li><a style="color:#003d90" href="{{ '/research/lecture-notes'  | relative_url }}">Notes and lecture notes</a></li>
   </ul>
 </div>
