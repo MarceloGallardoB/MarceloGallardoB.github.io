@@ -23,11 +23,11 @@ permalink: /research/manuscripts/
   </details>
 
 
-* EPU Index: Leveraging X and DeepSeek - Preliminary draft available.
-  [Manuel Loaiza](https://github.com/ManuelLoaizaV), [Marcelo Gallardo](https://marcelogallardob.github.io/), and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/).  
+* Economic and Political Uncertainty Index for Peru Using X and DeepSeek-V3 - Preliminary draft available.
+  [Marcelo Gallardo](https://marcelogallardob.github.io/), [Manuel Loaiza](https://github.com/ManuelLoaizaV), and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/).  
   <details>
     <summary>Abstract | <a href="{{ "/files/books-and-papers/epu_index_peru.pdf" | relative_url }}" target="_blank"> Preprint </a></summary>
-    This paper develops a new political-economic uncertainty index based on tweets from influential figures in Peruvian politics and economics. We use DeepSeek to process the tweets.
+    We propose the first daily index of economic and political uncertainty (EPU) for Peru, and its defining novelty is the source: rather than newspapers, we read the real-time discourse on X (formerly Twitter). Dominant policy-uncertainty indices count newspaper articles and are typically monthly and lagged; X instead records, at daily frequency, how the country's most influential voices in politics, economics, journalism, and business react to events as they happen. We classify their messages along economic, political, and uncertainty dimensions with a large language model (LLM), DeepSeek-V3, and recombine these dimensions into a family of complementary daily indices, among them a broader political-uncertainty (PU) index. We then ask how closely the index behaves like two established market-based measures of uncertainty, the Chicago Board Options Exchange Volatility Index (VIX) and the volatility of the Bolsa de Valores de Lima (BVL). It co-moves with both at a moderate level, and more strongly within documented crises—the expected signature of measures that share a common uncertainty component while each captures a distinct dimension: a domestic, political and economic one for the index, a global financial one for the VIX, and a domestic market one for BVL volatility. The moderate co-movement is therefore not a shortcoming but evidence that the index is not redundant with the benchmarks.
   </details>
 
 * Information and voting: Evidence from Peru's 2026 presidential election - Preprint (very preliminary) available at arXiv.
