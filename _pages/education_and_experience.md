@@ -90,7 +90,7 @@ permalink: /experience/
     </div>
     <div class="card-body">
       <p class="card-text"><a href="https://econ.berkeley.edu/" target="_blank">University of California, Berkeley</a></p>
-      <h5 class="card-title">PhD in Economics</h5>
+      <h5 class="card-title">Ph.D. in Economics</h5>
       <p class="card-text">2026 - Present</p>
     </div>
   </div>
@@ -103,7 +103,7 @@ permalink: /experience/
       <p class="card-text"><a href="https://www.pucp.edu.pe/carrera/matematicas/">Pontificia Universidad Católica del Perú</a></p>
       <h5 class="card-title">Graduate School (courses in economics and applied mathematics)</h5>
       <p class="card-text">2023 - 2025</p>
-      <h5 class="card-title">Lic. and Bs. in Mathematics</h5>
+      <h5 class="card-title">Lic. and B.Sc. in Mathematics</h5>
       <p class="card-text">2020 - 2025</p>
       <h5 class="card-title">Humanity Studies at EEGGLL</h5>
       <p class="card-text">2019</p>

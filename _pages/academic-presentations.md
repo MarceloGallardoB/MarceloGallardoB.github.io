@@ -38,6 +38,19 @@ permalink: /academic-presentation/
 <div class="content-academic-presentations">
    <h2>Academic presentations</h2>
   <div class="presentation-item">
+    <p><strong>Undergraduate Thesis: Matching and Optimal Transport</strong></p>
+    <p><em>PUCP (2026)</em></p>
+    <details>
+      <summary>
+        Summary | <a style="color: #003d90" href="{{ '/files/slides/slides_ec26_final.pdf' | relative_url }}" target="_blank">Slides</a>
+      </summary>
+      <p>
+        Slides for my licenciatura thesis defense, based on the papers "Heterogeneous Quadratic Regularization" and "Congestion and Penalization."<br>
+      </p>
+    </details>
+  </div>
+
+  <div class="presentation-item">
     <p><strong>Information and voting: Evidence from Peru’s 2026 presidential election (2026) with Nicolas Velarde and Cristina Gutarra </strong></p>
     <p><em>For the XIV Economics Students’ Assembly Colloquium (2026) </em></p>
     <details>
@@ -78,20 +91,6 @@ permalink: /academic-presentation/
       <p>
         Seminar for the Winter School 2023 organized by the Association of Students and Alumni of Mathematics and the Association of Physics Students of PUCP.<br>
         Based on Alfred Galichon's book, <em>Optimal Transport Methods in Economics</em>, and his co-authored paper <em>SISTA: Learning Optimal Transport Costs Under Sparsity Constraints</em>.
-      </p>
-    </details>
-  </div>
-
-
-<div class="presentation-item">
-    <p><strong>Undergraduate Thesis: Matching and Optimal Transport</strong></p>
-    <p><em>PUCP (2026)</em></p>
-    <details>
-      <summary>
-        Summary | <a style="color: #003d90" href="{{ '/files/slides/slides_ec26_final.pdf' | relative_url }}" target="_blank">Slides</a>
-      </summary>
-      <p>
-        Slides for my licenciatura thesis defense, based on the papers "Heterogeneous Quadratic Regularization" and "Congestion and Penalization."<br>
       </p>
     </details>
   </div>

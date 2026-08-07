@@ -16,9 +16,9 @@ permalink: /contact/
 
 ## Address
 
-**Department of Mathematics**  
-Pontificia Universidad Católica del Perú  
-Av. Universitaria 1801, San Miguel, Lima, Peru  
+**Department of Economics**  
+University of California, Berkeley  
+530 Evans Hall #3880, Berkeley, California 94720-3880  
 
 ---
 ## Social Links

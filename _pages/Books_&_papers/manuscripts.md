@@ -16,10 +16,11 @@ permalink: /research/manuscripts/
 
 ## Working papers
 
-* Field Experiments on Seasonal Products and Markdown Pricing - Draft coming soon.
-  Marcelo Gallardo, [Carlos Noton](https://economiayadministracion.uc.cl/docentes/carlos-noton/) and [Marcelo Olivares](https://www.marcelo-olivares.net/).  
+* Information and voting: Evidence from Peru's 2026 presidential election - Accepted for presentation at LACEA LAMES 2026 (Lima, Peru). Preprint (very preliminary) available at arXiv.
+  [Marcelo Gallardo](https://marcelogallardob.github.io/), Nicolás Velarde and Cristina Gutarra.  
   <details>
-    <summary>Abstract | <a href="" target="_blank">Coming soon</a></summary>
+    <summary>Abstract | <a href="https://arxiv.org/abs/2606.01687" target="_blank"> Preprint </a></summary>
+    We study how election-night flash estimates shape voting in Peru's fragmented 2026 presidential election. We exploit a natural experiment: on April 12, 2026, 187 polling tables across 13 voting centers failed to install, and the Jurado Nacional de Elecciones (JNE) extended voting for the affected ≈55000 electors to Monday, April 13. These voters cast ballots after observing the Ipsos and Datum flash estimates; otherwise comparable Sunday voters did not. A Bayesian-updating model of multi-candidate plurality voting frames the analysis, yielding predictions about vote reallocation toward the three candidates the estimates rendered viable -- López Aliaga, Sánchez, and Nieto. We estimate treatment effects on candidate vote shares at both the acta level and the acta-weighted polling-station level, comparing treated and control locales de votación matched on pre-treatment covariates. How flash estimates reshape voting is of first-order importance for Peru, given its institutional instability and high political volatility over the past decade.
   </details>
 
 
@@ -30,18 +31,21 @@ permalink: /research/manuscripts/
     We propose the first daily index of economic and political uncertainty (EPU) for Peru, and its defining novelty is the source: rather than newspapers, we read the real-time discourse on X (formerly Twitter). Dominant policy-uncertainty indices count newspaper articles and are typically monthly and lagged; X instead records, at daily frequency, how the country's most influential voices in politics, economics, journalism, and business react to events as they happen. We classify their messages along economic, political, and uncertainty dimensions with a large language model (LLM), DeepSeek-V3, and recombine these dimensions into a family of complementary daily indices, among them a broader political-uncertainty (PU) index. We then ask how closely the index behaves like two established market-based measures of uncertainty, the Chicago Board Options Exchange Volatility Index (VIX) and the volatility of the Bolsa de Valores de Lima (BVL). It co-moves with both at a moderate level, and more strongly within documented crises. This is what one expects of measures that share a common uncertainty component but differ in what else they capture: the index reads domestic political and economic uncertainty, the VIX global financial risk, and BVL volatility the Lima equity market. The moderate co-movement is therefore not a shortcoming but evidence that the index is not redundant with the benchmarks.
   </details>
 
-* Information and voting: Evidence from Peru's 2026 presidential election - Accepted for presentation at LACEA LAMES 2026 (Lima, Peru). Preprint (very preliminary) available at arXiv.
-  [Marcelo Gallardo](https://marcelogallardob.github.io/), Nicolás Velarde and Cristina Gutarra.  
+
+
+* Field Experiments on Seasonal Products and Markdown Pricing - Draft coming soon.
+  Marcelo Gallardo, [Carlos Noton](https://economiayadministracion.uc.cl/docentes/carlos-noton/) and [Marcelo Olivares](https://www.marcelo-olivares.net/).  
   <details>
-    <summary>Abstract | <a href="https://arxiv.org/abs/2606.01687" target="_blank"> Preprint </a></summary>
-    We study how election-night flash estimates shape voting in Peru's fragmented 2026 presidential election. We exploit a natural experiment: on April 12, 2026, 187 polling tables across 13 voting centers failed to install, and the Jurado Nacional de Elecciones (JNE) extended voting for the affected ≈55000 electors to Monday, April 13. These voters cast ballots after observing the Ipsos and Datum flash estimates; otherwise comparable Sunday voters did not. A Bayesian-updating model of multi-candidate plurality voting frames the analysis, yielding predictions about vote reallocation toward the three candidates the estimates rendered viable -- López Aliaga, Sánchez, and Nieto. We estimate treatment effects on candidate vote shares at both the acta level and the acta-weighted polling-station level, comparing treated and control locales de votación matched on pre-treatment covariates. How flash estimates reshape voting is of first-order importance for Peru, given its institutional instability and high political volatility over the past decade.
+    <summary>Abstract | <a href="" target="_blank">Coming soon</a></summary>
   </details>
+
+
 
 ---
 
 ## Completed papers
 
-* **[Congestion and Penalization in Optimal Transport](https://marcelogallardob.github.io/files/books-and-papers/congestion_penalization_optimal_transport.pdf)**, 2025 - R&R at Decisions in Economics and Finance (Springer) New version! 
+* **[Congestion and Penalization in Optimal Transport](https://marcelogallardob.github.io/files/books-and-papers/congestion_penalization_optimal_transport.pdf)**, 2025 - R&R at Decisions in Economics and Finance (Springer) 
   [Marcelo Gallardo](https://marcelogallardob.github.io/), [Manuel Loaiza](https://github.com/ManuelLoaizaV), and [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).  
   <details>
     <summary>Abstract | <a href="https://arxiv.org/abs/2410.07363" target="_blank"> Preprint</a></summary>
@@ -55,7 +59,7 @@ permalink: /research/manuscripts/
     In this paper, we build upon the optimal transport quadratic regularization model to develop a framework that incorporates congestion costs, particularly in matching within the healthcare and education sectors. Specifically, we introduce a model with heterogeneous quadratic costs. We analyze the model's properties under specific cases, extending the existing literature. Furthermore, we explore key structural characteristics of the model and provide numerical examples illustrating why this formulation more accurately captures real-world phenomena, particularly in the Peruvian context. The main result consists of identifying a specific type of corner solution when matching the same number of clusters, i.e., N=L.
   </details>
 
-* **[Irregular wave dynamics driven by a random force within the Burgers equation](https://marcelogallardob.github.io/files/books-and-papers/edp_paper.pdf)**, 2024   
+* **[Irregular wave dynamics driven by a random force within the Burgers equation](https://marcelogallardob.github.io/files/books-and-papers/edp_paper.pdf)**, 2024 - Submitted to International Journal of Applied and Computational Mathematics  
   Marcelo Gallardo and [Marcelo Flamarion](https://scholar.google.com/citations?user=YROzmEAAAAAJ&hl=en).  
   <details>
     <summary>Abstract | <a href="https://marcelogallardob.github.io/files/books-and-papers/edp_paper.pdf" target="_blank">Preprint</a></summary>
