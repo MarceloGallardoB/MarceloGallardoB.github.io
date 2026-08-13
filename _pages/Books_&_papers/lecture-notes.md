@@ -15,6 +15,16 @@ permalink: /research/lecture-notes/
 {% include publications.html %}
 ## Notes and Lecture Notes
 
+* Notes on Brouwer and Kakutani Fixed Point Theorems, 2026  
+  Marcelo Gallardo. Notes for Lecture 13 of ECON204 (2026), taught by Professor [Chris Shannon](https://eml.berkeley.edu/~cshannon/e204_26.html) at the University of California, Berkeley.  
+  <details>
+    <summary>Summary | <a href="{{ "/files/phd/econ204/brouwer_kakutani_fixed_point.pdf" | relative_url }}" target="_blank">Note</a></summary>
+    These notes present the proofs of two papers together with the material each one needs.  
+    Milnor (<em>Analytic proofs of the hairy ball theorem and the Brouwer fixed point theorem</em>, American Mathematical Monthly 85, 1978) deduces Brouwer's fixed point theorem from the hairy ball theorem, which he proves by a volume computation. The reduction of Brouwer's theorem to its smooth case is also recorded, the route taken by the proofs that begin with a differentiable map.  
+    Cellina (<em>Approximation of set valued functions and fixed point theorems</em>, Annali di Matematica Pura ed Applicata 82, 1969; <em>A theorem on the approximation of compact multi-valued mappings</em>, Atti della Accademia Nazionale dei Lincei 47, 1969) approximates an upper hemicontinuous correspondence with convex values by continuous functions whose graphs lie in a prescribed neighborhood of its graph; Kakutani's theorem then follows together with Brouwer's.
+  </details>
+
+
 * On the Continuous Dependence of Fixed Points on Parameters, 2026  
   Marcelo Gallardo. The problem discussed in this note arose in Lecture 5 of ECON204 (2026), taught by Professor [Chris Shannon](https://eml.berkeley.edu/~cshannon/e204_26.html) at the University of California, Berkeley.  
   <details>
