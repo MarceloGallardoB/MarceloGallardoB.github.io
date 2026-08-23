@@ -16,6 +16,15 @@ permalink: /research/manuscripts/
 
 ## Working papers
 
+* The Market and the Jungle: Dual Economies in Emerging Countries - Draft coming soon.
+  Juan Carlos Carbajal, [Marcelo Gallardo](https://marcelogallardob.github.io/) and [Cesar Martinelli](https://sites.google.com/site/martinellicesar/home).  
+  <details>
+    <summary>Abstract</summary>
+    We combine Piccione and Rubinstein's (2007) model of the jungle economy with the general trading framework of Makowski and Ostroy (1995). We establish existence and efficiency of a jungle equilibrium for a fixed occupational profile, and existence in lotteries when occupations are chosen. Our formal analysis concerns a self-contained jungle economy with occupations and trade positions; we give a competitive reading of the jungle equilibrium. We later define a notion of equilibrium for a dual economy where a competitive market operates side by side with a jungle economy.  
+    When the power relation is drawn at random after occupations are chosen, the expected payoff averages over finitely many power relations, so no tie-breaking in the selection of P can arise and the occupational payoff is continuous. Mixed occupational strategies are Borel probability measures over each individual's menu: that set is convex and weak*-compact by the Banach–Alaoglu theorem, and the weak* topology is metrizable on it by separability of the space of continuous functions on the menu. Berge's maximum theorem then makes each best-reply correspondence non-empty- and compact-valued and upper hemicontinuous, and it is convex-valued because the payoff is affine in the individual's own lottery. The product correspondence maps a non-empty compact convex set into itself with non-empty closed convex values, so the Kakutani–Fan–Glicksberg fixed point theorem (Fan, 1952; Glicksberg, 1952) yields a fixed point, which is the occupational equilibrium in lotteries. The extension of Kakutani's (1941) theorem from finite-dimensional spaces to locally convex ones is needed here, since the strategy sets are infinite-dimensional.
+  </details>
+
+
 * Information and voting: Evidence from Peru's 2026 presidential election - Accepted for presentation at LACEA LAMES 2026 (Lima, Peru). Preprint (very preliminary) available at arXiv.
   [Marcelo Gallardo](https://marcelogallardob.github.io/), Nicolás Velarde and Cristina Gutarra.  
   <details>
