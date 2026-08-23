@@ -16,10 +16,10 @@ permalink: /research/manuscripts/
 
 ## Working papers
 
-* The Market and the Jungle: Dual Economies in Emerging Countries - Draft coming soon.
+* The Market and the Jungle: Dual Economies in Emerging Countries
   [Juan Carlos Carbajal](https://sites.google.com/site/carbajaleconomics/home), [Marcelo Gallardo](https://marcelogallardob.github.io/) and [Cesar Martinelli](https://sites.google.com/site/martinellicesar/home).  
   <details>
-    <summary>Abstract | Draft coming soon</summary>
+    <summary>Abstract | <a href="" target="_blank">Draft coming soon</a></summary>
     We combine Piccione and Rubinstein's (2007) jungle economy with the trading framework of Makowski and Ostroy (1995). We establish existence and efficiency of a jungle equilibrium for a fixed occupational profile, and existence in lotteries when occupations are chosen. We also define an equilibrium for a dual economy in which a competitive market operates side by side with a jungle.  
     In the lotteries case the power relation is drawn after occupations are chosen, so the expected payoff averages over finitely many power relations and is continuous. Strategies are Borel measures over each menu, a convex set that is weak*-compact by Banach–Alaoglu. Berge's maximum theorem makes the best-reply correspondences upper hemicontinuous with non-empty compact values, convex because payoffs are affine, and the Kakutani–Fan–Glicksberg fixed point theorem then yields the equilibrium — Kakutani's own theorem does not suffice, the strategy sets being infinite-dimensional.
   </details>
