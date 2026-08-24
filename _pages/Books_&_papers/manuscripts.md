@@ -16,7 +16,7 @@ permalink: /research/manuscripts/
 
 ## Working papers
 
-* The Market and the Jungle: Dual Economies in Emerging Countries
+* The Market and the Jungle: Dual Economies in Emerging Countries  
   [Juan Carlos Carbajal](https://sites.google.com/site/carbajaleconomics/home), [Marcelo Gallardo](https://marcelogallardob.github.io/) and [Cesar Martinelli](https://sites.google.com/site/martinellicesar/home).  
   <details>
     <summary>Abstract | <a href="" target="_blank">Draft coming soon</a></summary>
@@ -25,7 +25,7 @@ permalink: /research/manuscripts/
   </details>
 
 
-* Information and voting: Evidence from Peru's 2026 presidential election - Accepted for presentation at LACEA LAMES 2026 (Lima, Peru)
+* Information and voting: Evidence from Peru's 2026 presidential election - Accepted for presentation at LACEA LAMES 2026 (Lima, Peru)  
   [Marcelo Gallardo](https://marcelogallardob.github.io/), Nicolás Velarde and Cristina Gutarra.  
   <details>
     <summary>Abstract | <a href="https://arxiv.org/abs/2606.01687" target="_blank">Preprint (very preliminary)</a></summary>
@@ -33,7 +33,7 @@ permalink: /research/manuscripts/
   </details>
 
 
-* Economic and Political Uncertainty Index for Peru Using X and DeepSeek-V3
+* Economic and Political Uncertainty Index for Peru Using X and DeepSeek-V3  
   [Marcelo Gallardo](https://marcelogallardob.github.io/), [Manuel Loaiza](https://github.com/ManuelLoaizaV) and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/).  
   <details>
     <summary>Abstract | <a href="{{ "/files/books-and-papers/epu_index_peru.pdf" | relative_url }}" target="_blank">Preprint</a></summary>
@@ -42,7 +42,7 @@ permalink: /research/manuscripts/
 
 
 
-* Field Experiments on Seasonal Products and Markdown Pricing
+* Field Experiments on Seasonal Products and Markdown Pricing  
   [Marcelo Gallardo](https://marcelogallardob.github.io/), [Carlos Noton](https://economiayadministracion.uc.cl/docentes/carlos-noton/) and [Marcelo Olivares](https://www.marcelo-olivares.net/).  
   <details>
     <summary>Abstract | <a href="" target="_blank">Draft coming soon</a></summary>
@@ -54,7 +54,7 @@ permalink: /research/manuscripts/
 
 ## Completed papers
 
-* **[Congestion and Penalization in Optimal Transport](https://marcelogallardob.github.io/files/books-and-papers/congestion_penalization_optimal_transport.pdf)**, 2025 - R&R at Decisions in Economics and Finance (Springer) 
+* **[Congestion and Penalization in Optimal Transport](https://marcelogallardob.github.io/files/books-and-papers/congestion_penalization_optimal_transport.pdf)**, 2025 - R&R at Decisions in Economics and Finance (Springer)  
   [Marcelo Gallardo](https://marcelogallardob.github.io/), [Manuel Loaiza](https://github.com/ManuelLoaizaV) and [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).  
   <details>
     <summary>Abstract | <a href="https://arxiv.org/abs/2410.07363" target="_blank">Preprint</a></summary>
