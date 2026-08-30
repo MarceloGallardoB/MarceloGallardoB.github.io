@@ -146,13 +146,13 @@ permalink: /academic-presentation/
        Applications of Gröbner bases in general equilibrium and game theory
       </strong>
     </p>
-    <p><em>For Commutative and Algebraic Geometry, Mathematics PUCP (2025)</em></p>
+    <p><em>For Commutative Algebra and Algebraic Geometry, Mathematics PUCP (2025)</em></p>
     <details>
       <summary>
         Summary | <a style="color: #003d90" href="{{ '/files/slides/slides_groebner.pdf' | relative_url }}" target="_blank">Slides</a>
       </summary>
       <p>
-        As part of the final assignment for the course <em>Commutative and Algebraic Geometry (2025-1)</em>, I presented the article <em>Tackling Multiplicity of Equilibria with Gröbner Bases.</em> Felix Kubler and Karl Schmedders (2010). <br>
+        As part of the final assignment for the course <em>Commutative Algebra and Algebraic Geometry (2025-1)</em>, I presented the article <em>Tackling Multiplicity of Equilibria with Gröbner Bases.</em> Felix Kubler and Karl Schmedders (2010). <br>
       </p>
     </details>
   </div>
