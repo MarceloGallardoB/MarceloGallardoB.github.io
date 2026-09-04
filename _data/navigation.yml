@@ -9,13 +9,16 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Papers and Working Papers"
+  - title: "Papers"
     url: /research/manuscripts/
+
+  - title: "Working Papers"
+    url: /research/working-papers/
 
   - title: "Books"
     url: /research/books/
 
-  - title: "Notes and Lecture Notes"
+  - title: "Notes"
     url: /research/lecture-notes/
 
   - title: "Teaching"
