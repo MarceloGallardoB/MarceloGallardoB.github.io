@@ -83,7 +83,7 @@ permalink: /research/books/linear-algebra-optimization-for-economists/
 </style>
 
 <div class="book-page">
-  <p><a href="{{ "/research/books/" | relative_url }}">Back to Books</a></p>
+  <p><a href="{{ "/research/" | relative_url }}">Back to Research</a></p>
 
   <section class="book-hero">
     <img
