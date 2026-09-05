@@ -42,7 +42,7 @@ permalink: /research/
   <a href="https://econ.berkeley.edu/" target="_blank">University of California, Berkeley</a>
 </div>
 
-### Papers and working papers
+### Working papers
 
 * The Market and the Jungle: Dual Economies in Emerging Countries <span class="cat">Microeconomic Theory</span>  
   [Juan Carlos Carbajal](https://sites.google.com/site/carbajaleconomics/home), [Marcelo Gallardo](https://marcelogallardob.github.io/) and [Cesar Martinelli](https://sites.google.com/site/martinellicesar/home).  
@@ -75,6 +75,8 @@ permalink: /research/
   <details>
     <summary>Abstract | <a href="" target="_blank">Draft coming soon</a></summary>
   </details>
+
+### Papers
 
 * **[Congestion and Penalization in Optimal Transport](https://marcelogallardob.github.io/files/books-and-papers/congestion_penalization_optimal_transport.pdf)**, 2025 - R&R at Decisions in Economics and Finance (Springer) <span class="cat">Mathematical Economics</span>  
   [Marcelo Gallardo](https://marcelogallardob.github.io/), [Manuel Loaiza](https://github.com/ManuelLoaizaV) and [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).  
@@ -129,18 +131,17 @@ permalink: /research/
 ### Lecture notes
 
 * Notes on Brouwer and Kakutani Fixed Point Theorems, 2026 <span class="cat">Mathematical Economics</span>  
-  [Marcelo Gallardo](https://marcelogallardob.github.io/). Notes related to Lecture 13 of ECON204 (2026).  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/). Notes related to Lecture 13 of ECON204 (2026), taught by Professor [Chris Shannon](https://eml.berkeley.edu/~cshannon/e204_26.html) (UC Berkeley).  
   <details>
     <summary>Summary | <a href="{{ "/files/phd/econ204/brouwer_kakutani_fixed_point.pdf" | relative_url }}" target="_blank">Note</a></summary>
     These notes present the proofs of two papers.  
     Milnor (<em>Analytic proofs of the hairy ball theorem and the Brouwer fixed point theorem</em>, American Mathematical Monthly 85, 1978) deduces Brouwer's fixed point theorem from the hairy ball theorem, which he proves by a volume computation.  
-    Cellina (<em>Approximation of set valued functions and fixed point theorems</em>, Annali di Matematica Pura ed Applicata 82, 1969; <em>A theorem on the approximation of compact multi-valued mappings</em>, Atti della Accademia Nazionale dei Lincei 47, 1969) approximates an upper hemicontinuous correspondence with convex values by continuous functions whose graphs lie in a prescribed neighborhood of its graph; Kakutani's theorem then follows together with Brouwer's.  
-    These topics were mentioned in Lecture 13 of ECON204 (2026), taught by Professor <a href="https://eml.berkeley.edu/~cshannon/e204_26.html" target="_blank">Chris Shannon</a> at the University of California, Berkeley.
+    Cellina (<em>Approximation of set valued functions and fixed point theorems</em>, Annali di Matematica Pura ed Applicata 82, 1969; <em>A theorem on the approximation of compact multi-valued mappings</em>, Atti della Accademia Nazionale dei Lincei 47, 1969) approximates an upper hemicontinuous correspondence with convex values by continuous functions whose graphs lie in a prescribed neighborhood of its graph; Kakutani's theorem then follows together with Brouwer's.
   </details>
 
 
 * On the Continuous Dependence of Fixed Points on Parameters, 2026 <span class="cat">Mathematical Economics</span>  
-  [Marcelo Gallardo](https://marcelogallardob.github.io/). The problem discussed in this note arose in Lecture 5 of ECON204 (2026), taught by Professor [Chris Shannon](https://eml.berkeley.edu/~cshannon/e204_26.html) at the University of California, Berkeley.  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/). The problem discussed in this note arose in Lecture 5 of ECON204 (2026), taught by Professor [Chris Shannon](https://eml.berkeley.edu/~cshannon/e204_26.html) (UC Berkeley).  
   <details>
     <summary>Summary | <a href="{{ "/files/phd/econ204/continuous_dependence_parameters.pdf" | relative_url }}" target="_blank">Note</a></summary>
     In dynamic programming the value function is the fixed point of a Bellman operator T<sub>α</sub> on a function space, where α collects preferences, technology and the remaining primitives (Stokey et al., 1989). Comparative statics, continuity of the policy correspondence and consistency of structural estimators all presuppose that α ↦ z(α), the fixed point of T<sub>α</sub>, is continuous.  
