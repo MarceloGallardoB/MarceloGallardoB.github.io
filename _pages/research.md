@@ -61,11 +61,15 @@ permalink: /research/
   </details>
 
 
-* Economic and Political Uncertainty Index for Peru Using X and DeepSeek-V3 <span class="cat">Political Economy</span>  
+* A Daily Index of Economic and Political Uncertainty for Peru from X Discourse <span class="cat">Political Economy</span>  
   [Marcelo Gallardo](https://marcelogallardob.github.io/), [Manuel Loaiza](https://github.com/ManuelLoaizaV) and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/).  
   <details>
     <summary>Abstract | <a href="{{ "/files/books-and-papers/epu_index_peru.pdf" | relative_url }}" target="_blank">Preprint</a></summary>
-    We propose the first daily index of economic and political uncertainty (EPU) for Peru, and its defining novelty is the source: rather than newspapers, we read the real-time discourse on X (formerly Twitter). Dominant policy-uncertainty indices count newspaper articles and are typically monthly and lagged; X instead records, at daily frequency, how the country's most influential voices in politics, economics, journalism, and business react to events as they happen. We classify their messages along economic, political, and uncertainty dimensions with a large language model (LLM), DeepSeek-V3, and recombine these dimensions into a family of complementary daily indices, among them a broader political-uncertainty (PU) index. We then ask how closely the index behaves like two established market-based measures of uncertainty, the Chicago Board Options Exchange Volatility Index (VIX) and the volatility of the Bolsa de Valores de Lima (BVL). It co-moves with both at a moderate level, and more strongly within documented crises. This is what one expects of measures that share a common uncertainty component but differ in what else they capture: the index reads domestic political and economic uncertainty, the VIX global financial risk, and BVL volatility the Lima equity market. The moderate co-movement is therefore not a shortcoming but evidence that the index is not redundant with the benchmarks.
+    We build the first daily index of economic and political uncertainty (EPU) for Peru, reading the real-time discourse on X (formerly Twitter) rather than newspapers: the dominant policy-uncertainty indices count newspaper articles and are typically monthly and lagged.  
+    A large language model, DeepSeek-V3, classifies messages along economic, political and uncertainty dimensions, which recombine into a family of daily indices, among them a broader political-uncertainty index.  
+    The index co-moves moderately with the VIX and with the volatility of the Bolsa de Valores de Lima, and more strongly within documented crises — the signature of measures sharing a common uncertainty component while each captures a distinct dimension, so the moderate co-movement is evidence of non-redundancy rather than a shortcoming.  
+    Scored against a crisis calendar, the headline index detects Peru's economic crises and the political index its political ruptures, episodes neither benchmark registers.  
+    The political index also carries a policy signal: its shocks precede the Central Reserve Bank's foreign-exchange intervention, most strongly inside documented crises.
   </details>
 
 
