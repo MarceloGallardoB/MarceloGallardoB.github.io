@@ -80,6 +80,20 @@ permalink: /research/
     <summary>Abstract | <a href="" target="_blank">Draft coming soon</a></summary>
   </details>
 
+### Work in progress
+
+* Near Expected Utility and Approximate Independence, 2026  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/).
+
+* Price Information, Cost Uncertainty, and Advertising in Oligopoly, 2026  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/).
+
+* Screening Under Competition and Optimal Transport, 2026  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/).
+
+* Innovation, Power, and Segregation: A Model of Endogenous Graphs, 2026  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/).
+
 ### Papers
 
 * **[Congestion and Penalization in Optimal Transport](https://marcelogallardob.github.io/files/books-and-papers/congestion_penalization_optimal_transport.pdf)**, 2025 - R&R at Decisions in Economics and Finance (Springer) <span class="cat">Mathematical Economics</span>  
