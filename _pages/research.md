@@ -80,6 +80,16 @@ permalink: /research/
     <summary>Abstract | <a href="" target="_blank">Draft coming soon</a></summary>
   </details>
 
+* Continuous Families of Contractions with Discontinuous Fixed Points: Dynamic Programming and Production Networks <span class="cat">Mathematical Economics</span>  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/) and Gabriel Orellano.  
+  <details>
+    <summary>Abstract | <a href="{{ "/files/books-and-papers/continuous_families_contractions.pdf" | relative_url }}" target="_blank">Preprint</a></summary>
+    A continuously parameterized family of contractions need not have continuously varying fixed points. An explicit counterexample in &#8467;&sup2;, built from finite nilpotent shifts, motivates two classical remedies: a contraction bound holding locally in the parameter, or a compact neighborhood of the limiting fixed point.  
+    We connect these criteria to discounted dynamic programming and production networks. Ordinary scalar-discount Bellman operators supply the required local modulus control. The same finite shifts on &#8467;&sup1; instead produce acyclic input&ndash;output networks whose technologies converge strongly and whose final demands converge in norm, while aggregate gross output keeps a persistent error, even though every spectral radius is zero.  
+    For nonnegative column-substochastic matrices with N sectors and spectral radius at most r &lt; 1, we derive the sharp multiplier bound N/(1&minus;r). A common finite-round loss of intermediate requirements gives a bound independent of sector count, restoring continuity and certifying errors in approximate production plans.
+  </details>
+
+
 ### Work in progress
 
 * Near Expected Utility and Approximate Independence, 2026  
@@ -158,16 +168,6 @@ permalink: /research/
   </details>
 
 
-* On the Continuous Dependence of Fixed Points on Parameters, 2026 <span class="cat">Mathematical Economics</span>  
-  [Marcelo Gallardo](https://marcelogallardob.github.io/). The problem discussed in this note arose in Lecture 5 of ECON204 (2026), taught by Professor [Chris Shannon](https://eml.berkeley.edu/~cshannon/e204_26.html) (UC Berkeley).  
-  <details>
-    <summary>Summary | <a href="{{ "/files/phd/econ204/continuous_dependence_parameters.pdf" | relative_url }}" target="_blank">Note</a></summary>
-    In dynamic programming the value function is the fixed point of a Bellman operator T<sub>α</sub> on a function space, where α collects preferences, technology and the remaining primitives (Stokey et al., 1989). Comparative statics, continuity of the policy correspondence and consistency of structural estimators all presuppose that α ↦ z(α), the fixed point of T<sub>α</sub>, is continuous.  
-    Theorem 7.18 of de la Fuente (2000) asserts this under hypotheses that do not suffice in infinite dimensions — precisely the setting of dynamic programming. Section 2 locates the gap, following Shannon (2026): the printed proof uses a modulus common to all parameters, which the hypotheses do not supply. Proposition 3.1 then constructs a family in ℓ² meeting every hypothesis whose solution function jumps, so the statement is false and not merely unproved.  
-    Two conditions restore it. Theorem 4.1 replaces the uniform bound by one holding near the parameter of interest, limsup<sub>α→α₀</sub> β<sub>α</sub> &lt; 1; this is what the comparative-statics exercise in the discount factor requires and the uniform bound excludes. Theorem 5.3 shows that when closed balls are compact — in particular when dim X &lt; ∞ — no hypothesis on the moduli is needed.
-  </details>
-
-
 * Game Theory - Notes for 1ECO43, PUCP, 2025 <span class="cat">Microeconomic Theory</span>  
   Professor [César Martinelli](https://sites.google.com/site/martinellicesar/home), and written by [Marcelo Gallardo](https://marcelogallardob.github.io/).  
   <details>
@@ -178,7 +178,7 @@ permalink: /research/
 
 
 * Optimal Transport Theory and its Applications in Economics and Finance, 2024 <span class="cat">Mathematical Economics</span>  
-  [Marcelo Gallardo](https://marcelogallardob.github.io/) and Carlos Cosentino. Final project for the course *Introduction to Optimal Transport*, taught by [Johel Beltrán](https://emap.fgv.br/en/professors/johel-victorino-beltran-ramirez).  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/), Carlos Cosentino and Gabriel Orellano. Final project for the course *Introduction to Optimal Transport*, taught by [Johel Beltrán](https://emap.fgv.br/en/professors/johel-victorino-beltran-ramirez).  
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/optimal_transport_para_economistas.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
     This document discusses applications of optimal transport theory in economics and finance, with a focus on computational methods like entropic regularization and the Sinkhorn-Knopp algorithm.  
