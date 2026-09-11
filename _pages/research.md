@@ -80,17 +80,10 @@ permalink: /research/
     <summary>Abstract | <a href="" target="_blank">Draft coming soon</a></summary>
   </details>
 
-* Dynamic Programming and Production Networks: Continuous Families of Contractions with Discontinuous Fixed Points <span class="cat">Mathematical Economics</span>  
-  [Marcelo Gallardo](https://marcelogallardob.github.io/) and Gabriel Orellano.  
-  <details>
-    <summary>Abstract | <a href="{{ "/files/books-and-papers/continuous_families_contractions.pdf" | relative_url }}" target="_blank">Preprint</a></summary>
-    A continuously parameterized family of contractions need not have continuously varying fixed points. An explicit counterexample in &#8467;&sup2;, built from finite nilpotent shifts, motivates two classical remedies: a contraction bound holding locally in the parameter, or a compact neighborhood of the limiting fixed point.  
-    We connect these criteria to discounted dynamic programming and production networks. Ordinary scalar-discount Bellman operators supply the required local modulus control. The same finite shifts on &#8467;&sup1; instead produce acyclic input&ndash;output networks whose technologies converge strongly and whose final demands converge in norm, while aggregate gross output keeps a persistent error, even though every spectral radius is zero.  
-    For nonnegative column-substochastic matrices with N sectors and spectral radius at most r &lt; 1, we derive the sharp multiplier bound N/(1&minus;r). A common finite-round loss of intermediate requirements gives a bound independent of sector count, restoring continuity and certifying errors in approximate production plans.
-  </details>
-
-
 ### Work in progress
+
+* Dynamic Programming and Production Networks: Continuous Families of Contractions with Discontinuous Fixed Points, 2026  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/) and Gabriel Orellano.
 
 * Near Expected Utility and Approximate Independence, 2026  
   [Marcelo Gallardo](https://marcelogallardob.github.io/).
