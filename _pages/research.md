@@ -86,7 +86,7 @@ permalink: /research/
 
 ### Papers
 
-* A Daily Index of Economic and Political Uncertainty for Peru from X Discourse, 2026 <span class="cat">Political Economy</span>  
+* **[A Daily Index of Economic and Political Uncertainty for Peru from X Discourse]({{ "/files/books-and-papers/epu_index_peru.pdf" | relative_url }})**, 2026 <span class="cat">Political Economy</span>  
   [Marcelo Gallardo](https://marcelogallardob.github.io/), [Manuel Loaiza](https://github.com/ManuelLoaizaV) and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/).  
   <details>
     <summary>Abstract | <a href="{{ "/files/books-and-papers/epu_index_peru.pdf" | relative_url }}" target="_blank">Preprint</a></summary>
