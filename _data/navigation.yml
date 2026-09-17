@@ -12,6 +12,9 @@ main:
   - title: "Teaching"
     url: /teaching/
 
+  - title: "Lecture notes"
+    url: /lecture-notes/
+
   - title: "Academic Presentations"
     url: /academic-presentation/
 
