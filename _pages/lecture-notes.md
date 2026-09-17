@@ -67,3 +67,19 @@ permalink: /lecture-notes/
     They open by contrasting the three ways of approaching the subject — theoretical, numerical and asymptotic — and the questions that sit between them: existence and uniqueness of solutions, and when terms may be neglected.  
     The material then covers the transport equation, the method of characteristics and shock formation, Burgers' equation and the Cole–Hopf transformation, the heat and wave equations, Laplace's equation, separation of variables, Fourier series and transforms, and Duhamel's principle.
   </details>
+
+* Probability Theory - Notes for Probability and Statistics 1, PUCP, 2024 <span class="cat">Mathematical Economics</span>  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/).  
+  <details>
+    <summary>Summary | <a href="{{ "/files/courses/probability/probability_theory_notes.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
+    Notes accompanying the Probability and Statistics 1 course at PUCP (2024-1), written in English.  
+    They introduce probability theory from the measure-theoretic point of view: probability spaces, random variables and random vectors, integration, independence, the classical convergence theorems, L<sup>p</sup> spaces, characteristic functions and conditional expectation.
+  </details>
+
+* Stochastic Processes - Notes for the course, PUCP, 2023 <span class="cat">Mathematical Economics</span>  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/).  
+  <details>
+    <summary>Summary | <a href="{{ "/files/courses/stochastic-processes/stochastic_processes_notes.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
+    Unified and revised notes for the Stochastic Processes course at PUCP (2023-2), written in Spanish.  
+    They cover discrete-time martingales, starting from conditional expectation and its convergence theorems, then filtrations, adapted and predictable processes, sub- and supermartingales, and go on to Poisson processes, Brownian motion and stochastic calculus.
+  </details>
