@@ -9,7 +9,7 @@
 body {
     background-color: $body-bg;
     padding: 50px;
-    font: 14px/1.5 $base-font;
+    font: 17px/1.5 $base-font;
     color: $text-color;
     font-weight: 400;
     height: 100%;
@@ -246,7 +246,7 @@ header {
     flex-direction: row;
     justify-content: end;
     align-items: end;
-    width: 180px;
+    width: 260px;
     height: fit-content;
     -webkit-font-smoothing: subpixel-antialiased;
 
