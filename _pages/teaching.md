@@ -53,7 +53,7 @@ I have served as a teaching assistant in various undergraduate-level courses in 
 
 #### Faculty of Sciences and Engineering, Department of Mathematics
 
-* Applied Differential Equations - with [Marcelo Flamarion](https://www.pucp.edu.pe/profesor/marcelo-velloso-flamarion-vasconcellos-) - [2025-2]({{ "/courses/applied-differential-equations/2025/2" | relative_url }})
+* [Applied Differential Equations](https://facultad-ciencias-sociales.pucp.edu.pe/cursos/ecuaciones-diferenciales-aplicadas/) - with [Marcelo Flamarion](https://www.pucp.edu.pe/profesor/marcelo-velloso-flamarion-vasconcellos-) - [2025-2]({{ "/courses/applied-differential-equations/2025/2" | relative_url }})
 
 * [Operations Research (Convex Optimization)](https://marcelogallardob.github.io/files/courses/Optimization/1/2024/1/Syllabus%20IOP%201_2024.pdf) - with [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) - [2026-1]({{ "/courses/operations_research/1/2026/Base" | relative_url }}) &#124; [2025-1]({{ "/courses/optimization-i/2025-1" | relative_url }}) &#124; [2024-1]({{ "/courses/optimization-i/2024-1" | relative_url }})
 
@@ -61,7 +61,7 @@ I have served as a teaching assistant in various undergraduate-level courses in 
 
 #### Faculty of Social Sciences, Economics and Finance
 
-* Microeconomics 1 - with [José Gallardo](https://es.wikipedia.org/wiki/Jos%C3%A9_Gallardo_Ku) - [2026-1]({{ "/courses/microeconomics1/2026-1" | relative_url }})
+* [Microeconomics 1](https://facultad-ciencias-sociales.pucp.edu.pe/cursos/microeconomia-1/) - with [José Gallardo](https://es.wikipedia.org/wiki/Jos%C3%A9_Gallardo_Ku) - [2026-1]({{ "/courses/microeconomics1/2026-1" | relative_url }})
 
 * [Mathematics for Economists 4](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/matematicas-para-economistas/) - with [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) - [2025-2]({{ "/courses/mathematics-for-economists/2025/4/2" | relative_url }}) &#124; [2022-2]({{ "/courses/mathematics-for-economists-4/2022-2" | relative_url }})
 
