@@ -59,7 +59,7 @@ permalink: /lecture-notes/
     Preliminary draft, please notify any mistake! 
   </details>
 
-* Partial Differential Equations - Notes for the course, PUCP, 2024 <span class="cat">Applied Mathematics</span>  
+* Partial Differential Equations, PUCP, 2024 <span class="cat">Mathematics</span>  
   Professor [Marcelo Flamarion](https://www.pucp.edu.pe/profesor/marcelo-velloso-flamarion-vasconcellos-), and written by [Marcelo Gallardo](https://marcelogallardob.github.io/).  
   <details>
     <summary>Summary | <a href="{{ "/files/courses/partial-differential-equations/pde_lecture_notes.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
@@ -68,16 +68,16 @@ permalink: /lecture-notes/
     The material then covers the transport equation, the method of characteristics and shock formation, Burgers' equation and the Cole–Hopf transformation, the heat and wave equations, Laplace's equation, separation of variables, Fourier series and transforms, and Duhamel's principle.
   </details>
 
-* Probability Theory - Notes for Probability and Statistics 1, PUCP, 2024 <span class="cat">Mathematical Economics</span>  
-  [Marcelo Gallardo](https://marcelogallardob.github.io/).  
+* Probability Theory, PUCP, 2024 <span class="cat">Mathematics</span>  
+  Professor [Jonathan Farfán](https://www.pucp.edu.pe/profesor/jonathan-farfan-vargas), and written by [Marcelo Gallardo](https://marcelogallardob.github.io/).  
   <details>
     <summary>Summary | <a href="{{ "/files/courses/probability/probability_theory_notes.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
     Notes accompanying the Probability and Statistics 1 course at PUCP (2024-1), written in English.  
     They introduce probability theory from the measure-theoretic point of view: probability spaces, random variables and random vectors, integration, independence, the classical convergence theorems, L<sup>p</sup> spaces, characteristic functions and conditional expectation.
   </details>
 
-* Stochastic Processes - Notes for the course, PUCP, 2023 <span class="cat">Mathematical Economics</span>  
-  [Marcelo Gallardo](https://marcelogallardob.github.io/).  
+* Stochastic Processes, PUCP, 2023 <span class="cat">Mathematics</span>  
+  Professor [Johel Beltrán](https://www.pucp.edu.pe/profesor/johel-beltran-ramirez), and written by [Marcelo Gallardo](https://marcelogallardob.github.io/).  
   <details>
     <summary>Summary | <a href="{{ "/files/courses/stochastic-processes/stochastic_processes_notes.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
     Unified and revised notes for the Stochastic Processes course at PUCP (2023-2), written in Spanish.  
