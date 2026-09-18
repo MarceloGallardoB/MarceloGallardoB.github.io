@@ -5,254 +5,68 @@ permalink: /teaching/
 ---
 
 <style>
-  .content-teaching {
-    max-width: 800px;
-    margin: 0 auto;
-  }
-  
-  .content-teaching h2,
-  .content-teaching h3,
-  .content-teaching h4 {
-    text-align: left;
-    margin-left: 0;
+
+  strong{
+    color: #003d90;
   }
 
-  h3{
-
-    margin-bottom: -10px !important;
-
+  .institution {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 34px 0 6px 0;
+    font-size: 1.15em;
+    font-weight: 700;
+  }
+  .institution img {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+    flex: 0 0 30px;
   }
 
-  h2 {
-    margin-bottom: 20px;
-  }
-  
   h4 {
-    margin: 25px 0px 15px 0px;
+    margin: 18px 0 8px 0;
   }
-  
-  .card-body {
-    text-align: left;
-  }
-  
-  @media (max-width: 768px) {
-    .card {
-      width: 100% !important;
-      margin: 10px 0;
-    }
-    
-    h4 {
-      margin-left: 5px;
-    }
-    
-    div[style*="margin-left: 60px;"] {
-      margin-left: 0 !important;
-    }
-  }
+
 </style>
 
-<div class="content-teaching">
-  
-  <div>
-    <h2>Teaching Assistance</h2>
-    <p style="margin-top: -10px; margin-bottom: 10px;">
-      I have served as a teaching assistant in various undergraduate-level courses in mathematics and economics. All typos are my own—please don't hesitate to point them out! 
-    </p>
-    <h3>
-      <img src="{{ '/assets/img/institutions/uc-berkeley.png' | relative_url }}"
-        draggable="false" alt="UC Berkeley Logo"
-        style="height: 30px; vertical-align: middle;"> University of California, Berkeley
-    </h3>
-    <h4>Department of Economics</h4>
-  </div>
+{% include publications.html %}
 
-  <div class="card">
-    <div class="card-body">
-      <h5 class="card-title">
-        <a href="https://undergraduate.catalog.berkeley.edu/courses/1051681/overview-aoYks"
-          target="_blank">ECON 1 - Introduction to Economics (Section 001)</a>
-      </h5>
-      <p class="card-text">
-        Reader, University of California, Berkeley
-      </p>
-      <p class="card-text">
-        With <a href="https://jimdcampbell.com/about/"
-          target="_blank">Jim Campbell</a>
-      </p>
-      <hr>
-      <p class="card-text">
-        <a href="{{ "/courses/econ1/2026-fall/" | relative_url }}">Fall 2026</a>
-      </p>
-    </div>
-  </div>
+## Teaching Assistance
 
-  <div>
-    <h3>
-      <img src="{{ '/assets/img/institutions/pucp-logo.png' | relative_url }}"
-        draggable="false" alt="PUCP Logo"
-        style="height: 30px; vertical-align: middle;"> Pontificia Universidad
-      Católica del Perú (PUCP)
-    </h3>
-    <h4>Faculty of Sciences and Engineering, Department of Mathematics</h4>
-  </div>
+I have served as a teaching assistant in various undergraduate-level courses in mathematics and economics. All typos are my own—please don't hesitate to point them out!
 
-   <div class="card">
-    <div class="card-body">
-      <h5 class="card-title">
-        <a href=""
-          target="_blank">Applied Differential Equations </a>
-      </h5>
-      <p class="card-text">
-        With <a href="https://www.pucp.edu.pe/profesor/marcelo-velloso-flamarion-vasconcellos-"
-          target="_blank">PhD Marcelo Flamarion</a>
-      </p>
-      <hr>
-      <p class="card-text">
-        <a href="{{ "/courses/applied-differential-equations/2025/2" | relative_url
-          }}">2025-2</a> 
-      </p>
-    </div>
-  </div>
-  
-  <div class="card">
-    <div class="card-body">
-      <h5 class="card-title">
-        <a href="https://MarceloGallardoB.github.io/files/courses/Optimization/1/2024/1/Syllabus IOP 1_2024.pdf"
-          target="_blank">Operations Research (Convex Optimization)</a>
-      </h5>
-      <p class="card-text">
-        With <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes"
-          target="_blank">PhD Jorge Chávez</a>
-      </p>      
-      <hr>
-      <p class="card-text">
-        <a href="{{ "/courses/operations_research/1/2026/Base" | relative_url
-          }}">2026-1</a> |
-        <a href="{{ "/courses/optimization-i/2025-1" | relative_url
-          }}">2025-1</a> |
-        <a href="{{ "/courses/optimization-i/2024-1" | relative_url
-          }}">2024-1</a>
-      </p>
-    </div>
-  </div>
-
-  <div class="card">
-    <div class="card-body">
-      <h5 class="card-title">
-        <a
-          href="https://MarceloGallardoB.github.io/files/courses/Functional-analysis/Functional_analisis1MAT33-2024-1-SILABO.PDF"
-          target="_blank">Functional Analysis</a>
-      </h5>
-      <p class="card-text">
-        With <a href="https://www.pucp.edu.pe/profesor/percy-fernandez-sanchez"
-          target="_blank">PhD Percy Fernandez</a>
-      </p>
-      <hr>
-      <p class="card-text">
-        <a href="{{ "/courses/functional-analysis/2024-1" | relative_url
-          }}">2024-1</a>
-      </p>
-
-    </div>
-  </div>
-
-  <div>
-    <h4>Faculty of Social Sciences, Economics and Finance</h4>
-  </div>
-
-   <div class="card">
-    <div class="card-body">
-      <h5 class="card-title">
-        <a href=""
-          target="_blank">Microeconomics 1</a>
-      </h5>
-      <p class="card-text">
-        With <a href=""
-          target="_blank">PhD (a.b.d.) Jose Gallardo</a>
-      </p>
-      <hr>
-      <p class="card-text">
-        <a href="{{ "/courses/microeconomics1/2026-1" | relative_url }}">2026-1</a> 
-      </p>
-    </div>
-  </div>
-
-  <div class="card">
-    <div class="card-body">
-      <h5 class="card-title">
-        <a
-          href="https://facultad.pucp.edu.pe/ciencias-sociales/cursos/matematicas-para-economistas/"
-          target="_blank">Mathematics for Economists 4</a>
-      </h5>
-      <p class="card-text">
-        With <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes"
-          target="_blank">PhD Jorge Chávez</a>
-      </p>
-      <hr>
-      <p class="card-text">
-          <a href="{{ "/courses/mathematics-for-economists/2025/4/2" |
-          relative_url }}">2025-2</a>|
-          <a href="{{ "/courses/mathematics-for-economists-4/2022-2" |
-          relative_url }}">2022-2</a> 
-      </p>
-    </div>
-  </div>
-
-  <div class="card">
-    <div class="card-body">
-      <h5 class="card-title">
-        <a
-          href="https://facultad.pucp.edu.pe/ciencias-sociales/cursos/microeconomia-financiera/"
-          target="_blank">Financial Microeconomics</a>
-      </h5>
-      <p class="card-text">
-        With <a href="https://es.wikipedia.org/wiki/Jos%C3%A9_Gallardo_Ku"
-          target="_blank">PhD (a.b.d.) José Gallardo.</a>
-      </p>
-      <hr>
-      <p class="card-text">
-        <a href="{{ "/courses/financial-microeconomics/2024-2/" | relative_url
-          }}">2024-2</a>
-      </p>
-    </div>
-  </div>
-
-  <div class="card">
-    <div class="card-body">
-      <h5 class="card-title">
-        <a
-          href="https://facultad.pucp.edu.pe/ciencias-sociales/cursos/microeconomia-2/"
-          target="_blank">Microeconomics II</a>
-      </h5>
-      <p class="card-text">
-        With <a
-          href="https://www.pucp.edu.pe/profesor/pavel-coronado-castellanos"
-          target="_blank">PhD Pavel Coronado.</a>
-      </p>
-      <hr>
-      <p class="card-text">
-        <a href="{{ "/courses/microeconomics/2024-2" | relative_url
-          }}">2024-2</a>
-      </p>
-    </div>
-  </div>
-
-  <div class="card">
-    <div class="card-body">
-      <h5 class="card-title">
-        <a
-          href="https://facultad.pucp.edu.pe/ciencias-sociales/cursos/matematicas-para-economistas/"
-          target="_blank">Mathematics for Economists 3</a>
-      </h5>
-      <p class="card-text">
-        With <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes"
-          target="_blank">PhD Jorge Chávez</a>
-      </p>
-      <hr>
-      <p class="card-text">
-        <a href="{{ "/courses/mathematics-for-economists-3/2022-1" |
-          relative_url }}">2022-1</a>
-      </p>
-    </div>
-  </div>
+<div class="institution">
+  <img draggable="false" src="{{ '/assets/img/institutions/uc-berkeley.png' | relative_url }}" alt="UC Berkeley Logo">
+  University of California, Berkeley
 </div>
+
+#### Department of Economics
+
+* [ECON 1 - Introduction to Economics (Section 001)](https://undergraduate.catalog.berkeley.edu/courses/1051681/overview-aoYks) - Reader, with [Jim Campbell](https://jimdcampbell.com/about/) - [Fall 2026]({{ "/courses/econ1/2026-fall/" | relative_url }})
+
+<div class="institution">
+  <img draggable="false" src="{{ '/assets/img/institutions/pucp-logo.png' | relative_url }}" alt="PUCP Logo">
+  Pontificia Universidad Católica del Perú
+</div>
+
+#### Faculty of Sciences and Engineering, Department of Mathematics
+
+* Applied Differential Equations - with [Marcelo Flamarion](https://www.pucp.edu.pe/profesor/marcelo-velloso-flamarion-vasconcellos-) - [2025-2]({{ "/courses/applied-differential-equations/2025/2" | relative_url }})
+
+* [Operations Research (Convex Optimization)](https://marcelogallardob.github.io/files/courses/Optimization/1/2024/1/Syllabus%20IOP%201_2024.pdf) - with [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) - [2026-1]({{ "/courses/operations_research/1/2026/Base" | relative_url }}) &#124; [2025-1]({{ "/courses/optimization-i/2025-1" | relative_url }}) &#124; [2024-1]({{ "/courses/optimization-i/2024-1" | relative_url }})
+
+* [Functional Analysis](https://marcelogallardob.github.io/files/courses/Functional-analysis/Functional_analisis1MAT33-2024-1-SILABO.PDF) - with [Percy Fernández](https://www.pucp.edu.pe/profesor/percy-fernandez-sanchez) - [2024-1]({{ "/courses/functional-analysis/2024-1" | relative_url }})
+
+#### Faculty of Social Sciences, Economics and Finance
+
+* Microeconomics 1 - with [José Gallardo](https://es.wikipedia.org/wiki/Jos%C3%A9_Gallardo_Ku) - [2026-1]({{ "/courses/microeconomics1/2026-1" | relative_url }})
+
+* [Mathematics for Economists 4](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/matematicas-para-economistas/) - with [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) - [2025-2]({{ "/courses/mathematics-for-economists/2025/4/2" | relative_url }}) &#124; [2022-2]({{ "/courses/mathematics-for-economists-4/2022-2" | relative_url }})
+
+* [Financial Microeconomics](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/microeconomia-financiera/) - with [José Gallardo](https://es.wikipedia.org/wiki/Jos%C3%A9_Gallardo_Ku) - [2024-2]({{ "/courses/financial-microeconomics/2024-2/" | relative_url }})
+
+* [Microeconomics II](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/microeconomia-2/) - with [Pavel Coronado](https://www.pucp.edu.pe/profesor/pavel-coronado-castellanos) - [2024-2]({{ "/courses/microeconomics/2024-2" | relative_url }})
+
+* [Mathematics for Economists 3](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/matematicas-para-economistas/) - with [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) - [2022-1]({{ "/courses/mathematics-for-economists-3/2022-1" | relative_url }})
