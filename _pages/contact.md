@@ -18,7 +18,7 @@ permalink: /contact/
 
 **Department of Economics**  
 University of California, Berkeley  
-530 Evans Hall #3880, Berkeley, California 94720-3880  
+[marcelogallardob21@berkeley.edu](mailto:marcelogallardob21@berkeley.edu)  
 
 ---
 ## Social Links
