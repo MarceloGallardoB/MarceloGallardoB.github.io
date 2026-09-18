@@ -69,9 +69,6 @@ permalink: /research/
 
 ### Work in progress
 
-* Near Expected Utility and Approximate Independence, 2026  
-  [Marcelo Gallardo](https://marcelogallardob.github.io/).
-
 * Dynamic Programming and Production Networks: Continuous Families of Contractions with Discontinuous Fixed Points, 2026  
   [Marcelo Gallardo](https://marcelogallardob.github.io/) and Gabriel Orellano.
 
