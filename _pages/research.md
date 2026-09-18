@@ -76,7 +76,7 @@ permalink: /research/
   [Marcelo Gallardo](https://marcelogallardob.github.io/) and Gabriel Orellano.
 
 * Innovation, Power, and Identification: A Model of Endogenous Graphs, 2026  
-  [Marcelo Gallardo](https://marcelogallardob.github.io/) and [Luan Borelli](https://www.luanborelli.com/).
+  [Luan Borelli](https://www.luanborelli.com/) and [Marcelo Gallardo](https://marcelogallardob.github.io/).
 
 * Price Information, Cost Uncertainty, and Advertising in Oligopoly, 2026  
   [Marcelo Gallardo](https://marcelogallardob.github.io/).
