@@ -81,8 +81,8 @@ permalink: /research/
 * Screening Under Competition and Optimal Transport, 2026  
   [Marcelo Gallardo](https://marcelogallardob.github.io/).
 
-* Innovation, Power, and Segregation: A Model of Endogenous Graphs, 2026  
-  [Marcelo Gallardo](https://marcelogallardob.github.io/).
+* Innovation, Power, and Identification: A Model of Endogenous Graphs, 2026  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/) and [Luan Borelli](https://www.luanborelli.com/).
 
 ### Papers
 
