@@ -20,6 +20,6 @@ permalink: /
 
 Ph.D. student in Economics at the University of California, Berkeley.
 
-Previously, B.Sc. and Licenciatura in Mathematics at the Pontificia Universidad Católica del Perú (PUCP), with a concentration in economics.
+Previously, B.Sc. and Licenciatura in Mathematics at the Pontificia Universidad Católica del Perú (PUCP), with a concentration in economics. I also studied a semester of physics at EPFL.
 
 Contact information [here]({{ "/contact" | relative_url }}) and CV [here]({{ "/files/education-and-experience/cv_mg.pdf" | relative_url }}).
