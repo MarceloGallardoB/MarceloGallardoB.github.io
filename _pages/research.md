@@ -69,20 +69,20 @@ permalink: /research/
 
 ### Work in progress
 
+* Near Expected Utility and Approximate Independence, 2026  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/).
+
 * Dynamic Programming and Production Networks: Continuous Families of Contractions with Discontinuous Fixed Points, 2026  
   [Marcelo Gallardo](https://marcelogallardob.github.io/) and Gabriel Orellano.
 
-* Near Expected Utility and Approximate Independence, 2026  
-  [Marcelo Gallardo](https://marcelogallardob.github.io/).
+* Innovation, Power, and Identification: A Model of Endogenous Graphs, 2026  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/) and [Luan Borelli](https://www.luanborelli.com/).
 
 * Price Information, Cost Uncertainty, and Advertising in Oligopoly, 2026  
   [Marcelo Gallardo](https://marcelogallardob.github.io/).
 
 * Screening Under Competition and Optimal Transport, 2026  
   [Marcelo Gallardo](https://marcelogallardob.github.io/).
-
-* Innovation, Power, and Identification: A Model of Endogenous Graphs, 2026  
-  [Marcelo Gallardo](https://marcelogallardob.github.io/) and [Luan Borelli](https://www.luanborelli.com/).
 
 ### Papers
 
