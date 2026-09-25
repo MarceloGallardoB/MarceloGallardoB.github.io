@@ -75,9 +75,6 @@ permalink: /research/
 * Innovation, Power, and Identification: A Model of Endogenous Graphs, 2026  
   [Luan Borelli](https://www.luanborelli.com/) and [Marcelo Gallardo](https://marcelogallardob.github.io/).
 
-* Price Information, Cost Uncertainty, and Advertising in Oligopoly, 2026  
-  [Marcelo Gallardo](https://marcelogallardob.github.io/).
-
 * Screening Under Competition and Optimal Transport, 2026  
   [Marcelo Gallardo](https://marcelogallardob.github.io/).
 
