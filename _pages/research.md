@@ -110,7 +110,7 @@ permalink: /research/
 * Dynamical Systems and Optimal Control for Economists, 2026 - Under revision at Springer Verlag <span class="cat">Mathematical Economics</span>  
   [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and [Marcelo Gallardo](https://marcelogallardob.github.io/).  
   <details>
-    <summary>Summary | <a href="{{ "/files/books-and-papers/Index_DSOC.pdf" | relative_url }}" target="_blank">Index</a> | <a href="{{ '/files/books-and-papers/DSOC-Excerpt-Chapter-4.pdf' | relative_url }}" target="_blank">Book Excerpt</a></summary>
+    <summary>Summary | <a href="{{ "/files/books-and-papers/Index_DSOC.pdf" | relative_url }}" target="_blank">Index</a> | <a href="{{ '/files/books-and-papers/optimal_control_infinite_horizon_sample.pdf' | relative_url }}" target="_blank">Book Excerpt</a></summary>
    Dynamical Systems and Optimal Control in Continuous Time for Economists. Topics include linear differential equations, nonlinear dynamical systems, limit cycles, calculus of variations, optimal control theory, and economic models.
   </details>
 
