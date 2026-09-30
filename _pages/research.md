@@ -72,11 +72,11 @@ permalink: /research/
 * Dynamic Programming and Production Networks: Continuous Families of Contractions with Discontinuous Fixed Points, 2026  
   [Marcelo Gallardo](https://marcelogallardob.github.io/) and Gabriel Orellano.
 
-* Innovation, Power, and Identification: A Model of Endogenous Graphs, 2026  
-  [Luan Borelli](https://www.luanborelli.com/) and [Marcelo Gallardo](https://marcelogallardob.github.io/).
-
-* Screening Under Competition and Optimal Transport, 2026  
+* Innovation and Isolation: Status Rents and Endogenous Networks, 2026  
   [Marcelo Gallardo](https://marcelogallardob.github.io/).
+
+* Competitive Screening as Weak Optimal Transport, 2026  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/), Yu-Ting Ho and Pan-Yang Lo.
 
 ### Papers
 
