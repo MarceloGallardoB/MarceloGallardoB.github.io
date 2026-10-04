@@ -31,6 +31,13 @@ permalink: /research/
     margin-top: 34px;
   }
 
+  /* Trabajos derivados: se muestran indentados bajo el paper principal */
+  li > ul {
+    margin: 12px 0 0 0;
+    padding-left: 18px;
+    border-left: 2px solid #c3d0e4;
+  }
+
 </style>
 
 {% include publications.html %}
@@ -97,6 +104,13 @@ permalink: /research/
     <summary>Abstract | <a href="https://arxiv.org/abs/2410.07363" target="_blank">Preprint</a></summary>
     We propose a new model that transforms the classical discrete optimal transport framework by incorporating heterogeneous congestion costs and replacing traditional equality constraints with weighted penalization terms. The resulting formulation is a strictly convex optimization problem that better captures demand–supply imbalances in economic matching contexts and the congestion phenomenon. We first introduce the model and establish existence and uniqueness of the optimal transport plan under general conditions. For interior solutions, we present two analytical methods—based on the Neumann series expansion and the Sherman–Morrison formula—and develop a practical $O((N+L)N^2L^2)$ algorithm for computing the optimum. We then address the case of infinitely many types, corresponding to optimal transport on measure spaces, absolutely continuous with respect to Lebesgue, and prove existence and uniqueness under reasonable assumptions via infinite-dimensional optimization methods. Finally, we illustrate the applicability of our framework with examples from Peru’s health and education sectors, showing how it yields allocation patterns that differ from classical approaches and provide more accurate predictions. Pre-print in arXiv differs from the last version.
   </details>
+
+  * **[Interiority in Optimal Transport with Congestion and Penalized Marginals]({{ "/files/books-and-papers/congestion_interiority_proof.pdf" | relative_url }})**, 2026 <span class="cat">Mathematical Economics</span>  
+    [Marcelo Gallardo](https://marcelogallardob.github.io/) and Haopeng Zhou.  
+    <details>
+      <summary>Abstract</summary>
+      We give sufficient conditions for strictly positive optimal plans in the finite-dimensional transport model with quadratic congestion and penalized marginals of Gallardo, Loaiza, and Chávez. A uniform condition in the model primitives follows from the Karush–Kuhn–Tucker conditions. A refinement provides bounds for individual entries and can be checked in $$O(NL)$$ operations. Exact examples show that the refined condition is less restrictive and that neither condition is necessary. These results partially address the question of identifying explicit parameter regions where the interior linear-system representation is valid.
+    </details>
 
 * **[Heterogenous Quadratic Regularization in Optimal Transport](https://marcelogallardob.github.io/files/books-and-papers/heterogenous_quadratic_regularization_ot.pdf)**, 2025 - Presented at XXXVIII Colloquium of the Peruvian Mathematical Society <span class="cat">Mathematical Economics</span>  
   [Marcelo Gallardo](https://marcelogallardob.github.io/), [Manuel Loaiza](https://github.com/ManuelLoaizaV) and [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).  
