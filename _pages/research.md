@@ -51,20 +51,20 @@ permalink: /research/
 
 ### Working papers
 
+* Information and voting: Evidence from Peru's 2026 presidential election - Accepted for presentation at LACEA LAMES 2026 (Lima, Peru) <span class="cat">Political Economy</span>  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/), Nicolás Velarde and Cristina Gutarra.  
+  <details>
+    <summary>Abstract | <a href="https://arxiv.org/abs/2606.01687" target="_blank">Preprint (very preliminary)</a></summary>
+    We study how election-night flash estimates shape voting in Peru's fragmented 2026 presidential election. We exploit a natural experiment: on April 12, 2026, 187 polling tables across 13 voting centers failed to install, and the Jurado Nacional de Elecciones (JNE) extended voting for the affected ≈55000 electors to Monday, April 13. These voters cast ballots after observing the Ipsos and Datum flash estimates; otherwise comparable Sunday voters did not. A Bayesian-updating model of multi-candidate plurality voting frames the analysis, yielding predictions about vote reallocation toward the three candidates the estimates rendered viable -- López Aliaga, Sánchez, and Nieto. We estimate treatment effects on candidate vote shares at both the acta level and the acta-weighted polling-station level, comparing treated and control locales de votación matched on pre-treatment covariates. How flash estimates reshape voting is of first-order importance for Peru, given its institutional instability and high political volatility over the past decade.
+  </details>
+
+
 * The Market and the Jungle: Dual Economies in Emerging Countries <span class="cat">Microeconomic Theory</span>  
   [Juan Carlos Carbajal](https://sites.google.com/site/carbajaleconomics/home), [Marcelo Gallardo](https://marcelogallardob.github.io/) and [Cesar Martinelli](https://sites.google.com/site/martinellicesar/home).  
   <details>
     <summary>Abstract | <a href="" target="_blank">Draft coming soon</a></summary>
     We combine Piccione and Rubinstein's (2007) jungle economy with the trading framework of Makowski and Ostroy (1995). We establish existence and efficiency of a jungle equilibrium for a fixed occupational profile, and existence in lotteries when occupations are chosen. We also define an equilibrium for a dual economy in which a competitive market operates side by side with a jungle.  
     In the lotteries case the power relation is drawn after occupations are chosen, so the expected payoff averages over finitely many power relations and is continuous. Strategies are Borel measures over each menu, a convex set that is weak*-compact by Banach–Alaoglu. Berge's maximum theorem makes the best-reply correspondences upper hemicontinuous with non-empty compact values, convex because payoffs are affine, and the Kakutani–Fan–Glicksberg fixed point theorem then yields the equilibrium — Kakutani's own theorem does not suffice, the strategy sets being infinite-dimensional.
-  </details>
-
-
-* Information and voting: Evidence from Peru's 2026 presidential election - Accepted for presentation at LACEA LAMES 2026 (Lima, Peru) <span class="cat">Political Economy</span>  
-  [Marcelo Gallardo](https://marcelogallardob.github.io/), Nicolás Velarde and Cristina Gutarra.  
-  <details>
-    <summary>Abstract | <a href="https://arxiv.org/abs/2606.01687" target="_blank">Preprint (very preliminary)</a></summary>
-    We study how election-night flash estimates shape voting in Peru's fragmented 2026 presidential election. We exploit a natural experiment: on April 12, 2026, 187 polling tables across 13 voting centers failed to install, and the Jurado Nacional de Elecciones (JNE) extended voting for the affected ≈55000 electors to Monday, April 13. These voters cast ballots after observing the Ipsos and Datum flash estimates; otherwise comparable Sunday voters did not. A Bayesian-updating model of multi-candidate plurality voting frames the analysis, yielding predictions about vote reallocation toward the three candidates the estimates rendered viable -- López Aliaga, Sánchez, and Nieto. We estimate treatment effects on candidate vote shares at both the acta level and the acta-weighted polling-station level, comparing treated and control locales de votación matched on pre-treatment covariates. How flash estimates reshape voting is of first-order importance for Peru, given its institutional instability and high political volatility over the past decade.
   </details>
 
 
@@ -83,7 +83,7 @@ permalink: /research/
   [Marcelo Gallardo](https://marcelogallardob.github.io/) and Gabriel Orellano.
 
 * Competitive Screening as Weak Optimal Transport, 2026  
-  [Marcelo Gallardo](https://marcelogallardob.github.io/), [Yu-Ting Ho](https://sites.google.com/berkeley.edu/hoyuting/home) and Pan-Yang Lo.
+  [Marcelo Gallardo](https://marcelogallardob.github.io/), [Yu-Ting Ho](https://sites.google.com/berkeley.edu/hoyuting/home) and [Pan-Yang Su](https://scholar.google.com/citations?user=im9ugAgAAAAJ&hl=en).
 
 ### Papers
 
