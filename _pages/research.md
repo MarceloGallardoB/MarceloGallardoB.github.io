@@ -76,14 +76,14 @@ permalink: /research/
 
 ### Work in progress
 
-* Dynamic Programming and Production Networks: Continuous Families of Contractions with Discontinuous Fixed Points, 2026  
-  [Marcelo Gallardo](https://marcelogallardob.github.io/) and Gabriel Orellano.
-
 * Innovation and Isolation: Status Rents and Endogenous Networks, 2026  
   [Marcelo Gallardo](https://marcelogallardob.github.io/).
 
+* Dynamic Programming and Production Networks: Continuous Families of Contractions with Discontinuous Fixed Points, 2026  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/) and Gabriel Orellano.
+
 * Competitive Screening as Weak Optimal Transport, 2026  
-  [Marcelo Gallardo](https://marcelogallardob.github.io/), Yu-Ting Ho and Pan-Yang Lo.
+  [Marcelo Gallardo](https://marcelogallardob.github.io/), [Yu-Ting Ho](https://sites.google.com/berkeley.edu/hoyuting/home) and Pan-Yang Lo.
 
 ### Papers
 
@@ -109,7 +109,7 @@ permalink: /research/
     [Marcelo Gallardo](https://marcelogallardob.github.io/) and Haopeng Zhou.  
     <details>
       <summary>Abstract</summary>
-      We give sufficient conditions for strictly positive optimal plans in the finite-dimensional transport model with quadratic congestion and penalized marginals of Gallardo, Loaiza, and Chávez. A uniform condition in the model primitives follows from the Karush–Kuhn–Tucker conditions. A refinement provides bounds for individual entries and can be checked in $$O(NL)$$ operations. Exact examples show that the refined condition is less restrictive and that neither condition is necessary. These results partially address the question of identifying explicit parameter regions where the interior linear-system representation is valid.
+      We give sufficient conditions for strictly positive optimal plans in the finite-dimensional transport model with quadratic congestion and penalized marginals of Gallardo, Loaiza, and Chávez. A uniform condition in the model primitives follows from the Karush–Kuhn–Tucker conditions. A refinement provides bounds for individual entries and can be checked in O(NL) operations. Exact examples show that the refined condition is less restrictive and that neither condition is necessary. These results partially address the question of identifying explicit parameter regions where the interior linear-system representation is valid.
     </details>
 
 * **[Heterogenous Quadratic Regularization in Optimal Transport](https://marcelogallardob.github.io/files/books-and-papers/heterogenous_quadratic_regularization_ot.pdf)**, 2025 - Presented at XXXVIII Colloquium of the Peruvian Mathematical Society <span class="cat">Mathematical Economics</span>  
