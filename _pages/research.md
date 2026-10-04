@@ -119,7 +119,7 @@ permalink: /research/
     In this paper, we build upon the optimal transport quadratic regularization model to develop a framework that incorporates congestion costs, particularly in matching within the healthcare and education sectors. Specifically, we introduce a model with heterogeneous quadratic costs. We analyze the model's properties under specific cases, extending the existing literature. Furthermore, we explore key structural characteristics of the model and provide numerical examples illustrating why this formulation more accurately captures real-world phenomena, particularly in the Peruvian context. The main result consists of identifying a specific type of corner solution when matching the same number of clusters, i.e., N=L.
   </details>
 
-  * **[Exact Regularization Thresholds for Integer Quadratic Transport]({{ "/files/books-and-papers/exact_regularization_thresholds.pdf" | relative_url }})**, 2026 - Supersedes the version above <span class="cat">Mathematical Economics</span>  
+  * **[Exact Regularization Thresholds for Integer Quadratic Transport]({{ "/files/books-and-papers/exact_regularization_thresholds.pdf" | relative_url }})**, 2026 - Corrects and extends the paper above <span class="cat">Mathematical Economics</span>  
     [Marcelo Gallardo](https://marcelogallardob.github.io/).  
     <details>
       <summary>Abstract</summary>
