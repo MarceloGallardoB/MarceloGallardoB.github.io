@@ -51,6 +51,14 @@ permalink: /research/
 
 ### Working papers
 
+* Innovation and Isolation: Status Rents and Endogenous Networks, 2026 <span class="cat">Microeconomic Theory</span>  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/).  
+  <details>
+    <summary>Abstract | <a href="{{ "/files/books-and-papers/innovation_isolation.pdf" | relative_url }}" target="_blank">Draft</a></summary>
+    I study how groups form innovation networks when power determines their claims on resources. Cooperation creates resources but can also threaten those claims. Under the benchmark rule for changes in power, there is a greatest equilibrium: a network containing every other equilibrium network. Every active link operates at its maximum feasible strength. A group that loses from innovation cuts all its links, whatever its partners' rank. Complementarities transmit withdrawal: losing a partner can make links among the remaining groups unprofitable even when their private values of innovation stay positive. I characterize exactly when withdrawal induces these additional losses and, when status exposure rises, separate lost complementary returns from changed incentives. When power and link capacity are aligned, vetoes by top-ranked groups remove the strongest feasible links. The veto requires that a group expect to lose share in a redraw, not that the redraw equalize shares, and it survives nonlinear status lotteries under a marginal condition preserved by sufficiently small admissible smooth perturbations of a strict benchmark veto. Stronger spillovers or larger innovation inputs weakly expand the greatest equilibrium, while greater status exposure can first increase interaction and then reduce it. With any number of groups, full integration requires exposure low enough to retain advantaged groups and high enough to attract disadvantaged groups. Full integration, when feasible, is sustained over a single interval of exposure. Even reimbursing all interaction costs cannot secure a group's consent if innovation reduces its expected consumption. Compensating that loss requires transfers enforceable after power changes, which the model assumes are unavailable.
+  </details>
+
+
 * Information and voting: Evidence from Peru's 2026 presidential election - Accepted for presentation at LACEA LAMES 2026 (Lima, Peru) <span class="cat">Political Economy</span>  
   [Marcelo Gallardo](https://marcelogallardob.github.io/), Nicolás Velarde and Cristina Gutarra.  
   <details>
@@ -75,9 +83,6 @@ permalink: /research/
   </details>
 
 ### Work in progress
-
-* Innovation and Isolation: Status Rents and Endogenous Networks, 2026  
-  [Marcelo Gallardo](https://marcelogallardob.github.io/).
 
 * Dynamic Programming and Production Networks: Continuous Families of Contractions with Discontinuous Fixed Points, 2026  
   [Marcelo Gallardo](https://marcelogallardob.github.io/) and Gabriel Orellano.
