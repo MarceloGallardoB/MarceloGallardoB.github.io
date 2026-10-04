@@ -119,6 +119,13 @@ permalink: /research/
     In this paper, we build upon the optimal transport quadratic regularization model to develop a framework that incorporates congestion costs, particularly in matching within the healthcare and education sectors. Specifically, we introduce a model with heterogeneous quadratic costs. We analyze the model's properties under specific cases, extending the existing literature. Furthermore, we explore key structural characteristics of the model and provide numerical examples illustrating why this formulation more accurately captures real-world phenomena, particularly in the Peruvian context. The main result consists of identifying a specific type of corner solution when matching the same number of clusters, i.e., N=L.
   </details>
 
+  * **[Exact Regularization Thresholds for Integer Quadratic Transport]({{ "/files/books-and-papers/exact_regularization_thresholds.pdf" | relative_url }})**, 2026 - Supersedes the version above <span class="cat">Mathematical Economics</span>  
+    [Marcelo Gallardo](https://marcelogallardob.github.io/).  
+    <details>
+      <summary>Abstract</summary>
+      We study the regularization level at which a unique linear-optimal transport plan ceases to minimize a heterogeneous quadratic objective. Although integer margins make every transportation vertex integral, continuous and integer regularization generally leave that vertex at different parameter values. Using the classical optimality criterion for convex-cost flows, we express both thresholds through feasible residual cycles. The integer formula contains an explicit finite-step correction and yields a strictly larger threshold whenever the continuous threshold is finite. Under population replication, the normalized integer threshold decreases to the continuous threshold. We identify its first-order correction and prove an exact formula valid after finitely many changes of the minimizing cycle. A dependent-rounding argument also gives a sharp second-order value bound and a uniform first-order distance bound as the grid is refined. Small examples attain these rates and exhibit a change of the threshold-determining cycle. A final sensitivity result characterizes unit adjustments when one connection cost varies.
+    </details>
+
 ### Books
 
 * Dynamical Systems and Optimal Control for Economists, 2026 - Under revision at Springer Verlag <span class="cat">Mathematical Economics</span>  
