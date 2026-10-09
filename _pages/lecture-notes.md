@@ -16,6 +16,13 @@ permalink: /lecture-notes/
 
 ## Lecture notes
 
+* Econometrics, UC Berkeley, 2026 <span class="cat">Econometrics</span>  
+  Professor [Michael Jansson](https://sites.google.com/berkeley.edu/michael-jansson/), and written by [Marcelo Gallardo](https://marcelogallardob.github.io/).  
+  <details>
+    <summary>Summary | <a href="{{ "/files/phd/econ240a/econ240a_notes.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
+    Notes for the course Econometrics (ECON 240A, Part I), taught by Michael Jansson in Fall 2026. They cover probability theory, random variables and distributions, expectation, moments and generating functions, common families of distributions and exponential families, random vectors, conditioning and independence, random samples and sampling distributions, point estimation, sufficiency and UMVU estimation, and hypothesis testing, including optimal tests. The main reference is Casella and Berger (2024).
+  </details>
+
 * Notes on Brouwer and Kakutani Fixed Point Theorems, 2026 <span class="cat">Mathematical Economics</span>  
   [Marcelo Gallardo](https://marcelogallardob.github.io/). Notes related to Lecture 13 of ECON204 (2026), taught by Professor [Chris Shannon](https://eml.berkeley.edu/~cshannon/e204_26.html) (UC Berkeley).  
   <details>
