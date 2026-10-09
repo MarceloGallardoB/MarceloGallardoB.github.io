@@ -16,6 +16,13 @@ permalink: /lecture-notes/
 
 ## Lecture notes
 
+* Economic Theory, UC Berkeley, 2026 <span class="cat">Microeconomic Theory</span>  
+  Professor [Shachar Kariv](https://eml.berkeley.edu/~kariv/), and written by [Marcelo Gallardo](https://marcelogallardob.github.io/).  
+  <details>
+    <summary>Summary | <a href="{{ "/files/phd/econ201a/econ201a_notes.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
+    Notes for the course Economic Theory (ECON 201A, Part I: Choice Theory), taught by Shachar Kariv in Fall 2026. They cover preferences, lotteries and the expected utility representation theorem, with the Allais paradox and the Marschak–Machina triangle; utility, continuity and choice correspondences; monotonicity, convexity, homotheticity, quasi-linearity and separability; the consumer's problem, demand and classical demand theory; Slutsky and integrability; revealed preference and Afriat's theorem; and choice under risk. Appendices cover Debreu's representation theorem, smooth preferences, the envelope theorem, and temptation and self-control. The main reference is Rubinstein (2012), <em>Lecture Notes in Microeconomic Theory: The Economic Agent</em>.
+  </details>
+
 * Econometrics, UC Berkeley, 2026 <span class="cat">Econometrics</span>  
   Professor [Michael Jansson](https://sites.google.com/berkeley.edu/michael-jansson/), and written by [Marcelo Gallardo](https://marcelogallardob.github.io/).  
   <details>
