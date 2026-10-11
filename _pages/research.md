@@ -132,8 +132,17 @@ permalink: /research/
     </details>
 
 ### Books
+* Optimal Transport Theory and its Applications in Economics and Finance, 2026 - Working book <span class="cat">Mathematical Economics</span>  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/), Carlos Cosentino and Gabriel Orellano. Final project for the course *Introduction to Optimal Transport*, taught by [Johel Beltrán](https://emap.fgv.br/en/professors/johel-victorino-beltran-ramirez).  
+  <details>
+    <summary>Summary | <a href="{{ "/files/books-and-papers/optimal_transport_para_economistas.pdf" | relative_url }}" target="_blank">Draft</a></summary>
+    This document discusses applications of optimal transport theory in economics and finance, with a focus on computational methods like entropic regularization and the Sinkhorn-Knopp algorithm.  
+    It covers topics such as matching markets stability, cost structure estimation, Credit Value Adjustment, and risk measures, aiming to provide detailed explanations and translations of complex results for students with a strong mathematical background.  
+    The document includes an appendix to support understanding and is intended for advanced students interested in economic and financial applications of optimal transport.
+  </details>
 
-* Dynamical Systems and Optimal Control for Economists, 2026 - Under revision at Springer Verlag <span class="cat">Mathematical Economics</span>  
+
+* Dynamical Systems and Optimal Control for Economists, 2026 - Under review by the Editorial Board at Springer Verlag <span class="cat">Mathematical Economics</span>  
   [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and [Marcelo Gallardo](https://marcelogallardob.github.io/).  
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/Index_DSOC.pdf" | relative_url }}" target="_blank">Index</a> | <a href="{{ '/files/books-and-papers/optimal_control_infinite_horizon_sample.pdf' | relative_url }}" target="_blank">Book Excerpt</a></summary>
@@ -148,15 +157,6 @@ permalink: /research/
    The book covers topics such as vector spaces, linear systems, topology in real vector normed spaces, convex sets (Farkas Lemma), convex functions, unconstrained and constrained optimization, smooth comparative statics and economic applications (such as pure exchange economies).
   </details>
 
-
-* Optimal Transport Theory and its Applications in Economics and Finance, 2024 - Working book <span class="cat">Mathematical Economics</span>  
-  [Marcelo Gallardo](https://marcelogallardob.github.io/), Carlos Cosentino and Gabriel Orellano. Final project for the course *Introduction to Optimal Transport*, taught by [Johel Beltrán](https://emap.fgv.br/en/professors/johel-victorino-beltran-ramirez).  
-  <details>
-    <summary>Summary | <a href="{{ "/files/books-and-papers/optimal_transport_para_economistas.pdf" | relative_url }}" target="_blank">Draft</a></summary>
-    This document discusses applications of optimal transport theory in economics and finance, with a focus on computational methods like entropic regularization and the Sinkhorn-Knopp algorithm.  
-    It covers topics such as matching markets stability, cost structure estimation, Credit Value Adjustment, and risk measures, aiming to provide detailed explanations and translations of complex results for students with a strong mathematical background.  
-    The document includes an appendix to support understanding and is intended for advanced students interested in economic and financial applications of optimal transport.
-  </details>
 
 * Fundamentals of Econometric Theory, 2025 - Published at [Decon PUCP](https://departamento-economia.pucp.edu.pe/investigacion/materiales-de-ensenanza) <span class="cat">Econometrics</span>  
   [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/) and [Marcelo Gallardo](https://marcelogallardob.github.io/).  
