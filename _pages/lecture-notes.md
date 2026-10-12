@@ -16,6 +16,8 @@ permalink: /lecture-notes/
 
 ## Lecture notes
 
+These notes are my own write-up of the courses I took, not a transcript of them. The selection and order of the topics, the proofs, the examples and the translation into English are mine, so they are not a perfect match for what was covered in class, and any mistakes or typos are my own—please don't hesitate to point them out!
+
 * Macroeconomics, UC Berkeley, 2026 <span class="cat">Macroeconomics</span>  
   Professor [Jón Steinsson](https://jonsteinsson.com/), and written by [Marcelo Gallardo](https://marcelogallardob.github.io/).  
   <details>
