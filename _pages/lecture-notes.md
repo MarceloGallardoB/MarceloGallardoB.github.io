@@ -16,6 +16,13 @@ permalink: /lecture-notes/
 
 ## Lecture notes
 
+* Macroeconomics, UC Berkeley, 2026 <span class="cat">Macroeconomics</span>  
+  Professor [Jón Steinsson](https://jonsteinsson.com/), and written by [Marcelo Gallardo](https://marcelogallardob.github.io/).  
+  <details>
+    <summary>Summary | <a href="{{ "/files/phd/econ202a/econ202a_notes.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
+    Notes for the course Macroeconomics (ECON 202A, Part I), taught by Jón Steinsson in Fall 2026. They cover growth and the labor market, with balanced growth, Uzawa's theorem, Cobb–Douglas and CES production and the canonical labor-market model; the task automation model, weak links and Baumol's cost disease; capital accumulation in the Solow and Ramsey–Cass–Koopmans models; growth and development accounting; the fundamental causes of growth; and endogenous growth through ideas, the expanding variety model and the quality ladder model of creative destruction. The main reference is Acemoglu (2009), <em>Introduction to Modern Economic Growth</em>.
+  </details>
+
 * Economic Theory, UC Berkeley, 2026 <span class="cat">Microeconomic Theory</span>  
   Professor [Shachar Kariv](https://eml.berkeley.edu/~kariv/), and written by [Marcelo Gallardo](https://marcelogallardob.github.io/).  
   <details>
