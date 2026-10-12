@@ -18,20 +18,6 @@ permalink: /lecture-notes/
 
 These notes are my own write-up of the courses I took, not a transcript of them. The selection and order of the topics, the proofs, the examples and the translation into English are mine, so they are not a perfect match for what was covered in class, and any mistakes or typos are my own—please don't hesitate to point them out!
 
-* Macroeconomics, UC Berkeley, 2026 <span class="cat">Macroeconomics</span>  
-  Professor [Jón Steinsson](https://jonsteinsson.com/), and written by [Marcelo Gallardo](https://marcelogallardob.github.io/).  
-  <details>
-    <summary>Summary | <a href="{{ "/files/phd/econ202a/econ202a_notes.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
-    Notes for the course Macroeconomics (ECON 202A, Part I), taught by Jón Steinsson in Fall 2026. They cover growth and the labor market, with balanced growth, Uzawa's theorem, Cobb–Douglas and CES production and the canonical labor-market model; the task automation model, weak links and Baumol's cost disease; capital accumulation in the Solow and Ramsey–Cass–Koopmans models; growth and development accounting; the fundamental causes of growth; and endogenous growth through ideas, the expanding variety model and the quality ladder model of creative destruction. The main reference is Acemoglu (2009), <em>Introduction to Modern Economic Growth</em>.
-  </details>
-
-* Economic Theory, UC Berkeley, 2026 <span class="cat">Microeconomic Theory</span>  
-  Professor [Shachar Kariv](https://eml.berkeley.edu/~kariv/), and written by [Marcelo Gallardo](https://marcelogallardob.github.io/).  
-  <details>
-    <summary>Summary | <a href="{{ "/files/phd/econ201a/econ201a_notes.pdf" | relative_url }}" target="_blank">Lecture Notes</a></summary>
-    Notes for the course Economic Theory (ECON 201A, Part I: Choice Theory), taught by Shachar Kariv in Fall 2026. They cover preferences, lotteries and the expected utility representation theorem, with the Allais paradox and the Marschak–Machina triangle; utility, continuity and choice correspondences; monotonicity, convexity, homotheticity, quasi-linearity and separability; the consumer's problem, demand and classical demand theory; Slutsky and integrability; revealed preference and Afriat's theorem; choice under risk; and subjective probability, in the Savage and Anscombe–Aumann frameworks. Appendices cover Debreu's representation theorem, smooth preferences, the envelope theorem, and temptation and self-control. The main reference is Rubinstein (2012), <em>Lecture Notes in Microeconomic Theory: The Economic Agent</em>.
-  </details>
-
 * Econometrics, UC Berkeley, 2026 <span class="cat">Econometrics</span>  
   Professor [Michael Jansson](https://sites.google.com/berkeley.edu/michael-jansson/), and written by [Marcelo Gallardo](https://marcelogallardob.github.io/).  
   <details>
