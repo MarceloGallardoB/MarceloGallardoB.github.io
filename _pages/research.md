@@ -87,9 +87,6 @@ permalink: /research/
 * Dynamic Programming and Production Networks: Continuous Families of Contractions with Discontinuous Fixed Points, 2026  
   [Marcelo Gallardo](https://marcelogallardob.github.io/) and Gabriel Orellano.
 
-* Competitive Screening as Weak Optimal Transport, 2026  
-  [Marcelo Gallardo](https://marcelogallardob.github.io/), [Yu-Ting Ho](https://sites.google.com/berkeley.edu/hoyuting/home) and [Pan-Yang Su](https://scholar.google.com/citations?user=im9ugAgAAAAJ&hl=en).
-
 ### Papers
 
 * **[A Daily Index of Economic and Political Uncertainty for Peru from X Discourse]({{ "/files/books-and-papers/epu_index_peru.pdf" | relative_url }})**, 2026 <span class="cat">Political Economy</span>  
