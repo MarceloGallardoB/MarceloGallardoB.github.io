@@ -139,7 +139,7 @@ permalink: /research/
   </details>
 
 
-* Dynamical Systems and Optimal Control for Economists, 2026 - Under review by the Editorial Board at Springer Verlag <span class="cat">Mathematical Economics</span>  
+* Dynamical Systems and Optimal Control for Economists, 2026 - Recommended for publication at Springer Verlag <span class="cat">Mathematical Economics</span>  
   [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and [Marcelo Gallardo](https://marcelogallardob.github.io/).  
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/Index_DSOC.pdf" | relative_url }}" target="_blank">Index</a> | <a href="{{ '/files/books-and-papers/optimal_control_infinite_horizon_sample.pdf' | relative_url }}" target="_blank">Book Excerpt</a></summary>
