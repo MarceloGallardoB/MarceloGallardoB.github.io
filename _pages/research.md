@@ -75,9 +75,12 @@ permalink: /research/
   </details>
 
 
-* Field Experiments on Seasonal Products and Markdown Pricing <span class="cat">Industrial Organization</span>  
+* Dynamic Demand and Seasonal Markdown Pricing, 2026 <span class="cat">Industrial Organization</span>  
   [Marcelo Gallardo](https://marcelogallardob.github.io/), [Carlos Noton](https://economiayadministracion.uc.cl/docentes/carlos-noton/) and [Marcelo Olivares](https://www.marcelo-olivares.net/).  
-  <em>Draft coming soon.</em>
+  <details>
+    <summary>Summary | <a href="{{ "/files/books-and-papers/dynamic_demand_seasonal_markdown.pdf" | relative_url }}" target="_blank">Draft</a></summary>
+    We study demand and markdown pricing for two school-trouser sizes sold in fourteen Chilean stores during the 2015 back-to-school campaign, reconstructing weekly posted prices from transaction payments. Consumers choose to buy, wait or exit, with permanent heterogeneity in price sensitivity and price forecasts calibrated on matched 2014 products; the model is estimated by EM, integrating over customer types and the latent exit times of nonbuyers. A finite-horizon Bellman equation then gives the retailer's optimal markdown path.
+  </details>
 
 ### Work in progress
 
