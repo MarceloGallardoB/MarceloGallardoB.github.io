@@ -50,21 +50,13 @@ permalink: /research/
 </div>
 
 ### Working papers
-
-* Innovation and Isolation: Status Rents and Endogenous Networks, 2026 <span class="cat">Microeconomic Theory</span>  
-  [Marcelo Gallardo](https://marcelogallardob.github.io/).  
-  <details>
-    <summary>Summary | <a href="{{ "/files/books-and-papers/innovation_isolation.pdf" | relative_url }}" target="_blank">Draft</a></summary>
-    Groups decide how much to cooperate on innovation when cooperation also shifts the power that determines their claims on output. Under a benchmark rule for how power is redrawn there is a greatest equilibrium network, every active link runs at full strength, and a group that loses from innovation withdraws entirely, which can make links among the remaining groups unprofitable. Full integration survives only over a single interval of status exposure, and reimbursing interaction costs cannot buy the consent of a group whose expected consumption falls.
-  </details>
-
-
 * Information and voting: Evidence from Peru's 2026 general elections, 2026 - Accepted for presentation at LACEA LAMES 2026 (Lima, Peru) <span class="cat">Political Economy</span>  
   [Marcelo Gallardo](https://marcelogallardob.github.io/), Nicolás Velarde and Cristina Gutarra.  
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/information_and_voting_peru_2026.pdf" | relative_url }}" target="_blank">Draft</a> | <a href="https://arxiv.org/abs/2606.01687" target="_blank">Preprint</a></summary>
     Logistical failures in Peru's 2026 general elections postponed voting at thirteen locations in Lima Sur, so roughly 55,000 electors cast their ballots once election-night estimates and partial returns were already public. We use that natural experiment, with cardinality matching on prior electoral preferences, demographics and socioeconomic conditions, to ask whether public signals about viability reshape presidential and legislative choices. Presidential support reallocates substantially, Nieto, López Aliaga and Sánchez gaining 11.2, 3.9 and 1.2 points of the registered electorate, and legislative support moves in the same direction but by less.
   </details>
+
 
 
 * The Market and the Jungle, 2026 <span class="cat">Microeconomic Theory</span>  
@@ -75,10 +67,20 @@ permalink: /research/
   </details>
 
 
+
+* Innovation and Isolation: Status Rents and Endogenous Networks, 2026 <span class="cat">Microeconomic Theory</span>  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/).  
+  <details>
+    <summary>Summary | Draft coming soon</summary>
+    Groups decide how much to cooperate on innovation when cooperation also shifts the power that determines their claims on output. Under a benchmark rule for how power is redrawn there is a greatest equilibrium network, every active link runs at full strength, and a group that loses from innovation withdraws entirely, which can make links among the remaining groups unprofitable. Full integration survives only over a single interval of status exposure, and reimbursing interaction costs cannot buy the consent of a group whose expected consumption falls.
+  </details>
+
+
+
 * Dynamic Demand and Seasonal Markdown Pricing, 2026 <span class="cat">Industrial Organization</span>  
   [Marcelo Gallardo](https://marcelogallardob.github.io/), [Carlos Noton](https://economiayadministracion.uc.cl/docentes/carlos-noton/) and [Marcelo Olivares](https://www.marcelo-olivares.net/).  
   <details>
-    <summary>Summary | <a href="{{ "/files/books-and-papers/dynamic_demand_seasonal_markdown.pdf" | relative_url }}" target="_blank">Draft</a></summary>
+    <summary>Summary | Draft coming soon</summary>
     We study demand and markdown pricing for two school-trouser sizes sold in fourteen Chilean stores during the 2015 back-to-school campaign, reconstructing weekly posted prices from transaction payments. Consumers choose to buy, wait or exit, with permanent heterogeneity in price sensitivity and price forecasts calibrated on matched 2014 products; the model is estimated by EM, integrating over customer types and the latent exit times of nonbuyers. A finite-horizon Bellman equation then gives the retailer's optimal markdown path.
   </details>
 
