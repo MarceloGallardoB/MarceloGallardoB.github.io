@@ -106,7 +106,7 @@ permalink: /research/
   </details>
 
   * **[Interiority in Optimal Transport with Congestion and Penalized Marginals]({{ "/files/books-and-papers/congestion_interiority_proof.pdf" | relative_url }})**, 2026 <span class="cat">Mathematical Economics</span>  
-    [Marcelo Gallardo](https://marcelogallardob.github.io/) and Haopeng Zhou.  
+    [Marcelo Gallardo](https://marcelogallardob.github.io/), Haopeng Zhou and Gabriel Orellano.  
     <details>
       <summary>Summary</summary>
       We give sufficient conditions for the optimal plan to be strictly positive in the congestion model with penalized marginals of Gallardo, Loaiza, and Chávez. A uniform condition in the primitives follows from the Karush–Kuhn–Tucker conditions, and a refinement bounds individual entries in O(NL) operations; examples show that neither condition is necessary.
@@ -120,10 +120,10 @@ permalink: /research/
   </details>
 
   * **[Exact Regularization Thresholds for Integer Quadratic Transport]({{ "/files/books-and-papers/exact_regularization_thresholds.pdf" | relative_url }})**, 2026 - Corrects and extends the paper above <span class="cat">Mathematical Economics</span>  
-    [Marcelo Gallardo](https://marcelogallardob.github.io/).  
+    [Marcelo Gallardo](https://marcelogallardob.github.io/) and Haopeng Zhou.  
     <details>
       <summary>Summary</summary>
-      We locate the regularization level at which a unique linear-optimal plan stops minimizing a heterogeneous quadratic objective, and show that the continuous and integer thresholds differ. Both are expressed through feasible residual cycles, the integer one being strictly larger and converging to the continuous threshold under population replication, with an exact first-order correction and sharp rounding bounds.
+      We study optimal transport with integer flows and heterogeneous quadratic regularization, and give the exact threshold up to which a unique linear-optimal plan stays integer-optimal. A residual-cycle formula separates the continuous directional derivative from a positive finite-step correction, so the integer threshold strictly exceeds the continuous one and normalized thresholds decrease to it under population replication. We also establish monotone comparative statics for integer optima and sharp rounding bounds.
     </details>
 
 ### Books
