@@ -64,7 +64,7 @@ permalink: /academic-presentation/
 
   <div class="presentation-item">
     <p><strong>Congestion and penalization in optimal transport</strong></p>
-    <p><em>For the 38th Colloquium of the Peruvian Mathematical Society (2025)</em></p>
+    <p><em>For the <a href="https://sites.google.com/view/sociedadmatematicaperuana/xxxviii-coloquio-smp" target="_blank">38th Colloquium of the Peruvian Mathematical Society</a> (2025)</em></p>
     <details>
       <summary>Summary | <a href="{{ '/files/slides/slides_mg_coloquio_2025.pdf' | relative_url }}" target="_blank">Slides</a> | <a href="{{ '/files/certificates/Marcelo_Gallardo_Burga_Coloquio_Certificate.pdf' | relative_url }}" target="_blank">Certificate</a></summary>
       <p>
