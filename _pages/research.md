@@ -53,7 +53,7 @@ permalink: /research/
 * Information and voting: Evidence from Peru's 2026 general elections, 2026 - Accepted for presentation at LACEA LAMES 2026 (Lima, Peru) <span class="cat">Political Economy</span>  
   [Marcelo Gallardo](https://marcelogallardob.github.io/), Nicolás Velarde and Cristina Gutarra.  
   <details>
-    <summary>Summary | <a href="{{ "/files/books-and-papers/information_and_voting_peru_2026.pdf" | relative_url }}" target="_blank">Draft</a> | <a href="https://arxiv.org/abs/2606.01687" target="_blank">Preprint</a></summary>
+    <summary>Summary | <a href="{{ "/files/books-and-papers/information_and_voting_peru_2026.pdf" | relative_url }}" target="_blank">Draft</a> | <a href="https://arxiv.org/abs/2606.01687v2" target="_blank">Preprint</a></summary>
     Logistical failures in Peru's 2026 general elections postponed voting at thirteen locations in Lima Sur, so roughly 55,000 electors cast their ballots once election-night estimates and partial returns were already public. We use that natural experiment, with cardinality matching on prior electoral preferences, demographics and socioeconomic conditions, to ask whether public signals about viability reshape presidential and legislative choices. Presidential support reallocates substantially, Nieto, López Aliaga and Sánchez gaining 11.2, 3.9 and 1.2 points of the registered electorate, and legislative support moves in the same direction but by less.
   </details>
 
@@ -62,7 +62,7 @@ permalink: /research/
 * The Market and the Jungle, 2026 <span class="cat">Microeconomic Theory</span>  
   [Juan Carlos Carbajal](https://sites.google.com/site/carbajaleconomics/home), [Marcelo Gallardo](https://marcelogallardob.github.io/) and [Cesar Martinelli](https://sites.google.com/site/martinellicesar/home).  
   <details>
-    <summary>Summary | <a href="{{ "/files/books-and-papers/market_and_jungle.pdf" | relative_url }}" target="_blank">Draft</a></summary>
+    <summary>Summary | <a href="{{ "/files/books-and-papers/market_and_jungle.pdf" | relative_url }}" target="_blank">Draft</a> | <a href="https://arxiv.org/abs/2611.02635" target="_blank">Preprint</a></summary>
     We ask how the institutions governing property rights and exchange shape occupational choice and welfare, comparing anonymous voluntary trade backed by public enforcement with allocation through a random coercive hierarchy. At a common occupational profile the market maximizes aggregate surplus, while allocations in the jungle are Pareto efficient with monetary holdings fixed but need not maximize it. In aggregate terms a market occupational equilibrium outperforms a jungle one under two conditions: every occupation available in the jungle is also available in the market, and prices cannot be manipulated by unilateral changes in occupations. Without that price-invariance condition, among identical individuals everyone weakly prefers the market equilibrium to a symmetric jungle one.
   </details>
 
