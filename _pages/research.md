@@ -49,6 +49,8 @@ permalink: /research/
   <a href="https://econ.berkeley.edu/" target="_blank">University of California, Berkeley</a>
 </div>
 
+---
+
 ### Working papers
 * Information and voting: Evidence from Peru's 2026 general elections, 2026 - Accepted for presentation at LACEA LAMES 2026 (Lima, Peru) <span class="cat">Political Economy</span>  
   [Marcelo Gallardo](https://marcelogallardob.github.io/), Nicolás Velarde and Cristina Gutarra.  
@@ -84,10 +86,21 @@ permalink: /research/
     We study demand and markdown pricing for two school-trouser sizes sold in fourteen Chilean stores during the 2015 back-to-school campaign, reconstructing weekly posted prices from transaction payments. Consumers choose to buy, wait or exit, with permanent heterogeneity in price sensitivity and price forecasts calibrated on matched 2014 products; the model is estimated by EM, integrating over customer types and the latent exit times of nonbuyers. A finite-horizon Bellman equation then gives the retailer's optimal markdown path.
   </details>
 
+---
+
 ### Work in progress
+
+* **[Exact Regularization Thresholds for Integer Quadratic Transport]({{ "/files/books-and-papers/exact_regularization_thresholds.pdf" | relative_url }})**, 2026 <span class="cat">Mathematical Economics</span>  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/) and Haopeng Zhou.  
+  <details>
+    <summary>Summary</summary>
+    We study optimal transport with integer flows and heterogeneous quadratic regularization, and give the exact threshold up to which a unique linear-optimal plan stays integer-optimal. A residual-cycle formula separates the continuous directional derivative from a positive finite-step correction, so the integer threshold strictly exceeds the continuous one and normalized thresholds decrease to it under population replication. We also establish monotone comparative statics for integer optima and sharp rounding bounds.
+  </details>
 
 * Dynamic Programming and Production Networks: Continuous Families of Contractions with Discontinuous Fixed Points, 2026  
   [Marcelo Gallardo](https://marcelogallardob.github.io/) and Gabriel Orellano.
+
+---
 
 ### Papers
 
@@ -105,13 +118,6 @@ permalink: /research/
     We replace the equality constraints of discrete optimal transport with weighted penalties and add heterogeneous congestion costs, which yields a strictly convex problem better suited to demand–supply imbalances in matching. We prove existence and uniqueness, give two analytical methods for interior solutions together with a practical algorithm, and extend the results to a continuum of types. Examples from Peru's health and education sectors yield allocations that differ from the classical ones.
   </details>
 
-  * **[Interiority in Optimal Transport with Congestion and Penalized Marginals]({{ "/files/books-and-papers/congestion_interiority_proof.pdf" | relative_url }})**, 2026 <span class="cat">Mathematical Economics</span>  
-    [Marcelo Gallardo](https://marcelogallardob.github.io/), Haopeng Zhou and Gabriel Orellano.  
-    <details>
-      <summary>Summary</summary>
-      We give sufficient conditions for the optimal plan to be strictly positive in the congestion model with penalized marginals of Gallardo, Loaiza, and Chávez. A uniform condition in the primitives follows from the Karush–Kuhn–Tucker conditions, and a refinement bounds individual entries in O(NL) operations; examples show that neither condition is necessary.
-    </details>
-
 * **[Heterogenous Quadratic Regularization in Optimal Transport](https://marcelogallardob.github.io/files/books-and-papers/heterogenous_quadratic_regularization_ot.pdf)**, 2025 - Presented at [XXXVIII Colloquium of the Peruvian Mathematical Society](https://sites.google.com/view/sociedadmatematicaperuana/xxxviii-coloquio-smp) <span class="cat">Mathematical Economics</span>  
   [Marcelo Gallardo](https://marcelogallardob.github.io/), [Manuel Loaiza](https://github.com/ManuelLoaizaV) and [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).  
   <details>
@@ -119,12 +125,7 @@ permalink: /research/
     We extend quadratically regularized optimal transport to heterogeneous congestion costs, motivated by matching in the healthcare and education sectors. We study the structure of the model and show, with numerical examples from Peru, how it departs from the classical formulation; the main result identifies a corner solution when both sides have the same number of clusters.
   </details>
 
-  * **[Exact Regularization Thresholds for Integer Quadratic Transport]({{ "/files/books-and-papers/exact_regularization_thresholds.pdf" | relative_url }})**, 2026 - Corrects and extends the paper above <span class="cat">Mathematical Economics</span>  
-    [Marcelo Gallardo](https://marcelogallardob.github.io/) and Haopeng Zhou.  
-    <details>
-      <summary>Summary</summary>
-      We study optimal transport with integer flows and heterogeneous quadratic regularization, and give the exact threshold up to which a unique linear-optimal plan stays integer-optimal. A residual-cycle formula separates the continuous directional derivative from a positive finite-step correction, so the integer threshold strictly exceeds the continuous one and normalized thresholds decrease to it under population replication. We also establish monotone comparative statics for integer optima and sharp rounding bounds.
-    </details>
+---
 
 ### Books
 * Optimal Transport Theory and its Applications in Economics and Finance, 2026 - Working book <span class="cat">Mathematical Economics</span>  
@@ -161,4 +162,33 @@ permalink: /research/
     The content begins with foundational matrix operations and their relevance to econometrics, advancing to multivariate models with a focus on linear models and optimization issues.  
     It also addresses qualitative variables, sampling methods, and experimental designs. Crucial econometric challenges such as multicollinearity, parameter stability, heteroscedasticity, and serial autocorrelation are thoroughly examined, alongside detection and correction techniques.  
     The notes culminate in discussions on more advanced topics like instrumental variables, maximum likelihood estimation, basic time series analysis, and an appendix on probability theory, equipping readers with a broad understanding of econometric analysis and application.  
+  </details>
+
+---
+
+### Research notes
+
+* Notes on Brouwer and Kakutani Fixed Point Theorems, 2026 <span class="cat">Mathematical Economics</span>  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/). Notes related to Lecture 13 of ECON204 (2026), taught by Professor [Chris Shannon](https://eml.berkeley.edu/~cshannon/e204_26.html) (UC Berkeley).  
+  <details>
+    <summary>Summary | <a href="{{ "/files/phd/econ204/brouwer_kakutani_fixed_point.pdf" | relative_url }}" target="_blank">Note</a></summary>
+    These notes present the proofs of two papers.  
+    Milnor (<em>Analytic proofs of the hairy ball theorem and the Brouwer fixed point theorem</em>, American Mathematical Monthly 85, 1978) deduces Brouwer's fixed point theorem from the hairy ball theorem, which he proves by a volume computation.  
+    Cellina (<em>Approximation of set valued functions and fixed point theorems</em>, Annali di Matematica Pura ed Applicata 82, 1969; <em>A theorem on the approximation of compact multi-valued mappings</em>, Atti della Accademia Nazionale dei Lincei 47, 1969) approximates an upper hemicontinuous correspondence with convex values by continuous functions whose graphs lie in a prescribed neighborhood of its graph; Kakutani's theorem then follows together with Brouwer's.
+  </details>
+
+* On the Continuous Dependence of Fixed Points on Parameters, 2026 <span class="cat">Mathematical Economics</span>  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/). The problem discussed in this note arose in Lecture 5 of ECON204 (2026), taught by Professor [Chris Shannon](https://eml.berkeley.edu/~cshannon/e204_26.html) (UC Berkeley).  
+  <details>
+    <summary>Summary | <a href="{{ "/files/phd/econ204/continuous_dependence_parameters.pdf" | relative_url }}" target="_blank">Note</a></summary>
+    In dynamic programming the value function is the fixed point of a Bellman operator T<sub>α</sub> on a function space, where α collects preferences, technology and the remaining primitives (Stokey et al., 1989). Comparative statics, continuity of the policy correspondence and consistency of structural estimators all presuppose that α ↦ z(α), the fixed point of T<sub>α</sub>, is continuous.  
+    Theorem 7.18 of de la Fuente (2000) asserts this under hypotheses that do not suffice in infinite dimensions — precisely the setting of dynamic programming. Section 2 locates the gap, following Shannon (2026): the printed proof uses a modulus common to all parameters, which the hypotheses do not supply. Proposition 3.1 then constructs a family in ℓ² meeting every hypothesis whose solution function jumps, so the statement is false and not merely unproved.  
+    Two conditions restore it. Theorem 4.1 replaces the uniform bound by one holding near the parameter of interest, limsup<sub>α→α₀</sub> β<sub>α</sub> &lt; 1; this is what the comparative-statics exercise in the discount factor requires and the uniform bound excludes. Theorem 5.3 shows that when closed balls are compact — in particular when dim X &lt; ∞ — no hypothesis on the moduli is needed.
+  </details>
+
+* **[Interiority in Optimal Transport with Congestion and Penalized Marginals]({{ "/files/books-and-papers/congestion_interiority_proof.pdf" | relative_url }})**, 2026 <span class="cat">Mathematical Economics</span>  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/), Haopeng Zhou and Gabriel Orellano.  
+  <details>
+    <summary>Summary</summary>
+    We give sufficient conditions for the optimal plan to be strictly positive in the congestion model with penalized marginals of Gallardo, Loaiza, and Chávez. A uniform condition in the primitives follows from the Karush–Kuhn–Tucker conditions, and a refinement bounds individual entries in O(NL) operations; examples show that neither condition is necessary.
   </details>
