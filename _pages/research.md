@@ -77,7 +77,7 @@ permalink: /research/
 
 
 
-* Dynamic Demand and Seasonal Markdown Pricing, 2026 <span class="cat">Industrial Organization</span>  
+* Seasonal Goods: Field Experiment and Optimal Markdown Pricing, 2026 - Accepted for presentation at the [9th Workshop in Management Science](https://msworkshop.cl/) 2027 (Puerto Chacabuco, Chile) <span class="cat">Industrial Organization</span>  
   [Marcelo Gallardo](https://marcelogallardob.github.io/), [Carlos Noton](https://economiayadministracion.uc.cl/docentes/carlos-noton/) and [Marcelo Olivares](https://www.marcelo-olivares.net/).  
   <details>
     <summary>Summary | Draft coming soon</summary>
