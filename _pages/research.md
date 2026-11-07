@@ -52,7 +52,7 @@ permalink: /research/
 ---
 
 ### Working papers
-* Information and voting: Evidence from Peru's 2026 general elections, 2026 - Accepted for presentation at LACEA LAMES 2026 (Lima, Peru) <span class="cat">Political Economy</span>  
+* Information and voting: Evidence from Peru's 2026 general elections, 2026 - Accepted for presentation at LACEA LAMES 2026 (Lima, Peru)  
   [Marcelo Gallardo](https://marcelogallardob.github.io/), Nicolás Velarde and Cristina Gutarra.  
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/information_and_voting_peru_2026.pdf" | relative_url }}" target="_blank">Draft</a> | <a href="https://arxiv.org/abs/2606.01687v2" target="_blank">Preprint</a></summary>
@@ -61,7 +61,7 @@ permalink: /research/
 
 
 
-* The Market and the Jungle, 2026 <span class="cat">Microeconomic Theory</span>  
+* The Market and the Jungle, 2026  
   [Juan Carlos Carbajal](https://sites.google.com/site/carbajaleconomics/home), [Marcelo Gallardo](https://marcelogallardob.github.io/) and [Cesar Martinelli](https://sites.google.com/site/martinellicesar/home).  
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/market_and_jungle.pdf" | relative_url }}" target="_blank">Draft</a> | <a href="https://arxiv.org/abs/2611.02635" target="_blank">Preprint</a></summary>
@@ -70,7 +70,7 @@ permalink: /research/
 
 
 
-* Innovation and Isolation: Status Rents and Endogenous Networks, 2026 <span class="cat">Microeconomic Theory</span>  
+* Innovation and Isolation: Status Rents and Endogenous Networks, 2026  
   [Marcelo Gallardo](https://marcelogallardob.github.io/).  
   <details>
     <summary>Summary | Draft coming soon</summary>
@@ -79,7 +79,7 @@ permalink: /research/
 
 
 
-* Seasonal Goods: Field Experiment and Optimal Markdown Pricing, 2026 - Accepted for presentation at the [9th Workshop in Management Science](https://msworkshop.cl/) 2027 (Chile) <span class="cat">Industrial Organization</span>  
+* Seasonal Goods: Field Experiment and Optimal Markdown Pricing, 2026 - Accepted for presentation at the [9th Workshop in Management Science](https://msworkshop.cl/) 2027 (Chile)  
   [Marcelo Gallardo](https://marcelogallardob.github.io/), [Carlos Noton](https://economiayadministracion.uc.cl/docentes/carlos-noton/) and [Marcelo Olivares](https://www.marcelo-olivares.net/).  
   <details>
     <summary>Summary | Draft coming soon</summary>
@@ -90,7 +90,7 @@ permalink: /research/
 
 ### Work in progress
 
-* **[Exact Regularization Thresholds for Integer Quadratic Transport]({{ "/files/books-and-papers/exact_regularization_thresholds.pdf" | relative_url }})**, 2026 <span class="cat">Mathematical Economics</span>  
+* **[Exact Regularization Thresholds for Integer Quadratic Transport]({{ "/files/books-and-papers/exact_regularization_thresholds.pdf" | relative_url }})**, 2026  
   [Marcelo Gallardo](https://marcelogallardob.github.io/) and Haopeng Zhou.  
   <details>
     <summary>Summary</summary>
@@ -104,21 +104,21 @@ permalink: /research/
 
 ### Papers
 
-* **[A Daily Index of Economic and Political Uncertainty for Peru from X Discourse]({{ "/files/books-and-papers/epu_index_peru.pdf" | relative_url }})**, 2026 <span class="cat">Political Economy</span>  
+* **[A Daily Index of Economic and Political Uncertainty for Peru from X Discourse]({{ "/files/books-and-papers/epu_index_peru.pdf" | relative_url }})**, 2026  
   [Marcelo Gallardo](https://marcelogallardob.github.io/), [Manuel Loaiza](https://github.com/ManuelLoaizaV) and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/).  
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/epu_index_peru.pdf" | relative_url }}" target="_blank">Preprint</a></summary>
     We build a daily index of economic and political uncertainty for Peru by having a large language model, DeepSeek-V3, classify messages posted on X by influential accounts between 2018 and 2023. The headline index co-moves moderately with the VIX and more strongly during documented crises, while a companion political index captures domestic ruptures that market benchmarks miss. As an illustration, a bivariate vector autoregression links its shocks to same-day central-bank foreign-exchange intervention.
   </details>
 
-* **[Congestion and Penalization in Optimal Transport](https://marcelogallardob.github.io/files/books-and-papers/congestion_penalization_optimal_transport.pdf)**, 2025 - R&R at Decisions in Economics and Finance (Springer) <span class="cat">Mathematical Economics</span>  
+* **[Congestion and Penalization in Optimal Transport](https://marcelogallardob.github.io/files/books-and-papers/congestion_penalization_optimal_transport.pdf)**, 2025 - R&R at Decisions in Economics and Finance (Springer)  
   [Marcelo Gallardo](https://marcelogallardob.github.io/), [Manuel Loaiza](https://github.com/ManuelLoaizaV) and [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).  
   <details>
     <summary>Summary | <a href="https://arxiv.org/abs/2410.07363" target="_blank">Preprint</a></summary>
     We replace the equality constraints of discrete optimal transport with weighted penalties and add heterogeneous congestion costs, which yields a strictly convex problem better suited to demand–supply imbalances in matching. We prove existence and uniqueness, give two analytical methods for interior solutions together with a practical algorithm, and extend the results to a continuum of types. Examples from Peru's health and education sectors yield allocations that differ from the classical ones.
   </details>
 
-* **[Heterogenous Quadratic Regularization in Optimal Transport](https://marcelogallardob.github.io/files/books-and-papers/heterogenous_quadratic_regularization_ot.pdf)**, 2025 - Presented at [XXXVIII Colloquium of the Peruvian Mathematical Society](https://sites.google.com/view/sociedadmatematicaperuana/xxxviii-coloquio-smp) <span class="cat">Mathematical Economics</span>  
+* **[Heterogenous Quadratic Regularization in Optimal Transport](https://marcelogallardob.github.io/files/books-and-papers/heterogenous_quadratic_regularization_ot.pdf)**, 2025 - Presented at [XXXVIII Colloquium of the Peruvian Mathematical Society](https://sites.google.com/view/sociedadmatematicaperuana/xxxviii-coloquio-smp)  
   [Marcelo Gallardo](https://marcelogallardob.github.io/), [Manuel Loaiza](https://github.com/ManuelLoaizaV) and [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).  
   <details>
     <summary>Summary | <a href="{{ "https://marcelogallardob.github.io/files/books-and-papers/heterogenous_quadratic_regularization_ot.pdf" | relative_url }}" target="_blank">Preprint</a></summary>
@@ -128,8 +128,8 @@ permalink: /research/
 ---
 
 ### Books
-* Optimal Transport Theory and its Applications in Economics and Finance, 2026 - Working book <span class="cat">Mathematical Economics</span>  
-  [Marcelo Gallardo](https://marcelogallardob.github.io/), Carlos Cosentino and Gabriel Orellano. Based on the final project for the course *Introduction to Optimal Transport*, taught by [Johel Beltrán](https://emap.fgv.br/en/professors/johel-victorino-beltran-ramirez) in 2023.  
+* Optimal Transport Theory and its Applications in Economics and Finance, 2026 - Working book  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/), Carlos Cosentino and Gabriel Orellano.  
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/optimal_transport_para_economistas.pdf" | relative_url }}" target="_blank">Draft</a></summary>
     This document discusses applications of optimal transport theory in economics and finance, with a focus on computational methods like entropic regularization and the Sinkhorn-Knopp algorithm.  
@@ -138,7 +138,7 @@ permalink: /research/
   </details>
 
 
-* Dynamical Systems and Optimal Control for Economists, 2026 - Recommended for publication at Springer Verlag <span class="cat">Mathematical Economics</span>  
+* Dynamical Systems and Optimal Control for Economists, 2026 - Recommended for publication at Springer Verlag  
   [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and [Marcelo Gallardo](https://marcelogallardob.github.io/).  
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/Index_DSOC.pdf" | relative_url }}" target="_blank">Index</a> | <a href="{{ '/files/books-and-papers/optimal_control_infinite_horizon_sample.pdf' | relative_url }}" target="_blank">Book Excerpt</a></summary>
@@ -146,7 +146,7 @@ permalink: /research/
   </details>
 
 
-* [Linear Algebra and Optimization for Economists]({{ "/research/books/linear-algebra-optimization-for-economists/" | relative_url }}), 2025 - Published by [Fondo Editorial PUCP](https://www.fondoeditorial.pucp.edu.pe/matematica/1760-gestion-de-la-sostenibilidad-en-la-moda-peruana-experiencias-de-investigacion.html) <span class="cat">Mathematical Economics</span>  
+* [Linear Algebra and Optimization for Economists]({{ "/research/books/linear-algebra-optimization-for-economists/" | relative_url }}), 2025 - Published by [Fondo Editorial PUCP](https://www.fondoeditorial.pucp.edu.pe/matematica/1760-gestion-de-la-sostenibilidad-en-la-moda-peruana-experiencias-de-investigacion.html)  
   [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and [Marcelo Gallardo](https://marcelogallardob.github.io/). Foreword by Professor [Cesar Martinelli](https://sites.google.com/site/martinellicesar/home). 
   <details>
     <summary>Summary | <a href="{{ "/research/books/linear-algebra-optimization-for-economists/" | relative_url }}" target="_blank">Book page</a></summary>
@@ -154,7 +154,7 @@ permalink: /research/
   </details>
 
 
-* Fundamentals of Econometric Theory, 2025 - Published at [Decon PUCP](https://departamento-economia.pucp.edu.pe/investigacion/materiales-de-ensenanza) <span class="cat">Econometrics</span>  
+* Fundamentals of Econometric Theory, 2025 - Published at [Decon PUCP](https://departamento-economia.pucp.edu.pe/investigacion/materiales-de-ensenanza)  
   [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/) and [Marcelo Gallardo](https://marcelogallardob.github.io/).  
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/ME-13.pdf" | relative_url }}" target="_blank">Book</a></summary>
@@ -168,7 +168,14 @@ permalink: /research/
 
 ### Research notes
 
-* Notes on Brouwer and Kakutani Fixed Point Theorems, 2026 <span class="cat">Mathematical Economics</span>  
+* Interiority in Optimal Transport with Congestion and Penalized Marginals, 2026  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/), Haopeng Zhou and Gabriel Orellano.  
+  <details>
+    <summary>Summary | <a href="{{ "/files/books-and-papers/congestion_interiority_proof.pdf" | relative_url }}" target="_blank">Note</a></summary>
+    We give sufficient conditions for the optimal plan to be strictly positive in the congestion model with penalized marginals of Gallardo, Loaiza, and Chávez. A uniform condition in the primitives follows from the Karush–Kuhn–Tucker conditions, and a refinement bounds individual entries in O(NL) operations; examples show that neither condition is necessary.
+  </details>
+
+* Notes on Brouwer and Kakutani Fixed Point Theorems, 2026  
   [Marcelo Gallardo](https://marcelogallardob.github.io/). Notes related to Lecture 13 of ECON204 (2026), taught by Professor [Chris Shannon](https://eml.berkeley.edu/~cshannon/e204_26.html) (UC Berkeley).  
   <details>
     <summary>Summary | <a href="{{ "/files/phd/econ204/brouwer_kakutani_fixed_point.pdf" | relative_url }}" target="_blank">Note</a></summary>
@@ -177,18 +184,11 @@ permalink: /research/
     Cellina (<em>Approximation of set valued functions and fixed point theorems</em>, Annali di Matematica Pura ed Applicata 82, 1969; <em>A theorem on the approximation of compact multi-valued mappings</em>, Atti della Accademia Nazionale dei Lincei 47, 1969) approximates an upper hemicontinuous correspondence with convex values by continuous functions whose graphs lie in a prescribed neighborhood of its graph; Kakutani's theorem then follows together with Brouwer's.
   </details>
 
-* On the Continuous Dependence of Fixed Points on Parameters, 2026 <span class="cat">Mathematical Economics</span>  
+* On the Continuous Dependence of Fixed Points on Parameters, 2026  
   [Marcelo Gallardo](https://marcelogallardob.github.io/). The problem discussed in this note arose in Lecture 5 of ECON204 (2026), taught by Professor [Chris Shannon](https://eml.berkeley.edu/~cshannon/e204_26.html) (UC Berkeley).  
   <details>
     <summary>Summary | <a href="{{ "/files/phd/econ204/continuous_dependence_parameters.pdf" | relative_url }}" target="_blank">Note</a></summary>
     In dynamic programming the value function is the fixed point of a Bellman operator T<sub>α</sub> on a function space, where α collects preferences, technology and the remaining primitives (Stokey et al., 1989). Comparative statics, continuity of the policy correspondence and consistency of structural estimators all presuppose that α ↦ z(α), the fixed point of T<sub>α</sub>, is continuous.  
     Theorem 7.18 of de la Fuente (2000) asserts this under hypotheses that do not suffice in infinite dimensions — precisely the setting of dynamic programming. Section 2 locates the gap, following Shannon (2026): the printed proof uses a modulus common to all parameters, which the hypotheses do not supply. Proposition 3.1 then constructs a family in ℓ² meeting every hypothesis whose solution function jumps, so the statement is false and not merely unproved.  
     Two conditions restore it. Theorem 4.1 replaces the uniform bound by one holding near the parameter of interest, limsup<sub>α→α₀</sub> β<sub>α</sub> &lt; 1; this is what the comparative-statics exercise in the discount factor requires and the uniform bound excludes. Theorem 5.3 shows that when closed balls are compact — in particular when dim X &lt; ∞ — no hypothesis on the moduli is needed.
-  </details>
-
-* **[Interiority in Optimal Transport with Congestion and Penalized Marginals]({{ "/files/books-and-papers/congestion_interiority_proof.pdf" | relative_url }})**, 2026 <span class="cat">Mathematical Economics</span>  
-  [Marcelo Gallardo](https://marcelogallardob.github.io/), Haopeng Zhou and Gabriel Orellano.  
-  <details>
-    <summary>Summary</summary>
-    We give sufficient conditions for the optimal plan to be strictly positive in the congestion model with penalized marginals of Gallardo, Loaiza, and Chávez. A uniform condition in the primitives follows from the Karush–Kuhn–Tucker conditions, and a refinement bounds individual entries in O(NL) operations; examples show that neither condition is necessary.
   </details>
