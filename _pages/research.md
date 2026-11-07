@@ -138,11 +138,12 @@ permalink: /research/
   </details>
 
 
-* Dynamical Systems and Optimal Control for Economists, 2026 - Recommended for publication at Springer Verlag  
+* Dynamical Systems and Optimal Control in Economics: Methods, Models and Applications, 2026 - Recommended for publication at Springer Verlag  
   [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and [Marcelo Gallardo](https://marcelogallardob.github.io/).  
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/Index_DSOC.pdf" | relative_url }}" target="_blank">Index</a> | <a href="{{ '/files/books-and-papers/optimal_control_infinite_horizon_sample.pdf' | relative_url }}" target="_blank">Book Excerpt</a></summary>
-   Dynamical Systems and Optimal Control in Continuous Time for Economists. Topics include linear differential equations, nonlinear dynamical systems, limit cycles, calculus of variations, optimal control theory, and economic models.
+    An accessible but rigorous introduction to continuous-time dynamical systems and optimal control, with economic applications in every chapter. The six chapters go from scalar differential equations to nonlinear systems in higher dimensions, bifurcations and limit cycles, the calculus of variations, and optimal control over finite and infinite horizons.  
+    Applications include Solow, Ramsey-Cass-Koopmans, AK and Lucas growth, Goodwin and Kaldor cycles, Tobin's Q, Hotelling's rule and the principal-agent problem with infinite types. It contains 141 exercises with hints, chapter appendices with the more involved proofs, and phase diagrams throughout.
   </details>
 
 
