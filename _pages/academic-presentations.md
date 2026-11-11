@@ -42,7 +42,7 @@ permalink: /academic-presentation/
 
   <div class="presentation-item">
     <p><strong>Tesis de Licenciatura: Matching and Optimal Transport</strong></p>
-    <p><em>PUCP (2026)</em></p>
+    <p><em>PUCP (2026). Thesis committee: <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes" target="_blank">Jorge Chávez</a>, <a href="https://www.pucp.edu.pe/profesor/johel-beltran-ramirez" target="_blank">Johel Beltrán</a> and <a href="https://www.pucp.edu.pe/profesor/marcelo-velloso-flamarion-vasconcellos-" target="_blank">Marcelo Velloso Flamarion</a></em></p>
     <details>
       <summary>Summary | <a href="{{ '/files/slides/slides_ec26_final.pdf' | relative_url }}" target="_blank">Slides</a></summary>
       <p>
