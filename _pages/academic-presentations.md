@@ -41,6 +41,17 @@ permalink: /academic-presentation/
   <h2>Academic presentations</h2>
 
   <div class="presentation-item">
+    <p><strong>Innovation, Networks, and Power</strong></p>
+    <p><em>University of California, Berkeley (November 2026)</em></p>
+    <details>
+      <summary>Summary | <a href="{{ '/files/slides/innovation_networks_power.pdf' | relative_url }}" target="_blank">Slides</a></summary>
+      <p>
+        Presentation based on the working paper "Innovation and Isolation: Status Rents and Endogenous Networks". Groups choose how much to cooperate on innovation when cooperation also shifts the power that determines their claims on output, so the fear of losing rank can keep them apart. The talk builds the payoff from the reopening mechanism, states the greatest-equilibrium-network result and the limits of full integration, and connects the setting to "The Market and the Jungle" and to the geoeconomics literature. I thank Federico Echenique and Luan Borelli for their comments.
+      </p>
+    </details>
+  </div>
+
+  <div class="presentation-item">
     <p><strong>Tesis de Licenciatura: Matching and Optimal Transport</strong></p>
     <p><em>PUCP (2026). Thesis committee: <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes" target="_blank">Jorge Chávez</a>, <a href="https://www.pucp.edu.pe/profesor/johel-beltran-ramirez" target="_blank">Johel Beltrán</a> and <a href="https://www.pucp.edu.pe/profesor/marcelo-velloso-flamarion-vasconcellos-" target="_blank">Marcelo Velloso Flamarion</a></em></p>
     <details>
