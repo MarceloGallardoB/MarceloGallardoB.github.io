@@ -73,7 +73,7 @@ permalink: /research/
 * Innovation and Isolation: Status Rents and Endogenous Networks, 2026  
   [Marcelo Gallardo](https://marcelogallardob.github.io/).  
   <details>
-    <summary>Summary | Draft coming soon</summary>
+    <summary>Summary | <a href="{{ '/files/slides/innovation_networks_power.pdf' | relative_url }}" target="_blank">Slides</a> | Draft coming soon</summary>
     Groups decide how much to cooperate on innovation when cooperation also shifts the power that determines their claims on output. Under a benchmark rule for how power is redrawn there is a greatest equilibrium network, every active link runs at full strength, and a group that loses from innovation withdraws entirely, which can make links among the remaining groups unprofitable. Full integration survives only over a single interval of status exposure, and reimbursing interaction costs cannot buy the consent of a group whose expected consumption falls.
   </details>
 
