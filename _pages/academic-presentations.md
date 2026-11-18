@@ -42,7 +42,7 @@ permalink: /academic-presentation/
 
   <div class="presentation-item">
     <p><strong>Innovation, Networks, and Power</strong></p>
-    <p><em>University of California, Berkeley (November 2026)</em></p>
+    <p><em>For the <a href="https://berkeley-firstyearworkshop.github.io" target="_blank">Economics First-Year Workshop</a>, UC Berkeley (2026)</em></p>
     <details>
       <summary>Summary | <a href="{{ '/files/slides/innovation_networks_power.pdf' | relative_url }}" target="_blank">Slides</a></summary>
       <p>
